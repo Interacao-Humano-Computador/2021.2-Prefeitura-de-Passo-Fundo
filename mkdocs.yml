@@ -13,3 +13,5 @@ nav:
    - Avaliações Iniciais: avaliacoes.md
 theme:
   name: material
+
+extra_css: [extra.css]
