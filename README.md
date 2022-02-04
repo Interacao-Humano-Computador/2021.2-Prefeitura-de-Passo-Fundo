@@ -1,5 +1,6 @@
-# 2021.2-Grupo-02
-Esse é o repositório da equipe 2 de IHC.
+# 2021.2-Prefeitura-de-Passo-Fundo
+
+
 ---
 ## Equipe 
 
