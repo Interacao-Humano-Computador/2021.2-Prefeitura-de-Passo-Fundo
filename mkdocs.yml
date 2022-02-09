@@ -1,16 +1,22 @@
-site_name: IHC Grupo 2
-site_url: https://interacao-humano-computador.github.io/2021.2-Grupo-02/
+site_name: Prefeitura de Passo Fundo
+site_url: https://interacao-humano-computador.github.io/2021.2-Prefeitura-de-Passo-Fundo/
 
 # Repository
-repo_name: 2021.2-Grupo-02 
-repo_url: https://github.com/Interacao-Humano-Computador/2021.2-Grupo-02/
+repo_name: Prefeitura de Passo Fundo 
+repo_url: https://github.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo
 
 nav:
- - Home: index.md
- - Sobre: about.md
+ - Sobre: index.md
  - Planejamento:
-   - Cronograma: cronograma.md
-   - Avaliações Iniciais: avaliacoes.md
+   - Metodologia: Planejamento/Metodologia.md
+   - Cronograma: Planejamento/Cronograma.md
+   - Sites Avaliados: Planejamento/SitesAvaliados.md
+ - Processo de design:
+    - Usabilidade de Mayhew: ProcessoDesign/UsabilidadeMayhew.md
+ - Análise de requisitos: AnaliseRequisitos/arquivo.md
+ - Design, Avaliação e Desenvolvimento: DesignAvaliacaoDesenvolvimento/arquivo.md
+ - Apresentações:
+      - Apresentação 1: Apresentacoes/apresentacao1.md
 theme:
   name: material
 
