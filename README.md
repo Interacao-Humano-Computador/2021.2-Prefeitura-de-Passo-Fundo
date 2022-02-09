@@ -1,7 +1,7 @@
 # 2021.2-Prefeitura de Passo Fundo
 <div align="center">
 
-  <img src="https://github.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/blob/main/assets/logo-maior-passo-fundo.png" width="180" >
+  <img src="https://github.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/blob/main/assets/img/logo-maior-passo-fundo.png" width="180" >
   
 </div>
 
