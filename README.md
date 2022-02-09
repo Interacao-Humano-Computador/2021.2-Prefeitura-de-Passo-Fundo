@@ -8,7 +8,7 @@
 ## Sobre
    Este repositório é destinado ao projeto de avaliaçao de um site na disciplina Interação Humano-Computador da Universidade de Brasília.
    O site avaliado é o **[Prefeitura de Passo Fundo](http://www.pmpf.rs.gov.br/)**, município localizado no interior do estado do Rio Grande do Sul
----
+
 ## Equipe 
 
 | Nome            | GitHub      | E-mail       | 
