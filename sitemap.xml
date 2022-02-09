@@ -1,23 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://interacao-humano-computador.github.io/2021.2-Grupo-02/</loc>
-         <lastmod>2022-02-03</lastmod>
+         <loc>https://interacao-humano-computador.github.io/2021.2-Prefeitura-de-Passo-Fundo/</loc>
+         <lastmod>2022-02-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://interacao-humano-computador.github.io/2021.2-Grupo-02/about/</loc>
-         <lastmod>2022-02-03</lastmod>
+         <loc>https://interacao-humano-computador.github.io/2021.2-Prefeitura-de-Passo-Fundo/about/</loc>
+         <lastmod>2022-02-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://interacao-humano-computador.github.io/2021.2-Grupo-02/Planejamento/avaliacoes/</loc>
-         <lastmod>2022-02-03</lastmod>
+         <loc>https://interacao-humano-computador.github.io/2021.2-Prefeitura-de-Passo-Fundo/Apresentacoes/apresentacao1/</loc>
+         <lastmod>2022-02-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://interacao-humano-computador.github.io/2021.2-Grupo-02/Planejamento/cronograma/</loc>
-         <lastmod>2022-02-03</lastmod>
+         <loc>https://interacao-humano-computador.github.io/2021.2-Prefeitura-de-Passo-Fundo/Planejamento/Metodologia/</loc>
+         <lastmod>2022-02-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://interacao-humano-computador.github.io/2021.2-Prefeitura-de-Passo-Fundo/Planejamento/SitesAvaliados/</loc>
+         <lastmod>2022-02-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://interacao-humano-computador.github.io/2021.2-Prefeitura-de-Passo-Fundo/Planejamento/cronograma/</loc>
+         <lastmod>2022-02-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://interacao-humano-computador.github.io/2021.2-Prefeitura-de-Passo-Fundo/ProcessoDesign/UsabilidadeMayhew/</loc>
+         <lastmod>2022-02-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
