@@ -3,6 +3,7 @@
 | Data | Versão | Modificação | Autor(res) |
 | :- | :- | :- | :- |
 | 09/02/2022 | 0.1 | Criação do documento | [Kathlyn Lara Murussi](https://github.com/klmurussi) |
+| 10/02/2022 | 0.2 | Adição das referências usadas | [Kathlyn Lara Murussi](https://github.com/klmurussi) |
 
 # Como Contribuir
 Antes de fazer qualquer alteração no repositório, crie uma issue e se responsabilize por essa alteração. Atente-se a [política de branchs](#política-de-branches) e a [política de commits](#política-de-commits). 
@@ -20,7 +21,7 @@ Ao criar issues atente-se as seguintes questões:
 - Adicione as Labels adequadas
 - Adicione a milestone referente a sprint em que o problema será trabalhado
 - Utilize os templates de issue gerados automanticamente
-- Criar uma branch para resolver a issue
+- Se precisar modificar algo no repositório, criar uma branch para resolver a issue
 
 
 ## Política de Branches
@@ -83,7 +84,7 @@ git checkout -b doc#32/documento-de-visao
 ```
 
 #### Template
-Todos os documentos deverão seguir o seguinte modelo:
+Os documentos deverão seguir o seguinte modelo:
 
 ```
 # Histórico de versões
@@ -147,3 +148,7 @@ Guia de Contribuição. Disponível em: <https://github.com/fga-eps-mds/2021.1-A
 Políticas de Branches. Disponível em: <https://github.com/fga-eps-mds/2021.1-AlligaBot/blob/main/docs/_posts/2021-08-19-branches.md>. Acesso em: 09 de jan. de 2022
 
 Políticas de Commit. Disponível em: <https://github.com/fga-eps-mds/2021.1-AlligaBot/blob/main/docs/_posts/2021-08-18-commits.md>. Acesso em: 09 de jan. de 2022
+
+PORTO, Patrick - 4 branching workflows for Git. Disponível em: <https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf>. Acesso em: 10 de jan. de 2022
+
+GitHub Flow. Disponível em: <https://docs.github.com/en/get-started/quickstart/github-flow#following-github-flow>. Acesso em: 10 de jan. de 2022
