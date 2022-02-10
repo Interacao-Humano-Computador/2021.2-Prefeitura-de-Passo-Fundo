@@ -3,6 +3,7 @@
 | Data | Versão | Modificação | Autor |
 | :- | :- | :- | :- |
 | 09/02/2022 | 0.1 | Criação do documento | [Kathlyn Lara Murussi](https://github.com/klmurussi) |
+| 10/02/2022 | 0.2 | Correção das referências | [Kathlyn Lara Murussi](https://github.com/klmurussi) |
 
 # 1. Introdução
 
@@ -35,18 +36,4 @@ Em caso de desobediência do código de conduta, cabe a eles tomar ações corre
 comentários, commits, branches, issues, e outras contribuições que sejam consideradas inapropriados num ambiente profissional.
 
 ## Referências
-<!--
-Editar essa parte
-
-Este Código de Conduta é adaptado do [Contributor Covenant][homepage],
-versão 2.0, disponível em
-https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
-
-As Diretrizes de Impacto na Comunidade foram inspiradas pela [Aplicação do código de conduta Mozilla](https://github.com/mozilla/diversity).
-
-[homepage]: https://www.contributor-covenant.org
-
-Para obter respostas a perguntas comuns sobre este código de conduta, veja a página de Perguntas Frequentes (*FAQ*) em
-https://www.contributor-covenant.org/faq. Traduções estão disponíveis em
-https://www.contributor-covenant.org/translations.
--->
+EHMKE, Coraline Ada - Contributor Covenant Code of Conduct. Disponível em: <https://www.contributor-covenant.org/version/2/1/code_of_conduct/>. Acesso em 10/02/2022
