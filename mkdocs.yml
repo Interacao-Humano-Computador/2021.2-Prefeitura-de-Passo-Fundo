@@ -19,5 +19,9 @@ nav:
       - Apresentação 1: Apresentacoes/apresentacao1.md
 theme:
   name: material
+  palette:
+    primary: light green
+    accent: green
 
-extra_css: [extra.css]
+extra_css: 
+  - extra.css
