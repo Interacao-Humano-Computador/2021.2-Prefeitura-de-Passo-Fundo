@@ -3,6 +3,7 @@
 <p style="text-indent: 20px; text-align: justify">
 O processo de design tem como base as seguintes atividades: análise da situação atual (para identificar o problema), a sintese de uma determinada intervenção na situaçao analisada e a avaliação dessa intervenção construida ou já aplicada na situação atual. Cada tipo de processo de design possui atividades básicas detalhadas de forma particular e definem : o modo de execução de cada atividade; a ordem em que elas devem ser realizadas; quais que podem ser repetidas,e as razões para isso; e os artefatos que são utilizados e gerados em cada uma das atividades. 
 </p>
+
 <p style="text-indent: 20px; text-align: justify">
 
 Os processos de design de IHC possuem como característica básica a realização de atividades de maneira iterativa,o que permite um constante aprimoramento na análise da situação e na proposta de intervenção construida. Dessa maneira,é possível conhecer mais e melhor o problema e consequentemente a sua solução.
@@ -31,7 +32,8 @@ Utilizaremos o processo de Engenharia De Usabilidade de Mayhew, pois o processo 
   <img width="600px" src="../../assets/img/mayhew.PNG">
   <figcaption> Fonte: BARBOSA, Simone. SILVA Bruno. Interação Humano-Computador. Pág 120.
   </figcaption>
-
+  
+</p>
 
 <br>
 <br>
