@@ -127,7 +127,7 @@ Sempre dividir em pequenos e significativos commits, fazendo com que cada commit
 Comando de exemplo sobre como fazer um commit:
 
 ```git
-git commit -m #32/documento-de-visao
+git commit -m "#32/documento-de-visao"
 ```
 
 
