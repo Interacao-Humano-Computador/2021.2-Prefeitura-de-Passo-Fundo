@@ -80,4 +80,3 @@ Utilizaremos em nosso projeto o processo de Engenharia De Usabilidade de Mayhew,
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 10/02/2022 |Elaboração do documento de processo de design | Kayro César  |
-|  |  | | |
