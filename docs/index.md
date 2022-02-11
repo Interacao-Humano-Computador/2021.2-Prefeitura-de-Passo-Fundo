@@ -1,8 +1,19 @@
 # Prefeitura de Passo Fundo
 
-## Sobre
+Passo Fundo é uma cidade localizada no interior do estado do Rio Grande do Sul, conhecida como a capital nacional da literatura.
 
-Introduçao
+<div align="center">
+
+  <img src="https://github.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/blob/main/assets/img/logo-maior-passo-fundo.png" width="180" >
+  
+</div>
+
+## Sobre o Projeto
+
+Este repositório tem como objetivo documentar o projeto do grupo 2 da matéria de **Interação Humano Computador** da Universidade de Brasília, ministrada pelo professor **André Barros de Sales**.
+
+O material de estudo escolhido foi o site da [Prefeitura de Passo Fundo](http://www.pmpf.rs.gov.br/), no qual iremos utilizar as técnicas aprendidas ao longo do semestre e propor mudanças significativas para melhor usuabilidade de suas funcionalidades.
+
 ## Equipe
 
 <div class="container">
@@ -40,4 +51,5 @@ Introduçao
 		</div>
 	</div>
 </div>
+
 
