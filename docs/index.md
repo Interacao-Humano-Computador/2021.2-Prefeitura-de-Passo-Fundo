@@ -35,7 +35,7 @@ Introduçao
 		</div>
 		<div class="col-4">
             <figure class="figure">
-			    <a href="https://github.com/magnluiz"><img class="figure-img img-fluid img-thumbnail rounded-circle" src="https://avatars.githubusercontent.com/u/55704216?v=4"><figcaption class="figure-caption text-center"> Thalisson </figcaption></a>
+			    <a href="https://github.com/magnluiz"><img class="figure-img img-fluid img-thumbnail rounded-circle" src="https://avatars.githubusercontent.com/u/55704216?v=4"><figcaption class="figure-caption text-center"> Magno </figcaption></a>
             </figure>
 		</div>
 	</div>
