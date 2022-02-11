@@ -52,4 +52,12 @@ O material de estudo escolhido foi o site da [Prefeitura de Passo Fundo](http://
 	</div>
 </div>
 
+## Ferramentas
+
+| Ícone |  Ferramenta  |  Para que serve  | 
+| :-: | :-: | :-: |
+|<img src="./../assets/img/logo-github.jpg" width="200">| GitHub | Plataforma de hospedagem de documentos com controle de versão utilizando Git, através dela que resolvemos as issues |
+|<img src="./../assets/img/logo-whatsapp.jpg" width="200">| Whatsapp | Principal ferramenta de comunicação, onde discutimos sobre o projeto e a matéria |
+|<img src="./../assets/img/logo-trello.jpg" width="200">| Trello | Aplicativo de gerenciamento de projeto, onde decidimos o que é pra fazer, o que estamos fazendo e o que está concluído |
+|<img src="./../assets/img/logo-discord.jpg" width="200">| Discord | Aplicativo de voz, usamos para nos reunir e decidir o que fazer na próxima sprint |
 
