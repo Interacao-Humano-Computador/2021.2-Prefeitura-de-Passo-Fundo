@@ -46,28 +46,11 @@ O material de estudo escolhido foi o site da [Prefeitura de Passo Fundo](http://
 		</div>
 		<div class="col-4">
             <figure class="figure">
-			    <a href="https://github.com/magnluiz"><img class="figure-img img-fluid img-thumbnail rounded-circle" src="https://avatars.githubusercontent.com/u/55704216?v=4"><figcaption class="figure-caption text-center"> Thalisson </figcaption></a>
+			    <a href="https://github.com/magnluiz"><img class="figure-img img-fluid img-thumbnail rounded-circle" src="https://avatars.githubusercontent.com/u/55704216?v=4"><figcaption class="figure-caption text-center"> Magno Luiz </figcaption></a>
             </figure>
 		</div>
 	</div>
 </div>
-
-## Ferramentas
-
-| Ícone |  Ferramenta  |  Para que serve  | 
-| :-: | :-: | :-: |
-|<img src="./../assets/img/logo-github.jpg" width="200">| GitHub | Plataforma de hospedagem de documentos com controle de versão utilizando Git, através dela que resolvemos as issues |
-|<img src="./../assets/img/logo-whatsapp.jpg" width="200">| Whatsapp | Principal ferramenta de comunicação, onde discutimos sobre o projeto e a matéria |
-|<img src="./../assets/img/logo-trello.jpg" width="200">| Trello | Aplicativo de gerenciamento de projeto, onde decidimos o que é pra fazer, o que estamos fazendo e o que está concluído |
-|<img src="./../assets/img/logo-discord.jpg" width="200">| Discord | Aplicativo de voz, usamos para nos reunir e decidir o que fazer na próxima sprint |
-|<img src="./../assets/img/logo-teams.png" width="200">| Teams | Ferramenta utilizada para gravação de apresentações   |
-|<img src="./../assets/img/logo-mkdocs.png" width="200">| Mkdocs | Ferramenta utilizada para contruir a Wiki do projeto   |
-|<img src="./../assets/img/logo-vscode.png" width="200">| Visual Studio Code  | Ferramenta utilizada edição dos códigos do projeto|
-|<img src="./../assets/img/logo-sheets.png" width="200">| Google Sheets | Ferramenta utilizada para elaborar planilhas   |
-|<img src="./../assets/img/logo-figma.png" width="200">| Figma | Ferramenta utilizada para contruir interfaces de interação com usuário   |
-|<img src="/assets/img/logo-invision.png" width="200">| InVision | Ferramenta utilizada elaborar protótipos   |
-
-<figcaption>Tabela 1- Ferramentas utilizadas.</figcaption>
 
 ## Versionamento
 
@@ -75,4 +58,5 @@ O material de estudo escolhido foi o site da [Prefeitura de Passo Fundo](http://
  | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: |
  | 10/02/2022 |    1.0     | Criação da lista de ferramentas             |         Kathlyn Lara        |
  | 11/02/2022 |    1.1     | Acréscimo de mais ferramentas            |         Kayro César       |
+ | 12/02/2022 |    1.2     | Retirada da lista de ferramentas pra colocar no documento de metodologia |    Kathlyn Lara    |
  
