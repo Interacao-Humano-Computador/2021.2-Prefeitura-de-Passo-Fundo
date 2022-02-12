@@ -4,7 +4,7 @@ Passo Fundo é uma cidade localizada no interior do estado do Rio Grande do Sul,
 
 <div align="center">
 
-  <img src="https://github.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/blob/main/assets/img/logo-maior-passo-fundo.png" width="180" >
+  <img src="https://github.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/blob/main/docs/assets/img/logo-maior-passo-fundo.png" width="180" >
   
 </div>
 
