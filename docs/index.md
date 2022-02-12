@@ -56,7 +56,7 @@ O material de estudo escolhido foi o site da [Prefeitura de Passo Fundo](http://
 
  | **Data**   | **Versão** | **Descrição**                            |                **Autor(es)**                 |
  | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: |
- | 10/02/2022 |    1.0     | Criação da lista de ferramentas             |         Kathlyn Lara        |
- | 11/02/2022 |    1.1     | Acréscimo de mais ferramentas            |         Kayro César       |
- | 12/02/2022 |    1.2     | Retirada da lista de ferramentas pra colocar no documento de metodologia |    Kathlyn Lara    |
- | 12/02/2022 |    1.3     | Alteração do link da imagem da logo |    Lorenzo Santos    |
+ | 10/02/2022 |    1.0     | Criação da lista de ferramentas             |         [Kathlyn Lara](github.com/klmurussi)       |
+ | 11/02/2022 |    1.1     | Acréscimo de mais ferramentas            |         [Kayro César](github.com/kayrocesar)      |
+ | 12/02/2022 |    1.2     | Retirada da lista de ferramentas pra colocar no documento de metodologia |    [Kathlyn Lara](github.com/klmurussi)   |
+ | 12/02/2022 |    1.3     | Alteração do link da imagem da logo |    [Lorenzo Santos](github.com/lorenzo7377)    |
