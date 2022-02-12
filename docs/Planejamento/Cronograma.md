@@ -1,6 +1,6 @@
 ## 1. Introdução
 
-O documento versa sobre o cronograma para o nosso grupo, considerandoas entregas e os prováveis responsáveis pelas tarefas. É válido lembras que esse cronograma poderá ser alterado durante o projeto pois artefatos podem ser evoluídos e modificados e novos contextos podem surgir.
+O documento versa sobre o cronograma para o nosso grupo, considerando as entregas e os prováveis responsáveis pelas tarefas. É válido lembrar que esse cronograma poderá ser alterado durante o projeto, pois artefatos podem ser evoluídos e modificados e novos contextos podem surgir.
 
 ## 2. Cronograma
 
