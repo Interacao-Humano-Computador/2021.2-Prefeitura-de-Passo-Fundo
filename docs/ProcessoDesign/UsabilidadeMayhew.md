@@ -30,7 +30,7 @@ Utilizaremos em nosso projeto o processo de Engenharia De Usabilidade de Mayhew,
   
   <figcaption>Figura 1 - Ciclo de vida de Mayhew</figcaption>
 
-   ![imagem](/2021.2-Prefeitura-de-Passo-Fundo/assets/img/mayhew.PNG)
+   ![imagem](/assets/img/mayhew.PNG)
 
   <figcaption> Fonte: BARBOSA,SILVA (p.120) </figcaption>
   
@@ -80,3 +80,4 @@ Utilizaremos em nosso projeto o processo de Engenharia De Usabilidade de Mayhew,
 | Versão | Data | Modificação | Autor(es) |
 |--|--|--|--|
 | 1.0 | 10/02/2022 |Elaboração do documento de processo de design | Kayro César e Lorenzo Santos |
+| 2.0 | 12/02/2022 |Correção da imagem | Lorenzo Santos |
