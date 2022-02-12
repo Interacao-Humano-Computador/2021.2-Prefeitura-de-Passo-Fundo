@@ -18,6 +18,8 @@ nav:
  - Apresentações:
       - Apresentação 1: Apresentacoes/apresentacao1.md
 theme:
+  logo: https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/logo-passo-fundo.png
+  favicon: https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/logo-passo-fundo.png
   name: material
   palette:
     primary: light green

@@ -12,27 +12,27 @@ Na sprint, para cada atividade colocaremos os responsáveis pelas issues e seus 
 
 ## 3. Visão Geral
 <figure>
-    <img src="https://github.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/blob/doc%2312/estabelecer-cronograma/docs/assets/img/crono_geral1.png"/>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/crono_geral1.png"/>
     <figcaption> Figura 1: Primeiras entregas: Etapa 1 e perfil do usuário</figcaption>
 </figure>
 
 <figure>
-    <img src="https://github.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/blob/doc%2312/estabelecer-cronograma/docs/assets/img/crono_geral2.png"/>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/crono_geral2.png"/>
     <figcaption> Figura 2: Análise de requisitos</figcaption>
 </figure>
 
 <figure>
-    <img src="https://github.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/blob/doc%2312/estabelecer-cronograma/docs/assets/img/crono_geral3.png"/>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/crono_geral3.png"/>
     <figcaption> Figura 3: Storyboard e Protótipo de Papel</figcaption>
 </figure>
 
 <figure>
-    <img src="https://github.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/blob/doc%2312/estabelecer-cronograma/docs/assets/img/crono_geral4.png"/>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/crono_geral4.png"/>
     <figcaption> Figura 4: Protótipo de Papel e de Alta Fidelidade / Verificação dos artefatos</figcaption>
 </figure>
 
 <figure>
-    <img src="https://github.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/blob/doc%2312/estabelecer-cronograma/docs/assets/img/crono_geral5.png"/>
+    <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/crono_geral5.png"/>
     <figcaption> Figura 5: Fim do Projeto e Apresentação final</figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ Na sprint, para cada atividade colocaremos os responsáveis pelas issues e seus 
 <div class="row"> 
     <div class="col-4">
         <div class="card">
-            <img class="card-img-top" src="https://github.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/blob/doc%2312/estabelecer-cronograma/docs/assets/img/crono_det1.png">
+            <img class="card-img-top" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/crono_det1.png">
             <div class="card-body"> 
                 <p class="card-text">Figura 6: Etapa 1</p>
             </div>
@@ -49,7 +49,7 @@ Na sprint, para cada atividade colocaremos os responsáveis pelas issues e seus 
     </div>
     <div class="col-4">
         <div class="card">
-            <img class="card-img-top" src="https://github.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/blob/doc%2312/estabelecer-cronograma/docs/assets/img/crono_det2.png">
+            <img class="card-img-top" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/crono_det2.png">
             <div class="card-body"> 
                 <p class="card-text">Figura 7: Etapa 2</p>
             </div>
@@ -57,7 +57,7 @@ Na sprint, para cada atividade colocaremos os responsáveis pelas issues e seus 
     </div>
     <div class="col-4">
         <div class="card">
-            <img class="card-img-top" src="https://github.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/blob/doc%2312/estabelecer-cronograma/docs/assets/img/crono_det3.png">
+            <img class="card-img-top" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/crono_det3.png">
             <div class="card-body"> 
                 <p class="card-text">Figura 8: Etapa 3</p>
             </div>
@@ -68,7 +68,7 @@ Na sprint, para cada atividade colocaremos os responsáveis pelas issues e seus 
 <div class="row"> 
     <div class="col-4">
         <div class="card">
-            <img class="card-img-top" src="https://github.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/blob/doc%2312/estabelecer-cronograma/docs/assets/img/crono_det4.png">
+            <img class="card-img-top" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/crono_det4.png">
             <div class="card-body"> 
                 <p class="card-text">Figura 9: Etapa 4</p>
             </div>
@@ -76,7 +76,7 @@ Na sprint, para cada atividade colocaremos os responsáveis pelas issues e seus 
     </div>
     <div class="col-4">
         <div class="card">
-            <img class="card-img-top" src="https://github.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/blob/doc%2312/estabelecer-cronograma/docs/assets/img/crono_det5.png">
+            <img class="card-img-top" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/crono_det5.png">
             <div class="card-body"> 
                 <p class="card-text">Figura 10: Etapa 5</p>
             </div>
@@ -84,7 +84,7 @@ Na sprint, para cada atividade colocaremos os responsáveis pelas issues e seus 
     </div>
     <div class="col-4">
         <div class="card">
-            <img class="card-img-top"src="https://github.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/blob/doc%2312/estabelecer-cronograma/docs/assets/img/crono_det6.png">
+            <img class="card-img-top"src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/crono_det6.png">
             <div class="card-body"> 
                 <p class="card-text">Figura 11: Etapa 6</p>
             </div>
@@ -96,7 +96,7 @@ Na sprint, para cada atividade colocaremos os responsáveis pelas issues e seus 
 
 
 # Histórico de versões
-|     Data     | Versão |     Modificação     | Autor(es)  |    Revisores   |
-|      :--:    | :----: |     :-------:       | :-------:  | :-------:  |
-|   10/02/2022 |   1.0  |  Criação da Tabela  |[Adrian](github.com/SwampTG)|[]()|
-|   12/02/2022 |   1.1  |Correção das imagens |[Adrian](github.com/SwampTG)|[]()|
+|     Data     | Versão |     Modificação     | Autor(es)    |
+|      :--:    | :----: |     :-------:       | :-------:   |
+|   10/02/2022 |   1.0  |  Criação da Tabela  |[Adrian Soares](github.com/SwampTG)|
+|   12/02/2022 |   1.1  |Correção das imagens |[Adrian Soares](github.com/SwampTG)|
