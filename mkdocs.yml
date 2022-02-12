@@ -19,6 +19,9 @@ nav:
       - Apresentação 1: Apresentacoes/apresentacao1.md
 theme:
   name: material
-  logo: assets/img/logo-passo-fundo.png
-  favicon: assets/img/logo-passo-fundo.png
-extra_css: [extra.css]
+  palette:
+    primary: light green
+    accent: green
+
+extra_css: 
+  - extra.css
