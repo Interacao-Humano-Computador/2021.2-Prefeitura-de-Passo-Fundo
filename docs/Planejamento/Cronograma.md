@@ -96,7 +96,7 @@ Na sprint, para cada atividade colocaremos os responsáveis pelas issues e seus 
 
 
 # Histórico de versões
-|     Data     | Versão |     Modificação     | Autor(es)  |    Revisores   |
-|      :--:    | :----: |     :-------:       | :-------:  | :-------:  |
-|   10/02/2022 |   1.0  |  Criação da Tabela  |[Adrian](github.com/SwampTG)|[]()|
-|   12/02/2022 |   1.1  |Correção das imagens |[Adrian](github.com/SwampTG)|[]()|
+|     Data     | Versão |     Modificação     | Autor(es)    |
+|      :--:    | :----: |     :-------:       | :-------:   |
+|   10/02/2022 |   1.0  |  Criação da Tabela  |[Adrian Soares](github.com/SwampTG)|
+|   12/02/2022 |   1.1  |Correção das imagens |[Adrian Soares](github.com/SwampTG)|

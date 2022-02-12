@@ -1,8 +1,4 @@
-# Histórico de versões
-|     Data     | Versão |     Modificação   | Autor(es)  |    Revisores   |
-|      :--:    | :----: |     :-------:     | :-------:  | :-------:  |
-|   10/02/2022 |   1.0  | Criação do Doc Metodologia|[Adrian](github.com/SwampTG)|[]()|
-|   12/02/2022 |   1.1  | Adição da lista de ferramentas | [Kathlyn Lara](github.com/klmurussi) | []() |
+
 
 # Metodologia
 
@@ -40,3 +36,10 @@ Utilizaremos Kanban por meio do software Trello, organizando cards e zonas. Com 
 |<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/logo-invision.png" width="200">| InVision | Ferramenta utilizada elaborar protótipos   |
 
 <figcaption>Tabela 1- Ferramentas utilizadas.</figcaption>
+
+# Histórico de versões
+|     Data     | Versão |     Modificação   | Autor(es)  
+|      :--:    | :----: |     :-------:     | :-------:  
+|   10/02/2022 |   1.0  | Criação do Doc Metodologia|[Adrian Soares](github.com/SwampTG) |
+|   12/02/2022 |   1.1  | Adição da lista de ferramentas | [Kathlyn Lara](github.com/klmurussi) |
+|   12/02/2022 |   1.2  | Correção do link das imagens | [Magno Luiz](github.com/magnluiz) |
