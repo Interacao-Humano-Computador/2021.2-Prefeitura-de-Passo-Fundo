@@ -20,28 +20,28 @@ O material de estudo escolhido foi o site da [Prefeitura de Passo Fundo](http://
 	<div class="row">
         <div class="col-4">
             <figure class="figure">
-                <a href="https://github.com/kayrocesar"><img class="figure-img img-fluid img-thumbnail rounded-circle" src="https://avatars.githubusercontent.com/u/39713656?v=4"><figcaption class="figure-caption text-center"> Kayro </figcaption></a>
+                <a href="https://github.com/kayrocesar"><img class="figure-img img-fluid img-thumbnail rounded-circle" src="https://avatars.githubusercontent.com/u/39713656?v=4"><figcaption class="figure-caption text-center"> Kayro César</figcaption></a>
             </figure>
 		</div>
 		<div class="col-4">
             <figure class="figure">
                 <a href="https://github.com/klmurussi">
                     <img class="figure-img img-fluid img-thumbnail rounded-circle" src="https://avatars.githubusercontent.com/u/52364259?v=4">
-                    <figcaption class="figure-caption text-center"> Kathlyn </figcaption>
+                    <figcaption class="figure-caption text-center"> Kathlyn Lara </figcaption>
                 </a>
             </figure>
 		</div>
 		<div class="col-4">
             <figure class="figure">
 			    <a href="https://github.com/SwampTG"><img class="figure-img img-fluid img-thumbnail rounded-circle" src="https://avatars.githubusercontent.com/u/66492055?v=4">
-                <figcaption class="figure-caption text-center"> Adrian <figcaption></a>
+                <figcaption class="figure-caption text-center"> Adrian Soares <figcaption></a>
             </figure>
 		</div>
 	</div>
 	<div class="row justify-content-center">
 		<div class="col-4">
             <figure class="figure">
-			    <a href="https://github.com/lorenzo7377"><img src="https://avatars.githubusercontent.com/u/54644579?v=4" class="figure-img img-fluid img-thumbnail rounded-circle"><figcaption class="figure-caption text-center"> Lorenzo </figcaption></a>
+			    <a href="https://github.com/lorenzo7377"><img src="https://avatars.githubusercontent.com/u/54644579?v=4" class="figure-img img-fluid img-thumbnail rounded-circle"><figcaption class="figure-caption text-center"> Lorenzo Santos  </figcaption></a>
             </figure>
 		</div>
 		<div class="col-4">
@@ -52,11 +52,10 @@ O material de estudo escolhido foi o site da [Prefeitura de Passo Fundo](http://
 	</div>
 </div>
 
-## Versionamento
+## Histórico de versões
 
  | **Data**   | **Versão** | **Descrição**                            |                **Autor(es)**                 |
  | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: |
- | 10/02/2022 |    1.0     | Criação da lista de ferramentas             |         [Kathlyn Lara](github.com/klmurussi)       |
- | 11/02/2022 |    1.1     | Acréscimo de mais ferramentas            |         [Kayro César](github.com/kayrocesar)      |
- | 12/02/2022 |    1.2     | Retirada da lista de ferramentas pra colocar no documento de metodologia |    [Kathlyn Lara](github.com/klmurussi)   |
- | 12/02/2022 |    1.3     | Alteração do link da imagem da logo |    [Lorenzo Santos](github.com/lorenzo7377)    |
+ | 10/02/2022 |    1.0     | Criação da página            |         [Adrian Soares](github.com/SwampTG)       |
+ | 11/02/2022 |    1.1     | Criação do texto da página|    [Kathlyn Lara](github.com/klmurussi)   |
+ | 12/02/2022 |    1.2     | Alteração do link da imagem da logo |    [Lorenzo Santos](github.com/lorenzo7377)    |

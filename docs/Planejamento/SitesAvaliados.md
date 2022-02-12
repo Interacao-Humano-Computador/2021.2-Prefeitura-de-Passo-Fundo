@@ -16,7 +16,7 @@
 
 <figcaption>Tabela 1 - Sites analisados </figcaption> 
 
-### Versionamento
+### Histórico de versões
 
  | **Data**   | **Versão** | **Descrição**                            |                **Autor(es)**                 |
  | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: |

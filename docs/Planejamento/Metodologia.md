@@ -37,9 +37,18 @@ Utilizaremos Kanban por meio do software Trello, organizando cards e zonas. Com 
 
 <figcaption>Tabela 1- Ferramentas utilizadas.</figcaption>
 
-# Histórico de versões
-|     Data     | Versão |     Modificação   | Autor(es)  
-|      :--:    | :----: |     :-------:     | :-------:  
-|   10/02/2022 |   1.0  | Criação do Doc Metodologia|[Adrian Soares](github.com/SwampTG) |
-|   12/02/2022 |   1.1  | Adição da lista de ferramentas | [Kathlyn Lara](github.com/klmurussi) |
-|   12/02/2022 |   1.2  | Correção do link das imagens | [Magno Luiz](github.com/magnluiz) |
+## Histórico de versões
+
+ | **Data**   | **Versão** | **Descrição**                            |                **Autor(es)**                 |
+ | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: |
+ |   10/02/2022 |   1.0  | Criação do Doc Metodologia|[Adrian Soares](github.com/SwampTG) |
+ | 10/02/2022 |    1.1     | Criação da lista de ferramentas             |         [Kathlyn Lara](github.com/klmurussi)       |
+ | 11/02/2022 |    1.2     | Acréscimo de mais ferramentas            |         [Kayro César](github.com/kayrocesar)      |
+ | 12/02/2022 |    1.3     | Retirada da lista de ferramentas pra colocar no documento de metodologia |    [Kathlyn Lara](github.com/klmurussi)   |
+ |   12/02/2022 |   1.4  | Adição da lista de ferramentas | [Kathlyn Lara](github.com/klmurussi) |
+|   12/02/2022 |   1.5  | Correção do link das imagens | [Magno Luiz](github.com/magnluiz) |
+ | 12/02/2022 |    1.6     | Alteração do link da imagem da logo |    [Lorenzo Santos](github.com/lorenzo7377)    |
+
+
+
+
