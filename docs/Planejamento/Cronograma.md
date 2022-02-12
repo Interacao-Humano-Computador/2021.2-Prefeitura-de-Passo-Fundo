@@ -1,8 +1,3 @@
-# Histórico de versões
-|     Data     | Versão |     Modificação   | Autor(es)  |    Revisores   |
-|      :--:    | :----: |     :-------:     | :-------:  | :-------:  |
-|   10/02/2022 |   1.0  | Criação da Tabela |[Adrian](github.com/SwampTG)|[]()|
-
 ## 1. Introdução
 
 O documento versa sobre o cronograma para o nosso grupo, considerandoas entregas e os prováveis responsáveis pelas tarefas. É válido lembras que esse cronograma poderá ser alterado durante o projeto pois artefatos podem ser evoluídos e modificados e novos contextos podem surgir.
@@ -98,3 +93,10 @@ Na sprint, para cada atividade colocaremos os responsáveis pelas issues e seus 
 </div>
 
 >Nós utilizaremos as issues do GitHub para atribuir tasks para cada um e os prazos de entrega de cada task
+
+
+# Histórico de versões
+|     Data     | Versão |     Modificação     | Autor(es)  |    Revisores   |
+|      :--:    | :----: |     :-------:       | :-------:  | :-------:  |
+|   10/02/2022 |   1.0  |  Criação da Tabela  |[Adrian](github.com/SwampTG)|[]()|
+|   12/02/2022 |   1.1  |Correção das imagens |[Adrian](github.com/SwampTG)|[]()|
