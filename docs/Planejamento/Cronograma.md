@@ -6,9 +6,9 @@ O documento versa sobre o cronograma para o nosso grupo, considerando as entrega
 
 Na sprint, para cada atividade colocaremos os responsáveis pelas issues e seus respectivos revisores.
 
-**Clique [aqui](https://sharing.clickup.com/tl/h/6-168993937-16/759abf0db6a9492) para ver o quadro interativo**
+<!-- **Clique [aqui](https://sharing.clickup.com/tl/h/6-168993937-16/759abf0db6a9492) para ver o quadro interativo**
 
->Ao clicar em uma das entradas do calendário, podemos visualizar os detalhes de entrega e os prazos.
+>Ao clicar em uma das entradas do calendário, podemos visualizar os detalhes de entrega e os prazos. -->
 
 ## 3. Visão Geral
 <figure>
