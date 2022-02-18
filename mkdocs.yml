@@ -17,6 +17,9 @@ nav:
  - Design, Avaliação e Desenvolvimento: DesignAvaliacaoDesenvolvimento/arquivo.md
  - Apresentações:
       - Apresentação 1: Apresentacoes/apresentacao1.md
+ - Atas:
+     - Ata 1: Atas/ata1.md
+     - Ata 2: Atas/ata2.md
 theme:
   language: pt
   logo: https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/logo-passo-fundo.png
