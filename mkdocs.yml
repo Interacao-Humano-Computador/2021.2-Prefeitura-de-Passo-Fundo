@@ -11,8 +11,8 @@ nav:
    - Metodologia: Planejamento/Metodologia.md
    - Cronograma: Planejamento/Cronograma.md
    - Sites Avaliados: Planejamento/SitesAvaliados.md
- - Processo de design:
-    - Usabilidade de Mayhew: ProcessoDesign/UsabilidadeMayhew.md
+   - Processo de design:
+     - Usabilidade de Mayhew: Planejamento/UsabilidadeMayhew.md
  - Análise de Requisitos:
    - Análise de Tarefas: 
        - Análise Hierárquica de Tarefas: AnaliseRequisitos/AnaliseTarefas/hta.md
