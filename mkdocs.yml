@@ -13,7 +13,12 @@ nav:
    - Sites Avaliados: Planejamento/SitesAvaliados.md
  - Processo de design:
     - Usabilidade de Mayhew: ProcessoDesign/UsabilidadeMayhew.md
- - Análise de requisitos: AnaliseRequisitos/arquivo.md
+ - Análise de Requisitos:
+   - Análise de Tarefas: 
+       - Análise Hierárquica de Tarefas: AnaliseRequisitos/AnaliseTarefas/hta.md
+       - GOMS: AnaliseRequisitos/AnaliseTarefas/goms.md 
+   - Perfil do usuário:
+        - Personas: AnaliseRequisitos/PerfilUsuario/personas.md 
  - Design, Avaliação e Desenvolvimento: DesignAvaliacaoDesenvolvimento/arquivo.md
  - Apresentações:
       - Apresentação 1: Apresentacoes/apresentacao1.md
