@@ -119,8 +119,8 @@ O CMN-GOMS é um dos modelos da família GOMS e está relacionado a proposta ori
             - <span style=" color:#8bc34b">OP 3.11:</span> Preencher o campo  "CEP"
             - <span style=" color:#8bc34b">OP 3.12:</span> Preencher o campo  "Complemento"
             - <span style=" color:#8bc34b">OP 3.13:</span> Anexar foto ou documento
-            - <span style=" color:#8bc34b">OP 3.14:</span> Deslocar o mouse até o botão "Salvar";
-            - <span style=" color:#8bc34b">OP 3.15:</span> Apertar com botão esquerdo do mouse em "Consultar"
+            - <span style=" color:#8bc34b">OP 3.14:</span> Deslocar o mouse até o botão "Salvar"
+            - <span style=" color:#8bc34b">OP 3.15:</span> Apertar com botão esquerdo do mouse em "Salvar"
 
 ## Referências bibliográficas
 
