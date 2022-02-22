@@ -20,9 +20,9 @@ O CMN-GOMS é um dos modelos da família GOMS e está relacionado a proposta ori
 </p>
 
 
-## 4. Objetivos
+## 3. Objetivos
 
-- <b> 4.1  Entrar em contato com a Prefeitura de Passo Fundo </b>
+- <b> 3.1  Entrar em contato com a Prefeitura de Passo Fundo </b>
 
     - <span > <b>GOAL 0:</b></span> Acessar o site da Prefeitura
 
@@ -44,7 +44,7 @@ O CMN-GOMS é um dos modelos da família GOMS e está relacionado a proposta ori
             - <span style=" color:#8bc34b">OP 2.8:</span> Apertar com o botão esquerdo do o mouse 
 
 
-- <b> 4.2  Imprimir guia de IPTU </b>
+- <b> 3.2  Imprimir guia de IPTU </b>
 
     - <span> <b>GOAL 0:</b> </span> Acessar o site da Prefeitura
 
@@ -67,7 +67,7 @@ O CMN-GOMS é um dos modelos da família GOMS e está relacionado a proposta ori
             - <span style=" color:#8bc34b">OP 3.3:</span>  Deslocar o mouse até o botão "Consultar";
             - <span style=" color:#8bc34b">OP 3.4:</span> Apertar com botão esquerdo do mouse em "Consultar"
 
-- <b> 4.3  Acessar Contracheque </b>
+- <b> 3.3  Acessar Contracheque </b>
 
     - <span> <b>GOAL 0:</b> </span> Acessar o site da Prefeitura
 
@@ -91,7 +91,7 @@ O CMN-GOMS é um dos modelos da família GOMS e está relacionado a proposta ori
                
     
 
-- <b> 4.4 Solicitar ou acompanhar serviços de iluminação pública </b>
+- <b> 3.4 Solicitar ou acompanhar serviços de iluminação pública </b>
      - <span> <b>GOAL 0:</b> </span> Acessar o site da Prefeitura
           - <span ><b>GOAL 1:</b></span> Acessar a seção de "Destaques"
 
