@@ -137,7 +137,64 @@ O CMN-GOMS é um dos modelos da família GOMS e está relacionado a proposta ori
             - <span style=" color:#8bc34b">OP 2.7:</span> Preencher o campo “Telefone”
             - <span style=" color:#8bc34b">OP 2.8:</span> Deslocar o mouse até o botão “Salvar”
             - <span style=" color:#8bc34b">OP 2.9:</span> Apertar com o botão esquerdo do mouse
-            
+- <b>3.6 Ferramenta obra fácil </b>
+    - <span><b>GOAL 0:</b></span> Acessar o site da Prefeitura
+        - <span><b>GOAL 1:</b></span> Acessar a seção "Prefeitura"
+            - <span style=" color:#8bc34b">OP 1.1:</span> Deslocar o mouse até a seção "Obras"
+            - <span style=" color:#8bc34b">OP 1.2:</span> 
+            Apertar com botão esquerdo do mouse
+        - <span><b>GOAL 2:</b></span> Acessar a seção "Obra fácil"
+            - <span style=" color:#8bc34b">OP 1.1:</span> Deslocar o mouse até a seção "Obra fácil" 
+            - <span style=" color:#8bc34b">OP 1.2:</span> 
+            Apertar com botão esquerdo do mouse
+            - <span style=" color:#8bc34b">OP 1.3:</span> 
+            Deslocar o mouse até "clique aqui"
+            - <span style=" color:#8bc34b">OP 1.4:</span> Apertar com botão esquerdo do mouse
+        - <span><b>GOAL 3:</b></span> Preencher informações da ferramenta "Obra fácil"
+            - <span style=" color:#8bc34b">OP 3.1:</span> Selecionar tipo de pessoa 
+            - <span style=" color:#8bc34b">OP 3.2:</span>
+            Preencher o campo "CPF"
+            - <span style=" color:#8bc34b">OP 3.3:</span>
+            Preencher o campo "Nome"
+            - <span style=" color:#8bc34b">OP 3.4:</span>
+            Preencher o campo "Data de nascimento"
+            - <span style=" color:#8bc34b">OP 3.5:</span>
+            Preencher o campo "Nome da Mãe"
+            - <span style=" color:#8bc34b">OP 3.6:</span>
+            Preencher o campo  "Identidade"
+            - <span style=" color:#8bc34b">OP 3.7:</span>
+            Preencher o campo  "Orgão emissor"
+            - <span style=" color:#8bc34b">OP 3.8:</span>
+            Selecionar o país  
+            - <span style=" color:#8bc34b">OP 3.9:</span>
+            Selecionar o estado  
+            - <span style=" color:#8bc34b">OP 3.10:</span>
+            Selecionar o endereço
+            - <span style=" color:#8bc34b">OP 3.11:</span>
+            Selecionar o bairro
+            - <span style=" color:#8bc34b">OP 3.12:</span>
+            Selecionar a cidade
+            - <span style=" color:#8bc34b">OP 3.13:</span>
+            Preencher o campo "CEP"
+            - <span style=" color:#8bc34b">OP 3.14:</span>
+            Preencher o campo "e-Mail"
+            - <span style=" color:#8bc34b">OP 3.15:</span>
+            Preencher o campo "Telefone"
+            - <span style=" color:#8bc34b">OP 3.16:</span>
+            Preencher o campo "Número"
+            - <span style=" color:#8bc34b">OP 3.17:</span>
+            Preencher o campo "Complemento"
+            - <span style=" color:#8bc34b">OP 3.18:</span>
+            Deslocar o mouse até o botão "Salvar"
+            - <span style=" color:#8bc34b">OP 3.19:</span>
+            Apertar com botão esquerdo do mouse em "Salvar"
+            - <span style=" color:#8bc34b">OP 3.20:</span>
+            Deslocar o mouse até o botão "Anexar Novo Documento"
+            - <span style=" color:#8bc34b">OP 3.21:</span>
+            Apertar com botão esquerdo do mouse em "Anexar Novo Documento"
+        
+
+        
 
 ## Referências bibliográficas
 
