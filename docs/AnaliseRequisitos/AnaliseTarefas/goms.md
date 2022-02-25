@@ -148,3 +148,4 @@ O CMN-GOMS é um dos modelos da família GOMS e está relacionado a proposta ori
  | **Data**   | **Versão** | **Descrição**                            |                **Autor(es)**                 |
  | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: |
  | 22/02/2022 |    1.0     | Criação do documento GOMS           |        [Kayro César](https://github.com/kayrocesar)         |
+ | 25/02/2022 |    1.1     | Tópicos GOMS atualizados            |        [Magno Luiz](https://github.com/magnluiz)            |
