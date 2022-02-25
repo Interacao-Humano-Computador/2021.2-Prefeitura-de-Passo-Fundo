@@ -122,6 +122,23 @@ O CMN-GOMS é um dos modelos da família GOMS e está relacionado a proposta ori
             - <span style=" color:#8bc34b">OP 3.14:</span> Deslocar o mouse até o botão "Salvar"
             - <span style=" color:#8bc34b">OP 3.15:</span> Apertar com botão esquerdo do mouse em "Salvar"
 
+- <b> 3.5 Serviço de ouvidoria </b>
+    - <span><b>GOAL 0:</b></span> Acessar o site da Prefeitura
+        - <span><b>GOAL 1:</b></span> Acessar a seção de “Ouvidoria” 
+            - <span style=" color:#8bc34b">OP 1.1:</span> Deslocar o botão de scroll do mouse para baixo até chegar na seção “Em destaque”.
+            - <span style=" color:#8bc34b">OP 1.2:</span> Apertar com botão esquerdo do mouse na opção "Ouvidoria"                           
+        - <span><b>GOAL 2:</b></span> Preencher informações do serviço de Ouvidoria
+            - <span style=" color:#8bc34b">OP 2.1:</span> Preencher o campo “Grupo”
+            - <span style=" color:#8bc34b">OP 2.2:</span> Preencher o campo “Assunto”
+            - <span style=" color:#8bc34b">OP 2.3:</span> Preencher o campo “Síntese”
+            - <span style=" color:#8bc34b">OP 2.4:</span> Preencher o campo “Solicitante”
+            - <span style=" color:#8bc34b">OP 2.5:</span> Preencher o campo “Email”
+            - <span style=" color:#8bc34b">OP 2.6:</span> Preencher o campo “CPF”
+            - <span style=" color:#8bc34b">OP 2.7:</span> Preencher o campo “Telefone”
+            - <span style=" color:#8bc34b">OP 2.8:</span> Deslocar o mouse até o botão “Salvar”
+            - <span style=" color:#8bc34b">OP 2.9:</span> Apertar com o botão esquerdo do mouse
+            
+
 ## Referências bibliográficas
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
@@ -131,4 +148,3 @@ O CMN-GOMS é um dos modelos da família GOMS e está relacionado a proposta ori
  | **Data**   | **Versão** | **Descrição**                            |                **Autor(es)**                 |
  | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: |
  | 22/02/2022 |    1.0     | Criação do documento GOMS           |        [Kayro César](https://github.com/kayrocesar)         |
- 
