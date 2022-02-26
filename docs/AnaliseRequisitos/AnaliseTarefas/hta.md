@@ -1,7 +1,8 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-
+A Análise Hierárquica de Tarefas, ou Hierarchial Task Analysis (HTA), surgiu no século XX, na década de 60, tendo como intuito, entender as habilidades e competências exigidas numa tarefa complexa.
+Ela ajuda a identificar problemas de desempenho numa empresa ou num projeto, assim como no bem estar e saúde dos trabalhadores. Usando de psicologia funcional, e não comportamental, ela ajuda a relacionar o que as pessoas fazem (ou recomenda-se que façam), por que o fazem, e quais as consequências caso não o façam corretamente (Barbosa e Silva, 2010). 
 </p>
 
 ## 2. Metodologia
@@ -25,7 +26,8 @@
 
 ## Referências bibliográficas
 
-> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2010) Interação Humano-Computador e Experiência do usuário. Autopublicação.
+> Menezes, R. C. D; Pereira, A. S.; Franz, L. A . S. (2015) Aplicação da Análise Hierárquica da Tarefa e Estudo de Demandas Ergonômicas em uma Empresa de Doces. Disponível em: http://abepro.org.br/biblioteca/TN_STP_209_238_27365.pdf. Acesso em 26 fev. 2022.
 
 ### Histórico de versões
 
