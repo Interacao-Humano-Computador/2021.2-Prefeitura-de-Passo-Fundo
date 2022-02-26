@@ -2,62 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://interacao-humano-computador.github.io/2021.2-Prefeitura-de-Passo-Fundo/</loc>
-         <lastmod>2022-02-18</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://interacao-humano-computador.github.io/2021.2-Prefeitura-de-Passo-Fundo/about/</loc>
-         <lastmod>2022-02-18</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://interacao-humano-computador.github.io/2021.2-Prefeitura-de-Passo-Fundo/AnaliseRequisitos/AnaliseTarefas/goms/</loc>
-         <lastmod>2022-02-18</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://interacao-humano-computador.github.io/2021.2-Prefeitura-de-Passo-Fundo/AnaliseRequisitos/AnaliseTarefas/hta/</loc>
-         <lastmod>2022-02-18</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://interacao-humano-computador.github.io/2021.2-Prefeitura-de-Passo-Fundo/AnaliseRequisitos/PerfilUsuario/personas/</loc>
-         <lastmod>2022-02-18</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://interacao-humano-computador.github.io/2021.2-Prefeitura-de-Passo-Fundo/Apresentacoes/apresentacao1/</loc>
-         <lastmod>2022-02-18</lastmod>
+         <lastmod>2022-02-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://interacao-humano-computador.github.io/2021.2-Prefeitura-de-Passo-Fundo/Apresentacoes/apresentacao2/</loc>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://interacao-humano-computador.github.io/2021.2-Prefeitura-de-Passo-Fundo/Atas/ata1/</loc>
-         <lastmod>2022-02-18</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://interacao-humano-computador.github.io/2021.2-Prefeitura-de-Passo-Fundo/Atas/ata2/</loc>
-         <lastmod>2022-02-18</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://interacao-humano-computador.github.io/2021.2-Prefeitura-de-Passo-Fundo/Planejamento/Cronograma/</loc>
-         <lastmod>2022-02-18</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://interacao-humano-computador.github.io/2021.2-Prefeitura-de-Passo-Fundo/Planejamento/Metodologia/</loc>
-         <lastmod>2022-02-18</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://interacao-humano-computador.github.io/2021.2-Prefeitura-de-Passo-Fundo/Planejamento/SitesAvaliados/</loc>
-         <lastmod>2022-02-18</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://interacao-humano-computador.github.io/2021.2-Prefeitura-de-Passo-Fundo/Planejamento/UsabilidadeMayhew/</loc>
-         <lastmod>2022-02-18</lastmod>
+         <lastmod>2022-02-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
