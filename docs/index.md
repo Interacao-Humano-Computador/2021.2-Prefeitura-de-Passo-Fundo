@@ -1,6 +1,6 @@
 # Prefeitura de Passo Fundo
 
-Passo Fundo é uma cidade localizada no interior do estado do Rio Grande do Sul, conhecida como a capital nacional da literatura.
+<p style="text-indent: 20px; text-align: justify">Passo Fundo é uma cidade localizada no interior do estado do Rio Grande do Sul, conhecida como a capital nacional da literatura.
 
 <div align="center">
 
@@ -10,7 +10,7 @@ Passo Fundo é uma cidade localizada no interior do estado do Rio Grande do Sul,
 
 ## Sobre o Projeto
 
-Este repositório tem como objetivo documentar o projeto do grupo 2 da matéria de **Interação Humano Computador** da Universidade de Brasília, ministrada pelo professor **André Barros de Sales**.
+<p style="text-indent: 20px; text-align: justify">Este repositório tem como objetivo documentar o projeto do grupo 2 da matéria de **Interação Humano Computador** da Universidade de Brasília, ministrada pelo professor **André Barros de Sales**.
 
 O material de estudo escolhido foi o site da [Prefeitura de Passo Fundo](http://www.pmpf.rs.gov.br/), no qual iremos utilizar as técnicas aprendidas ao longo do semestre e propor mudanças significativas para melhor usabilidade de suas funcionalidades.
 
@@ -51,6 +51,9 @@ O material de estudo escolhido foi o site da [Prefeitura de Passo Fundo](http://
 		</div>
 	</div>
 </div>
+<br>
+<br>
+
 
 ## Histórico de versões
 
