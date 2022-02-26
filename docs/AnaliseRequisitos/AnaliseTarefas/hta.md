@@ -2,28 +2,37 @@
 
 <p style="text-indent: 20px; text-align: justify">
 A Análise Hierárquica de Tarefas, ou Hierarchial Task Analysis (HTA), surgiu no século XX, na década de 60, tendo como intuito, entender as habilidades e competências exigidas numa tarefa complexa.
-Ela ajuda a identificar problemas de desempenho numa empresa ou num projeto, assim como no bem estar e saúde dos trabalhadores. Usando de psicologia funcional, e não comportamental, ela ajuda a relacionar o que as pessoas fazem (ou recomenda-se que façam), por que o fazem, e quais as consequências caso não o façam corretamente (Barbosa e Silva, 2010). 
+</p>
+<p style="text-indent: 20px; text-align: justify">
+Ela ajuda a identificar problemas de desempenho numa empresa ou num projeto, assim como no bem estar e saúde dos trabalhadores. Usando de psicologia funcional, e não comportamental, ela ajuda a relacionar o que as pessoas fazem (ou recomenda-se que façam), por que o fazem, e quais as consequências caso não o façam corretamente (Barbosa e Silva, 2010).
 </p>
 
 ## 2. Metodologia
 <p style="text-indent: 20px; text-align: justify">
- 
 Uma tarefa complexa é qualquer parte do trabalho que precisa ser concluído. Podemos definir uma tarefa em seu(s) objetivo(s), como por exemplo, terminar o documento de HTA, e se desdobrar em subojetivos, como, fazer a introdução, fazer a metodologia, etc. E assim, também podemos, desdobrar os subojetivos em mais subojetivos, e assim por diante. Normalmente paramos de desdobrar quando já temos todas as informações necessárias para concluir o objetivo, um critério de parada, é o critério p x c (Annett e Duncan, 1967), parar quando o produto da probabilidade de falha (p) e o custo da falha (c) for julgado aceitável.
-
+</p>
+<p style="text-indent: 20px; text-align: justify">
 Segundo Barbosa e Silva (2010), uma HTA consiste nos seguintes passos:
+</p>
+<p style="text-indent: 20px; text-align: justify">
+  • Decidir os objetivos da análise;</p>
 
-  • Decidir os objetivos da análise;
+<p style="text-indent: 20px; text-align: justify">
+  • Definir os resultados esperados para checar se um objetivo foi concluído, e também, as consequências caso falhe em atingir o resultado;</p>
 
-  • Definir os resultados esperados para checar se um objetivo foi concluído, e também, as consequências caso falhe em atingir o resultado;
+<p style="text-indent: 20px; text-align: justify">
+  • Identificar a fonte das informações das tarefas e como coletar os dados;</p>
 
-  • Identificar a fonte das informações das tarefas e como coletar os dados;
+<p style="text-indent: 20px; text-align: justify">
+  • Coletar dados e esboçar uma tabela ou diagrama de decomposição (objetivos em subojetivos);</p>
 
-  • Coletar dados e esboçar uma tabela ou diagrama de decomposição (objetivos em subojetivos);
+<p style="text-indent: 20px; text-align: justify">
+  • Verificar se a decomposição é válida;</p>
 
-  • Verificar se a decomposição é válida;
+<p style="text-indent: 20px; text-align: justify">
+  • Identificar operações significativas (normalmente utiliza-se o método p x c);</p>
 
-  • Identificar operações significativas (normalmente utiliza-se o método p x c);
-
+<p style="text-indent: 20px; text-align: justify">
   • Gerar, e se possível, testar hipóteses sobre fatores de desempenho e aprendizado.
 </p>
 
@@ -51,3 +60,4 @@ Segundo Barbosa e Silva (2010), uma HTA consiste nos seguintes passos:
  | **Data**   | **Versão** | **Descrição** | **Autor(es)**| **Revisor(es)** |
  | ---------- | :--------: | ---------------------------------------- |:------------------------------------------: |------| 
  | 24/02/2022 |    1.0     | Criação do documento AHT           |        [Adrian Soares](https://github.com/SwampTG)         |
+ | 26/02/2022 | 1.1 | Escrita da introdução e metodologia | [Kathlyn Lara](https://github.com/klmurussi) |
