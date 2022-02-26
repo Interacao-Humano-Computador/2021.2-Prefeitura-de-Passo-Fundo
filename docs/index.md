@@ -62,6 +62,7 @@
 
  | **Data**   | **Versão** | **Descrição**                            |                **Autor(es)**                 |
  | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: |
- | 10/02/2022 |    1.0     | Criação da página            |         [Adrian Soares](github.com/SwampTG)       |
- | 11/02/2022 |    1.1     | Criação do texto da página|    [Kathlyn Lara](github.com/klmurussi)   |
- | 12/02/2022 |    1.2     | Alteração do link da imagem da logo |    [Lorenzo Santos](github.com/lorenzo7377)    |
+ | 10/02/2022 |    1.0     | Criação da página            |         [Adrian Soares](https://github.com/SwampTG)       |
+ | 11/02/2022 |    1.1     | Criação do texto da página|    [Kathlyn Lara](https://github.com/klmurussi)   |
+ | 12/02/2022 |    1.2     | Alteração do link da imagem da logo |    [Lorenzo Santos](https://github.com/lorenzo7377)    |
+ | 26/02/2022 |    1.3     | Correção de parágrafos e pequenos erros|    [Kayro César](https://github.com/kayrocesar)    |
