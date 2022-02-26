@@ -3,40 +3,55 @@
 ## 1. Perfil de usuário
 
 <p style="text-indent: 20px; text-align: justify">
-O perfil do usuário seria uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado. A principal motivação para levantar dados sobre o usuário é ter uma noção do tipo de cliente que depende e utiliza o sistema.
-Como nosso projeto gira em torno do site da prefeitura de Passo Fundo, o público alvo será todos os habitantes desse município, desde os mais leigos, no que se refere ao uso de programas e sites, até os com mais experientes.
+O perfil do usuário seria uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema a ser projetado. A principal motivação para levantar dados sobre o usuário é ter uma noção do tipo de cliente que depende e utiliza o sistema.
+Como nosso projeto gira em torno do site da prefeitura de Passo Fundo, o público alvo é formado por habitantes do município, funcionários da Prefeitura e possíveis turistas. O público alvo citado vai desde os mais leigos, no que se refere ao uso de programas e sites, até os mais experientes. A figura 1 apresenta uma representação do perfil do usuário do site.
 </p>
 
+<br>
+<br>
+
+<div align="center"> 
+
+<figcaption>Figura 1 - Perfil do usuário </figcaption>
+<img src="../../../assets/img/perfilusuario.png">
+<figcaption>Fonte: Elaboração própria</figcaption>
+
+</div>
+
+
+
 ## 2. Personas
-<p style="text-indent: 20px; text-align: justify">Personas são personagens fictícios que representam um grupo de usuários reais e são definidas pelos seus objetivos. Sua principal funcionalidade é focar o grupo de desenvolvedores e designers em um único alvo. A personas deste projeto são:
+<p style="text-indent: 20px; text-align: justify">Personas são personagens fictícios, uma espécie de arquétipo hipotético de um grupo de usuários reais. São utilizadas  para representar um grupo de usuários finais, de forma a manter todos focados no mesmo alvo. As personas deste projeto são:
 </p>
 
 <br>
 
 ## Persona 1
-![Persona1](../../../assets/img/susana.png)
-| Características | |
- | ---------- | :--------: |
+ 
+ | Características | |
+ | :----------: | :--------: |
+ | Foto: |<figcaption>Figura 1 - Foto de Susana Menezes de Sá </figcaption> <img src="../../../assets/img/susana.png" alt="Susana Menezes de Sá" width="250"/> |
  | Identidade: |   Susana Menezes de Sá |
  | Status: |   Persona primária  |
- | idade: |  17  |
+ | Idade: |  18 anos  |
  | Profissão: |  Estudante  |
  | Habilidades: |  Facilidade com a escrita, interpretação de texto retórica  |
- | Tarefas: |   Deseja acessar a aba de educação do site da prefeitura para ver as notícias relacionadas a suas eulas e para ler o guia estudantil   |
- | Expectativas: |  Espera que o site seja atualizado a todo momento e que seja claro onde encontrar cada informação  |
+ | Tarefas: |   Deseja acessar a aba de educação do site da prefeitura para ver as notícias relacionadas a educação e para ler o guia estudantil   |
+ | Expectativas: |  Espera que o site seja atualizado constantemente e que seja claro onde encontrar cada informação  |
 
 <br>
 <br>
 
 ## Persona 2
-![Persona2](../../../assets/img/jose.png)
-| Características | |
- | ---------- | :--------: |
+ 
+ | Características | |
+ | :----------: | :--------: |
+ | Foto: |<figcaption>Figura 2 - Foto de José de Paula Farid </figcaption> <img src="../../../assets/img/jose.png" alt="José de Paula Farid" width="250"/> |
  | Identidade: |  José de Paula Farid  |
  | Status: |   Persona primária  |
- | idade: |  27  |
+ | Idade: |  27 anos  |
  | Profissão: |  Servidor Público  |
- | Habilidades: |  Leve connhecimento sobre computadores e contabilidade  |
+ | Habilidades: |  Leve conhecimento sobre computadores e contabilidade  |
  | Tarefas: |   Deseja gerar uma declaração de recebimento do vale transporte e acessar modelos para credenciamento de licitações   |
  | Expectativas: |  Espera que o site tenha documentos em formato de PDF que ele possa baixar |
 
@@ -44,27 +59,30 @@ Como nosso projeto gira em torno do site da prefeitura de Passo Fundo, o públic
 <br>
 
 ## Persona 3
-![Persona3](../../../assets/img/valdir.png)
-| Características | |
- | ---------- | :--------: |
+
+ 
+ | Características | |
+ | :----------: | :--------: |
+ | Foto: |<figcaption>Figura 3 - Foto de Valdir de Almeida Santos </figcaption> <img src=".../../../assets/img/valdir.png" alt="Valdir de Almeida Santos" width="250"/> |
  | Identidade: |  Valdir de Almeida Santos  |
  | Status: |   Persona primária  |
- | idade: |  62  |
+ | Idade: |  62 anos  |
  | Profissão: |  Aposentado  |
  | Habilidades: |  Tem facilidade com matemática e física  |
  | Tarefas: |   Deseja entrar em contato com a prefeitura pelo site para tirar dúvidas sobre sua aposentadoria   |
- | Expectativas: |  Espera que o site tenha uma forma de chamada com a prefeitura de maneira em que ele possa enviar documentos e fotos |
+ | Expectativas: |  Espera que o site tenha maneira de se comunicar com a prefeitura de maneira fácil e de forma que ele possa enviar documentos e fotos |
 
 <br>
 <br>
 
 ## Persona 4
-![Persona4](../../../assets/img/luana.png)
-| Características | |
- | ---------- | :--------: |
+
+ | Características | |
+ | :----------: | :--------: |
+ | Foto: |<figcaption>Figura 4 - Foto de Luana Vieira Torres </figcaption> <img src="../../../assets/img/luana.png" alt="Luana Vieira Torres" width="250"/> |
  | Identidade: |  Luana Vieira Torres  |
  | Status: |   Antipersona  |
- | idade: |  35  |
+ | Idade: |  35 anos  |
  | Profissão: | Assistente social |
  | Habilidades: |  Gosta de ler e de interagir com as pessoas  |
  | Tarefas: |   Deseja usar a internet pra falar com parentes que moram longe e pesquisar sobre sua área de trabalho   |
@@ -80,7 +98,7 @@ Como nosso projeto gira em torno do site da prefeitura de Passo Fundo, o públic
 
 
 ## Histórico de versões
- | **Data**   | **Versão** | **Descrição**   |    **Autor(es)**  | **Revisor(a)** |
- | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: | ----------------|
- |   26/02/2022 |   1.0  | Criação do documento|[Lorenzo Santos](github.com/lorenzo7377) | [Kathlyn Lara](github.com/klmurussi) |
- 
+ | **Data**   | **Versão** | **Descrição**   |    **Autor(es)**  | 
+ | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: 
+ |   26/02/2022 |   1.0  | Criação do documento|[Lorenzo Santos](https://github.com/lorenzo7377) |
+ |   26/02/2022 |   1.1  | Correções e acréscimo de informações de perfil do usuário|[Kayro César](https://github.com/kayrocesar) |
