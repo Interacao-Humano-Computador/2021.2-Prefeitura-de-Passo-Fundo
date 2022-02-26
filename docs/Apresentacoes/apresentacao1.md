@@ -8,3 +8,4 @@
 | Versão | Data | Modificação | Autor(es) |
 |--|--|--|--|
 | 1.0 | 13/02/2022 | Página da apresentação 1 do projeto |[Kayro César](github.com/kayrocesar) |
+| 1.1 | 13/02/2022 | Gravação do vídeo da apresentação 1 do projeto | Todos os membros
