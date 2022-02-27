@@ -146,7 +146,7 @@ Plano 3: caso queira ordenar, Faça 3.1;<br>
 
 #### 3.2.1. HTA01
 <figcaption> Figura 1: Análise da Tarefa de Protocólos para licenças, alvarás e certidões. </figcaption>
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img//aht_licencas-alvaras.drawio.svg"/>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/aht_licencas-alvaras.drawio.svg"/>
 <p style="text-indent: 20px; text-align: center"> Fonte: Imagem do autor. </p>
 </figure>
 <br><br>
@@ -172,7 +172,7 @@ Plano 3: caso queira ordenar, Faça 3.1;<br>
 
 #### 3.2.2. HTA02
 <figcaption> Figura 2: Análise da Tarefa de Agendar Vacinação do Coronavírus. </figcaption>
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img//diagrama-vacina.png"/>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/diagrama-vacina.png"/>
 <p style="text-indent: 20px; text-align: center"> Fonte: Imagem do autor. </p>
 
 <figcaption> Tabela 2: Análise da Tarefa de Agendar Vacinação do Coronavírus. </figcaption>
