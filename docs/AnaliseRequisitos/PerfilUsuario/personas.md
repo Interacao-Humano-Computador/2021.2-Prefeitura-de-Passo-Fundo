@@ -13,7 +13,7 @@ Como nosso projeto gira em torno do site da prefeitura de Passo Fundo, o públic
 <div align="center"> 
 
 <figcaption>Figura 1 - Perfil do usuário </figcaption>
-<img src="../../../assets/img/perfilusuario.png">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/Perfil_e_personas/assets/img/perfilusuario.png">
 <figcaption>Fonte: Elaboração própria</figcaption>
 
 </div>
