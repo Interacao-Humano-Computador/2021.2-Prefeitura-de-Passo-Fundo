@@ -59,7 +59,7 @@ Com isso em mente, membros do grupo realizaram acessos aos principais serviços 
 2. Acessar a página de  requisição
    - 2.1. Preencher dados pessoais
      - 2.1.1.  Integrar dados
-   -  2.2. Selecionar o serviço correto
+   - 2.2. Selecionar o serviço correto
       - 2.2.1. Enviar documentos obrigatórios
       - 2.2.2. Enviar documentos complementares
 3. Enviar protocolo ao usuário
@@ -75,17 +75,18 @@ Plano 2: Faça 2.1 - 2.2;<br>
 Plano 2.1: Caso necessite integrar dados de outra pessoa, faça 2.1.1;
 Plano 2.2: Faça 2.2.1 - 2.2.2;<br>
 Plano 3: Faça 3;<br>
-Plano 4: Faça 4.1; Plano 4.1: Faça 4.1.1, caso o formulário necessite de correções, faça 4.1.2 e caso não haja nenhuma possibilidade de aceitação do requerimento, faça 4.1.3.
+Plano 4: Faça 4.1;<br>
+Plano 4.1: Faça 4.1.1, caso o formulário necessite de correções, faça 4.1.2 e caso não haja nenhuma possibilidade de aceitação do requerimento, faça 4.1.3.
 
 #### 3.1.2. HTA02
 
-0 - Agendar a vacinação do coronavírus
-<br>&emsp;&emsp;1 - Ir na página Vacinação COVID-19
-<br>&emsp;&emsp;&emsp;1.1 - Descer a página home até "PASSO FUNDO CONTRA O CORONAVÍRUS"
-<br>&emsp;&emsp;&emsp;1.2 - Clicar na Vacinação
-<br>&emsp;&emsp;2 - Verificar no calendário de vacinação
-<br>&emsp;&emsp;&emsp;2.1 - Clicar na imagem do grupo que faz parte
-<br>&emsp;&emsp;&emsp;2.2 - Dentro da imagem, ler os locais e horágit rios para se vacinar
+0. Agendar a vacinação do coronavírus
+1. Ir na página Vacinação COVID-19
+  - 1.1. Descer a página home até "PASSO FUNDO CONTRA O CORONAVÍRUS"
+  - 1.2. Clicar na Vacinação
+2. Verificar no calendário de vacinação
+  - 2.1. Clicar na imagem do grupo que faz parte
+  - 2.2. Dentro da imagem, ler os locais e horágit rios para se vacinar
 
 Plano 0: Faça 1 - 2
 <br>Plano 1: Faça 1.1 - 1.2
@@ -93,27 +94,27 @@ Plano 0: Faça 1 - 2
 
 #### 3.1.3. HTA03
 
-0 - Obter licença para condutor auxiliar (Táxi)
-<br>&emsp;&emsp;1- Ir na página de serviços
-<br>&emsp;&emsp;&emsp;&emsp;1.1 - Clicar no botão azul escrito SERVIÇOS, ao lado de TURISMO e SERVIDOR
-<br>&emsp;&emsp;2 - Checar os documentos necessários
-<br>&emsp;&emsp;&emsp;&emsp;2.1 - Descer a página de serviços até o final e encontrar a seção de Transporte e Trânsito
-<br>&emsp;&emsp;&emsp;&emsp;2.2 - Clicar em "Informações" ao lado de Cadastro e Renovação de Contudor Auxiliar (Táxi)
-<br>&emsp;&emsp;&emsp;&emsp;2.3 - Verificar todos os documentos constados na página
-<br>&emsp;&emsp;3 - Enviar os documentos
-<br>&emsp;&emsp;&emsp;&emsp;3.1 - Descer a página de serviços até o final e encontrar a seção de Transporte e Trânsito
-<br>&emsp;&emsp;&emsp;&emsp;3.2 - Clicar em "Acesso" ao lado de Cadastro e Renovação de Condutor (Táxi)
-<br>&emsp;&emsp;&emsp;&emsp;3.3 - Preencher o formulário
-<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.3.1 - Em requerente, preencher com o nome da pessoa
-<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.3.2 - Em grupo, escolher "SERVIÇO ELETRÔNICO"
-<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.3.3 - Em assunto, escolher "CADASTRO DE CONDUTOR AUXILIAR (TÁXI)" ou "RENOVAÇÃO DE CADASTRO DE CONDUTOR AUXILIAR (TÁXI)"
-<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.3.4 - Preencher os outros campos, se achar necessário
-<br>&emsp;&emsp;&emsp;&emsp;3.4 - Adicionar as cópias dos documentos
-<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.4.1 - Na aba de Documentos, leia as descrições e clique em Selecionar
-<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.4.2 - Clique em "+Adicionar" e selecione o documento referente no seu computador
-<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.4.3 - Se achar necessário, preencher os outros dados
-<br>&emsp;&emsp;&emsp;&emsp;3.5 - No canto superior esquerdo, clique em "Salvar"
-<br>&emsp;&emsp;&emsp;&emsp;3.6 - Escolha se quer ou não salvar o comprovante de processo (recomenda-se que sim)
+0. Obter licença para condutor auxiliar (Táxi)
+1. Ir na página de serviços
+  - 1.1. Clicar no botão azul escrito SERVIÇOS, ao lado de TURISMO e SERVIDOR
+2. Checar os documentos necessários
+  - 2.1. Descer a página de serviços até o final e encontrar a seção de Transporte e Trânsito
+  - 2.2. Clicar em "Informações" ao lado de Cadastro e Renovação de Contudor Auxiliar (Táxi)
+  - 2.3.  Verificar todos os documentos constados na página
+3. Enviar os documentos
+  - 3.1. Descer a página de serviços até o final e encontrar a seção de Transporte e Trânsito
+  - 3.2. Clicar em "Acesso" ao lado de Cadastro e Renovação de Condutor (Táxi)
+  - 3.3. Preencher o formulário
+    - 3.3.1. Em requerente, preencher com o nome da pessoa
+    - 3.3.2. Em grupo, escolher "SERVIÇO ELETRÔNICO"
+    - 3.3.3. Em assunto, escolher "CADASTRO DE CONDUTOR AUXILIAR (TÁXI)" ou "RENOVAÇÃO DE CADASTRO DE CONDUTOR AUXILIAR (TÁXI)"
+    - 3.3.4. Preencher os outros campos, se achar necessário
+  - 3.4. Adicionar as cópias dos documentos
+    - 3.4.1. Na aba de Documentos, leia as descrições e clique em Selecionar
+    - 3.4.2. Clique em "+Adicionar" e selecione o documento referente no seu computador
+    - 3.4.3. Se achar necessário, preencher os outros dados
+  - 3.5. No canto superior esquerdo, clique em "Salvar"
+  - 3.6. Escolha se quer ou não salvar o comprovante de processo (recomenda-se que sim)
 
 Plano 0: Faça 1 - 3, caso não saiba os documentos, 1 - 2 - 3
 <br>Plano 1: Faça 1.1
@@ -145,8 +146,8 @@ Plano 3: caso queira ordenar, Faça 3.1;<br>
 
 #### 3.2.1. HTA01
 <figcaption> Figura 1: Análise da Tarefa de Protocólos para licenças, alvarás e certidões. </figcaption>
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/aht_licencas-alvaras.drawio.svg"/>
-<figcaption> Fonte: Imagem do autor. </figcaption>
+<img src="../../../assets/img/aht_licencas-alvaras.drawio.svg"/>
+<p style="text-indent: 20px; text-align: center"> Fonte: Imagem do autor. </p>
 </figure>
 <br><br>
 <figcaption> Tabela 1: Obter licenças, alvarás e certidões </figcaption>
@@ -171,12 +172,13 @@ Plano 3: caso queira ordenar, Faça 3.1;<br>
 
 #### 3.2.2. HTA02
 <figcaption> Figura 2: Análise da Tarefa de Agendar Vacinação do Coronavírus. </figcaption>
-![imagem](https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/diagrama-vacina.png)
+<img src="../../../assets/img/diagrama-vacina.png"/>
 <p style="text-indent: 20px; text-align: center"> Fonte: Imagem do autor. </p>
 
 <figcaption> Tabela 2: Análise da Tarefa de Agendar Vacinação do Coronavírus. </figcaption>
+
 | Objetivos/operações | Problemas e recomendações |
-|:- | :-: |
+|         :--       |            -            |
 | 0. Agendar a vacina do Coronavírus| |
 | 1. Ir na página de vacinação do COVID-19 | **Input**: página principal da Prefeitura de Passo Fundo aberta. |
 | 1.1. Descer a página home até "PASSO FUNDO CONTRA O CORONAVÍRUS" | **Input**: barra de rolagem que fica na lateral direita; <br>**Action**: descer a barra até encontrar a área de combate ao Coronavírus |
@@ -184,16 +186,16 @@ Plano 3: caso queira ordenar, Faça 3.1;<br>
 | 2. Verificar no calendário de vacinação |**Input**: página de vacinação COVID-19 |
 | 2.1. Clicar na imagem do grupo que faz parte | **Input**: barra de rolagem que fica na lateral direita. <br>**Action**: Clicar em cima da imagem do grupo que faz parte. <br>**Feedback**: a imagem aumentará um pouco de tamanho. <br>**Problema**: as informações de horário e local são em letras pequenas, dificultando para pessoas com problemas visuais. <br>**Recomendação**: ao clicar na imagem, direcione para uma nova página, com letras em tamanho adequado. |
 | 2.2. Dentro da imagem, ler os locais e horários para se vacinar| **Input**: imagem aumentada com informação do grupo de vacinação, dos horários, locais e dias. |
-<p style="text-indent: 20px; text-align: center"> Fonte: Imagem do autor. </p>
 
 #### 3.2.3. HTA03
 <figcaption> Figura 3: Análise da Obter licença para táxi. </figcaption>
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/diagrama-taxi.png" />
+<img src="../../../assets/img/diagrama-taxi.png"/>
 <p style="text-indent: 20px; text-align: center"> Fonte: Imagem do autor. </p>
 
 <figcaption> Tabela 3: Análise da Obter licença para táxi. </figcaption>
+
 | Objetivos/operações | Problemas e recomendações |
-|:- | :-: |
+|         :--       |            -            |
 | 0. Obter licença para táxi| |
 | 1. Ir na página de serviços | **Input**: página principal da Prefeitura de Passo Fundo aberta. |
 | 1.1.  Clicar no botão azul escrito SERVIÇOS, ao lado de TURISMO e SERVIDOR | **Input**: aba Guia de Serviços;<br>**Action**: Clicar no botão escrito SERVIÇOS;<br>**Feedback**: Aparecerá a página de Guia de Serviços Municipais |
@@ -216,15 +218,13 @@ Plano 3: caso queira ordenar, Faça 3.1;<br>
 |3.5 - No canto superior esquerdo, clique em "Salvar" | **Input**: botão escrito salvar; <br>**Feedback**: Sairá da página de envio de documentos e aparecerá uma janela sobre o comprovante do processo; <br>**Problema**: só tem a opção de imprimir e salvar no computador, ou seja, o usuário não poderá acessar em outra máquina;<br>**Recomendação** Enviar o comprovante para o e-mail do usuário |
 | 3.6 - Escolha se quer ou não salvar o comprovante de processo (recomenda-se que sim) | **Input**: escolher um botão |
 
-<p style="text-indent: 20px; text-align: center"> Fonte: Imagem do autor. </p>
-
 #### 3.2.4. HTA04
-<figcaption> Figura 4: Análise da Tarefa para obtenção de informações pelo portal da transparência - Licitações </figcaption>
-![licitação](https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/aht_transparencia-licitacao.drawio.svg)
-<figcaption> Fonte: Imagem do autor. </figcaption>
+<figcaption>  Figura 4: Análise da Tarefa para obtenção de informações pelo portal da transparência - Licitações </figcaption>
+<img src="../../../assets/img/aht_transparencia-licitacao.drawio.svg"/>
+<p style="text-indent: 20px; text-align: center"> Fonte: Imagem do autor. </p>
 </figure>
 <br><br>
-<figcaption> Tabela 4: Obtenção de informações pelo portal da transparência - Licitações </figcaption>
+<figcaption> Tabela 4: Acessa informações pelo portal da transparênscia - Licitações </figcaption>
 
 |Objetivos/operações|Problemas e recomendações|
 |         :--       |            -            |
@@ -246,16 +246,17 @@ Plano 3: caso queira ordenar, Faça 3.1;<br>
 
 ### Histórico de versões
 
- | **Data**   | **Versão** | **Descrição** | **Autor(es)**|
- | ---------- | :--------: | ---------------------------------------- |:------------------------------------------: |
+ | **Data**   | **Versão** | **Descrição** | **Autor(es)**| **Revisor(es)** |
+ | ---------- | :--------: | ---------------------------------------- |:------------------------------------------: |------| 
  | 24/02/2022 |    1.0     | Criação do documento AHT           |        [Adrian Soares](https://github.com/SwampTG)               |
  | 26/02/2022 | 1.1 | Escrita da introdução e metodologia | [Kathlyn Lara](https://github.com/klmurussi) |
  | 26/02/2022 | 1.2 | Complementação da metodologia| [Adrian Soares](https://github.com/SwampTG) |
  | 26/02/2022 | 1.3 | Análise de licenças e alvarás| [Adrian Soares](https://github.com/SwampTG) |
  | 26/02/2022 | 1.4 | Análise de agendamento de vacinação e da licença de táxi| [Kathlyn Lara](https://github.com/klmurussi)      |
  | 26/02/2022 | 1.5 | Análise de licitações| [Adrian Soares](https://github.com/SwampTG) |
+ | 27/02/2022 | 1.6 | Correção de erros apontados | [Kathlyn Lara](https://github.com/klmurussi) |
 
-<style>
+<!-- <style>
 figcaption {
     text-align: center;
 }
@@ -265,4 +266,4 @@ img {
     width: 600px;
     height: auto;
 }
-</style>
+</style> -->
