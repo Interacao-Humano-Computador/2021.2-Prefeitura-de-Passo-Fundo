@@ -246,8 +246,8 @@ Plano 3: caso queira ordenar, Faça 3.1;<br>
 
 ### Histórico de versões
 
- | **Data**   | **Versão** | **Descrição** | **Autor(es)**| **Revisor(es)** |
- | ---------- | :--------: | ---------------------------------------- |:------------------------------------------: |------| 
+ | **Data**   | **Versão** | **Descrição** | **Autor(es)**|
+ | ---------- | :--------: | ---------------------------------------- |:------------------------------------------: |
  | 24/02/2022 |    1.0     | Criação do documento AHT           |        [Adrian Soares](https://github.com/SwampTG)               |
  | 26/02/2022 | 1.1 | Escrita da introdução e metodologia | [Kathlyn Lara](https://github.com/klmurussi) |
  | 26/02/2022 | 1.2 | Complementação da metodologia| [Adrian Soares](https://github.com/SwampTG) |
@@ -255,6 +255,8 @@ Plano 3: caso queira ordenar, Faça 3.1;<br>
  | 26/02/2022 | 1.4 | Análise de agendamento de vacinação e da licença de táxi| [Kathlyn Lara](https://github.com/klmurussi)      |
  | 26/02/2022 | 1.5 | Análise de licitações| [Adrian Soares](https://github.com/SwampTG) |
  | 27/02/2022 | 1.6 | Correção de erros apontados | [Kathlyn Lara](https://github.com/klmurussi) |
+ 
+ Revisor: [Kayro César](https://github.com/kayrocesar)
 
 <!-- <style>
 figcaption {
