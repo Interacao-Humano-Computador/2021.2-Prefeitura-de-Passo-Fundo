@@ -9,7 +9,7 @@ Ela ajuda a identificar problemas de desempenho numa empresa ou num projeto, ass
 
 ## 2. Metodologia
 <p style="text-indent: 20px; text-align: justify">
-Uma tarefa complexa é qualquer parte do trabalho que precisa ser concluído. Podemos definir uma tarefa em seu(s) objetivo(s), como por exemplo, terminar o documento de HTA, e se desdobrar em subojetivos, como, fazer a introdução, fazer a metodologia, etc. E assim, também podemos, desdobrar os subojetivos em mais subobjetivos, e assim por diante. Normalmente paramos de desdobrar quando já temos todas as informações necessárias para concluir o objetivo, um critério de parada, é o critério p x c (Annett e Duncan, 1967), parar quando o produto da probabilidade de falha (p) e o custo da falha (c) for julgado aceitável.
+Uma tarefa complexa é qualquer parte do trabalho que precisa ser concluído. Podemos definir uma tarefa em seu(s) objetivo(s), como por exemplo, terminar o documento de HTA, e se desdobrar em subobjetivos, como, fazer a introdução, fazer a metodologia, etc. E assim, também podemos, desdobrar os subobjetivos em mais subobjetivos, e assim por diante. Normalmente paramos de desdobrar quando já temos todas as informações necessárias para concluir o objetivo, um critério de parada, é o critério p x c (Annett e Duncan, 1967), parar quando o produto da probabilidade de falha (p) e o custo da falha (c) for julgado aceitável.
 </p>
 <p style="text-indent: 20px; text-align: justify">
 Segundo Barbosa e Silva (2010), uma HTA consiste nos seguintes passos:
@@ -24,7 +24,7 @@ Segundo Barbosa e Silva (2010), uma HTA consiste nos seguintes passos:
   • Identificar a fonte das informações das tarefas e como coletar os dados;</p>
 
 <p style="text-indent: 20px; text-align: justify">
-  • Coletar dados e esboçar uma tabela ou diagrama de decomposição (objetivos em subojetivos);</p>
+  • Coletar dados e esboçar uma tabela ou diagrama de decomposição (objetivos em subobjetivos);</p>
 
 <p style="text-indent: 20px; text-align: justify">
   • Verificar se a decomposição é válida;</p>
@@ -169,7 +169,7 @@ Plano 3: caso queira ordenar, Faça 3.1;<br>
 | 4.1.3. Negar pedido de documentação |  |
 
 
-#### 3.2.2.HTA02
+#### 3.2.2. HTA02
 <figcaption> Figura 2: Análise da Tarefa de Agendar Vacinação do Coronavírus. </figcaption>
 ![imagem](https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/diagrama-vacina.png)
 <p style="text-indent: 20px; text-align: center"> Fonte: Imagem do autor. </p>
@@ -186,7 +186,7 @@ Plano 3: caso queira ordenar, Faça 3.1;<br>
 | 2.2. Dentro da imagem, ler os locais e horários para se vacinar| **Input**: imagem aumentada com informação do grupo de vacinação, dos horários, locais e dias. |
 <p style="text-indent: 20px; text-align: center"> Fonte: Imagem do autor. </p>
 
-### 3.2.3 HTA03
+#### 3.2.3. HTA03
 <figcaption> Figura 3: Análise da Obter licença para táxi. </figcaption>
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/diagrama-taxi.png" />
 <p style="text-indent: 20px; text-align: center"> Fonte: Imagem do autor. </p>
