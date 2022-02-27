@@ -4,7 +4,7 @@
 
 ## 2. Cronograma
 
-Na sprint, para cada atividade colocaremos os responsáveis pelas issues e seus respectivos revisores.
+<p style="text-indent: 20px; text-align: justify">Na sprint, para cada atividade colocaremos os responsáveis pelas issues e seus respectivos revisores.
 
 <!-- **Clique [aqui](https://sharing.clickup.com/tl/h/6-168993937-16/759abf0db6a9492) para ver o quadro interativo**
 

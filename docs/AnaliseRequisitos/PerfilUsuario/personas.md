@@ -30,7 +30,7 @@ Como nosso projeto gira em torno do site da prefeitura de Passo Fundo, o públic
  
  | Características | |
  | :----------: | :--------: |
- | Foto: |<figcaption>Figura 1 - Foto de Susana Menezes de Sá </figcaption> <img src="../../../assets/img/susana.png" alt="Susana Menezes de Sá" width="250"/> |
+ | Foto: |<figcaption>Figura 1 - Foto de Susana Menezes de Sá </figcaption> <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/Perfil_e_personas/assets/img/susana.png" alt="Susana Menezes de Sá" width="250"/> |
  | Identidade: |   Susana Menezes de Sá |
  | Status: |   Persona primária  |
  | Idade: |  18 anos  |
@@ -46,7 +46,7 @@ Como nosso projeto gira em torno do site da prefeitura de Passo Fundo, o públic
  
  | Características | |
  | :----------: | :--------: |
- | Foto: |<figcaption>Figura 2 - Foto de José de Paula Farid </figcaption> <img src="../../../assets/img/jose.png" alt="José de Paula Farid" width="250"/> |
+ | Foto: |<figcaption>Figura 2 - Foto de José de Paula Farid </figcaption> <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/Perfil_e_personas/assets/img/jose.png" alt="José de Paula Farid" width="250"/> |
  | Identidade: |  José de Paula Farid  |
  | Status: |   Persona primária  |
  | Idade: |  27 anos  |
@@ -63,7 +63,7 @@ Como nosso projeto gira em torno do site da prefeitura de Passo Fundo, o públic
  
  | Características | |
  | :----------: | :--------: |
- | Foto: |<figcaption>Figura 3 - Foto de Valdir de Almeida Santos </figcaption> <img src=".../../../assets/img/valdir.png" alt="Valdir de Almeida Santos" width="250"/> |
+ | Foto: |<figcaption>Figura 3 - Foto de Valdir de Almeida Santos </figcaption> <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/Perfil_e_personas/assets/img/valdir.png" alt="Valdir de Almeida Santos" width="250"/> |
  | Identidade: |  Valdir de Almeida Santos  |
  | Status: |   Persona primária  |
  | Idade: |  62 anos  |
@@ -79,7 +79,7 @@ Como nosso projeto gira em torno do site da prefeitura de Passo Fundo, o públic
 
  | Características | |
  | :----------: | :--------: |
- | Foto: |<figcaption>Figura 4 - Foto de Luana Vieira Torres </figcaption> <img src="../../../assets/img/luana.png" alt="Luana Vieira Torres" width="250"/> |
+ | Foto: |<figcaption>Figura 4 - Foto de Luana Vieira Torres </figcaption> <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/Perfil_e_personas/assets/img/luana.png" alt="Luana Vieira Torres" width="250"/> |
  | Identidade: |  Luana Vieira Torres  |
  | Status: |   Antipersona  |
  | Idade: |  35 anos  |
@@ -102,3 +102,4 @@ Como nosso projeto gira em torno do site da prefeitura de Passo Fundo, o públic
  | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: 
  |   26/02/2022 |   1.0  | Criação do documento|[Lorenzo Santos](https://github.com/lorenzo7377) |
  |   26/02/2022 |   1.1  | Correções e acréscimo de informações de perfil do usuário|[Kayro César](https://github.com/kayrocesar) |
+ |   26/02/2022 |   1.2  | Revisão do documento|[Lorenzo Santos](https://github.com/lorenzo7377) |

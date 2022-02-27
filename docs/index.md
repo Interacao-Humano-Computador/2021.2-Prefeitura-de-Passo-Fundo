@@ -10,9 +10,9 @@
 
 ## Sobre o Projeto
 
-<p style="text-indent: 20px; text-align: justify">Este repositório tem como objetivo documentar o projeto do grupo 2 da matéria de **Interação Humano Computador** da Universidade de Brasília, ministrada pelo professor **André Barros de Sales**.
+<p style="text-indent: 20px; text-align: justify">Este repositório tem como objetivo documentar o projeto do grupo 2 da matéria de <b>Interação Humano Computador</b> da Universidade de Brasília, ministrada pelo professor <b>André Barros de Sales</b>.
 
-O material de estudo escolhido foi o site da [Prefeitura de Passo Fundo](http://www.pmpf.rs.gov.br/), no qual iremos utilizar as técnicas aprendidas ao longo do semestre e propor mudanças significativas para melhor usabilidade de suas funcionalidades.
+<p style="text-indent: 20px; text-align: justify">O material de estudo escolhido foi o site da <a href = "http://www.pmpf.rs.gov.br/">Prefeitura de Passo Fundo </a>, no qual iremos utilizar as técnicas aprendidas ao longo do semestre e propor mudanças significativas para melhor usabilidade de suas funcionalidades.
 
 ## Equipe
 
