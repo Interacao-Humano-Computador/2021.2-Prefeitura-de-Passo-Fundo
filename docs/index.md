@@ -1,6 +1,10 @@
 # Prefeitura de Passo Fundo
 
-<p style="text-indent: 20px; text-align: justify">Passo Fundo é uma cidade localizada no interior do estado do Rio Grande do Sul, conhecida como a capital nacional da literatura.
+<div style="text-indent: 20px; text-align: justify">Passo Fundo é uma cidade localizada no interior do estado do Rio Grande do Sul, conhecida como a capital nacional da literatura.
+
+</div>
+<br>
+<br>
 
 <div align="center">
 
