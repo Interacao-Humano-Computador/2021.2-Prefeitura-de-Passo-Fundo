@@ -149,7 +149,7 @@ Plano 3: caso queira ordenar, Faça 3.1;<br>
 <figcaption> Fonte: Imagem do autor. </figcaption>
 </figure>
 <br><br>
-<figcaption> Tabela 1: HTA01 - Obter licenças, alvarás e certidões </figcaption>
+<figcaption> Tabela 1: Obter licenças, alvarás e certidões </figcaption>
 
 |Objetivos/operações|Problemas e recomendações|
 |         :--       |            -            |
@@ -219,12 +219,12 @@ Plano 3: caso queira ordenar, Faça 3.1;<br>
 <p style="text-indent: 20px; text-align: center"> Fonte: Imagem do autor. </p>
 
 #### 3.2.4. HTA04
-<figcaption> Figura 4: Análise da Tarefa para obtenção de informações pelo portal da transparêns - Licitações </figcaption>
+<figcaption> Figura 4: Análise da Tarefa para obtenção de informações pelo portal da transparência - Licitações </figcaption>
 ![licitação](https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/aht_transparencia-licitacao.drawio.svg)
 <figcaption> Fonte: Imagem do autor. </figcaption>
 </figure>
 <br><br>
-<figcaption> Tabela 4: HTA01 - Obter licenças, alvarás e certidões </figcaption>
+<figcaption> Tabela 4: Obtenção de informações pelo portal da transparência - Licitações </figcaption>
 
 |Objetivos/operações|Problemas e recomendações|
 |         :--       |            -            |
