@@ -146,7 +146,7 @@ Plano 3: caso queira ordenar, Faça 3.1;<br>
 
 #### 3.2.1. HTA01
 <figcaption> Figura 1: Análise da Tarefa de Protocólos para licenças, alvarás e certidões. </figcaption>
-<img src="../../../assets/img/aht_licencas-alvaras.drawio.svg"/>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img//aht_licencas-alvaras.drawio.svg"/>
 <p style="text-indent: 20px; text-align: center"> Fonte: Imagem do autor. </p>
 </figure>
 <br><br>
@@ -172,7 +172,7 @@ Plano 3: caso queira ordenar, Faça 3.1;<br>
 
 #### 3.2.2. HTA02
 <figcaption> Figura 2: Análise da Tarefa de Agendar Vacinação do Coronavírus. </figcaption>
-<img src="../../../assets/img/diagrama-vacina.png"/>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img//diagrama-vacina.png"/>
 <p style="text-indent: 20px; text-align: center"> Fonte: Imagem do autor. </p>
 
 <figcaption> Tabela 2: Análise da Tarefa de Agendar Vacinação do Coronavírus. </figcaption>
@@ -189,7 +189,7 @@ Plano 3: caso queira ordenar, Faça 3.1;<br>
 
 #### 3.2.3. HTA03
 <figcaption> Figura 3: Análise da Obter licença para táxi. </figcaption>
-<img src="../../../assets/img/diagrama-taxi.png"/>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/diagrama-taxi.png"/>
 <p style="text-indent: 20px; text-align: center"> Fonte: Imagem do autor. </p>
 
 <figcaption> Tabela 3: Análise da Obter licença para táxi. </figcaption>
@@ -220,7 +220,7 @@ Plano 3: caso queira ordenar, Faça 3.1;<br>
 
 #### 3.2.4. HTA04
 <figcaption>  Figura 4: Análise da Tarefa para obtenção de informações pelo portal da transparência - Licitações </figcaption>
-<img src="../../../assets/img/aht_transparencia-licitacao.drawio.svg"/>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/aht_transparencia-licitacao.drawio.svg"/>
 <p style="text-indent: 20px; text-align: center"> Fonte: Imagem do autor. </p>
 </figure>
 <br><br>
