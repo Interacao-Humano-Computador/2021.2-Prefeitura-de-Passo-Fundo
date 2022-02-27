@@ -53,9 +53,9 @@ Com isso em mente, membros do grupo realizaram acessos aos principais serviços 
 
 |Objetivos/operações|Problemas e recomendações|
 |         :--       |            -            |
-| 0. Obter Alvarás / Licenças |  |
-| 1. Ler as infos sobre os documentos necessários e passos |  |
-| 2. Acessar a página de  requisição |  |
+| 0. Obter Alvarás / Licenças | input: requisição de documento; feedback: recebimento ou negação do documento requerido; plano: enviar número de protocólo da requisição, validar os documentos enviados  |
+| 1. Ler as infos sobre os documentos necessários e passos | recomendação: ler antes de acessar os formulários |
+| 2. Acessar a página de  requisição | input: dados pessoais do usuário, documentos necessários; feedback: sucesso do envio, protocolo da requisição; ação: não aceitar dados incompletos|
 | 2.1. Preencher dados pessoais | |
 | 2.1.1.  Integrar dados |  |
 | 2.2. Selecionar o serviço correto |  |
