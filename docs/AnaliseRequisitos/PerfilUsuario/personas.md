@@ -98,8 +98,8 @@ Como nosso projeto gira em torno do site da prefeitura de Passo Fundo, o públic
 
 
 ## Histórico de versões
- | **Data**   | **Versão** | **Descrição**   |    **Autor(es)**  | 
- | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: 
- |   26/02/2022 |   1.0  | Criação do documento|[Lorenzo Santos](https://github.com/lorenzo7377) |
- |   26/02/2022 |   1.1  | Correções e acréscimo de informações de perfil do usuário|[Kayro César](https://github.com/kayrocesar) |
- |   26/02/2022 |   1.2  | Revisão do documento|[Lorenzo Santos](https://github.com/lorenzo7377) |
+ | **Data**   | **Versão** | **Descrição**   |    **Autor(es)**  | **Revisor** |
+ | ---------- | :--------: | ---------------------------------------- | -----------|:------------------------------------------: 
+ |   26/02/2022 |   1.0  | Criação do documento|[Lorenzo Santos](https://github.com/lorenzo7377) | [Kathlyn Lara](https://github.com/klmurussi)
+ |   26/02/2022 |   1.1  | Correções e acréscimo de informações de perfil do usuário|[Kayro César](https://github.com/kayrocesar) | [Kathlyn Lara](https://github.com/klmurussi) 
+ |   26/02/2022 |   1.2  | Revisão do documento|[Lorenzo Santos](https://github.com/lorenzo7377) |[Kathlyn Lara](https://github.com/klmurussi) 
