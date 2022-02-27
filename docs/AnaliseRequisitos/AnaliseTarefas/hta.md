@@ -76,8 +76,6 @@ Plano 2.2: Faça 2.2.1 - 2.2.2;<br>
 Plano 3: Faça 3;<br>
 Plano 4: Faça 4.1; Plano 4.1: Faça 4.1.1, caso o formulário necessite de correções, faça 4.1.2 e caso não haja nenhuma possibilidade de aceitação do requerimento, faça 4.1.3.
 
-
-
 #### 3.1.2. HTA02
 
 0 - Agendar a vacinação do coronavírus
@@ -122,6 +120,25 @@ Plano 0: Faça 1 - 3, caso não saiba os documentos, 1 - 2 - 3
 <br>Plano 3: Faça 3.1 - 3.2 - 3.3 - 3.4 - 3.5 - 3.6
 <br>Plano 3.3: Faça 3.3.1 - 3.3.2 - 3.3.3 ou, se achar necessário, 3.3.1 - 3.3.2 - 3.3.3 - 3.3.4
 <br>Plano 3.4: Faça 3.4.1 - 3.4.2, se achar necessário, 3.4.1 - 3.4.2 - 3.4.3
+
+#### 3.1.4. HTA04
+
+0. Acessar infos sobre licitação
+1. Gerar documento com resumo das licitações
+   - 1.1. Escolher formato do documento
+2. Pesquisar editais específicos
+   - 2.1. Gerar filtros
+     - 2.1.1.  Pesquisar
+       -  2.1.1.1. Ordenar por alguma das colunas
+3. Visualizar todos os editais
+   - 3.1. Ordenar por alguma das colunas
+
+Plano 0: Faça 1, caso queira uma busca específica, Faça 2, caso queira ver os editais, um por um, Faça 3 <br>
+Plano 1: Faça 1.1;<br>
+Plano 2: Faça 2.1;<br>
+Plano 2.1: Faça 2.1.1;
+Plano 2.1.1: Faça 2.1.1.1.;<br>
+Plano 3: caso queira ordenar, Faça 3.1;<br>
 
 ### 3.2. Representação Gráfica
 
@@ -168,7 +185,7 @@ Plano 0: Faça 1 - 3, caso não saiba os documentos, 1 - 2 - 3
 | 2.2. Dentro da imagem, ler os locais e horários para se vacinar| **Input**: imagem aumentada com informação do grupo de vacinação, dos horários, locais e dias. |
 <p style="text-indent: 20px; text-align: center"> Fonte: Imagem do autor. </p>
 
-### 3.2.3 HTA03
+### 3.2.3 HTA0
 <figcaption> Figura 3: Análise da Obter licença para táxi. </figcaption>
 ![imagem](https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/33-analise-hierarquica/assets/img/diagrama-taxi.png)
 <p style="text-indent: 20px; text-align: center"> Fonte: Imagem do autor. </p>
@@ -199,6 +216,26 @@ Plano 0: Faça 1 - 3, caso não saiba os documentos, 1 - 2 - 3
 | 3.6 - Escolha se quer ou não salvar o comprovante de processo (recomenda-se que sim) | **Input**: escolher um botão |
 
 <p style="text-indent: 20px; text-align: center"> Fonte: Imagem do autor. </p>
+
+#### 3.2.4. HTA04
+<figcaption> Figura 4: Análise da Tarefa para obtenção de informações pelo portal da transparêns - Licitações </figcaption>
+<img src="../../../assets/img/aht_transparencia-licitacao.drawio.svg"/>
+<figcaption> Fonte: Imagem do autor. </figcaption>
+</figure>
+<br><br>
+<figcaption> Tabela 4: HTA01 - Obter licenças, alvarás e certidões </figcaption>
+
+|Objetivos/operações|Problemas e recomendações|
+|         :--       |            -            |
+| 0. Acessar infos sobre licitação |**Feedback:** exibição dos editais; <br>**Plano:** Recuperar editais necessários  |
+| 1. Gerar documento com resumo das licitações |**Input:** formato do documento <br>**Feedback:** documento para download; |
+| 1.1. Escolher formato do documento |**Recomendação:** formatos não editáveis |
+| 2. Pesquisar editais específicos |**Inputs:** filtros de busca |
+| 2.1. Gerar filtros |**Inputs:** filtros de busca |
+| 2.1.1.  Pesquisar |**Inputs:** filtros de busca |
+| 2.1.1.1. Ordenar por alguma das colunas |**Recomendações:** ordenar por data por default |
+| 3. Visualizar todos os editais |**Feedback:** tabela com os editais <br>**Recomendações:** separar em páginas|
+| 3.1. Ordenar por alguma das colunas |**Feedback:** tabela com os editais <br>**Recomendações:** ordenar por data por default |
 
 ## Referências bibliográficas
 
