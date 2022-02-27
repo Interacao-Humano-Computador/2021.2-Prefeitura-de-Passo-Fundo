@@ -9,7 +9,7 @@ Ela ajuda a identificar problemas de desempenho numa empresa ou num projeto, ass
 
 ## 2. Metodologia
 <p style="text-indent: 20px; text-align: justify">
-Uma tarefa complexa é qualquer parte do trabalho que precisa ser concluído. Podemos definir uma tarefa em seu(s) objetivo(s), como por exemplo, terminar o documento de HTA, e se desdobrar em subojetivos, como, fazer a introdução, fazer a metodologia, etc. E assim, também podemos, desdobrar os subojetivos em mais subojetivos, e assim por diante. Normalmente paramos de desdobrar quando já temos todas as informações necessárias para concluir o objetivo, um critério de parada, é o critério p x c (Annett e Duncan, 1967), parar quando o produto da probabilidade de falha (p) e o custo da falha (c) for julgado aceitável.
+Uma tarefa complexa é qualquer parte do trabalho que precisa ser concluído. Podemos definir uma tarefa em seu(s) objetivo(s), como por exemplo, terminar o documento de HTA, e se desdobrar em subojetivos, como, fazer a introdução, fazer a metodologia, etc. E assim, também podemos, desdobrar os subojetivos em mais subobjetivos, e assim por diante. Normalmente paramos de desdobrar quando já temos todas as informações necessárias para concluir o objetivo, um critério de parada, é o critério p x c (Annett e Duncan, 1967), parar quando o produto da probabilidade de falha (p) e o custo da falha (c) for julgado aceitável.
 </p>
 <p style="text-indent: 20px; text-align: justify">
 Segundo Barbosa e Silva (2010), uma HTA consiste nos seguintes passos:
@@ -48,6 +48,7 @@ Com isso em mente, membros do grupo realizaram acessos aos principais serviços 
 | 25/02/2022 | Obter licenças, alvarás e certidões | HTA01 |
 | 26/02/2022 | Obter informação sobre a quando se vacinar contra o coronavírus | HTA02 |
 | 26/02/2022 | Obter licença para condutor auxiliar (Táxi) | HTA03 |
+| 26/02/2022 | Acessar informações sobre licitações | HTA04 |
 
 ### 3.1. Representação Textual
 
@@ -144,7 +145,7 @@ Plano 3: caso queira ordenar, Faça 3.1;<br>
 
 #### 3.2.1. HTA01
 <figcaption> Figura 1: Análise da Tarefa de Protocólos para licenças, alvarás e certidões. </figcaption>
-<img src="../../../assets/img/aht_licencas-alvaras.drawio.svg"/>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/aht_licencas-alvaras.drawio.svg"/>
 <figcaption> Fonte: Imagem do autor. </figcaption>
 </figure>
 <br><br>
@@ -170,7 +171,7 @@ Plano 3: caso queira ordenar, Faça 3.1;<br>
 
 #### 3.2.2.HTA02
 <figcaption> Figura 2: Análise da Tarefa de Agendar Vacinação do Coronavírus. </figcaption>
-![imagem](https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/33-analise-hierarquica/assets/img/diagrama-vacina.png)
+![imagem](https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/diagrama-vacina.png)
 <p style="text-indent: 20px; text-align: center"> Fonte: Imagem do autor. </p>
 
 <figcaption> Tabela 2: Análise da Tarefa de Agendar Vacinação do Coronavírus. </figcaption>
@@ -185,9 +186,9 @@ Plano 3: caso queira ordenar, Faça 3.1;<br>
 | 2.2. Dentro da imagem, ler os locais e horários para se vacinar| **Input**: imagem aumentada com informação do grupo de vacinação, dos horários, locais e dias. |
 <p style="text-indent: 20px; text-align: center"> Fonte: Imagem do autor. </p>
 
-### 3.2.3 HTA0
+### 3.2.3 HTA03
 <figcaption> Figura 3: Análise da Obter licença para táxi. </figcaption>
-![imagem](https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/33-analise-hierarquica/assets/img/diagrama-taxi.png)
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/diagrama-taxi.png" />
 <p style="text-indent: 20px; text-align: center"> Fonte: Imagem do autor. </p>
 
 <figcaption> Tabela 3: Análise da Obter licença para táxi. </figcaption>
@@ -219,7 +220,7 @@ Plano 3: caso queira ordenar, Faça 3.1;<br>
 
 #### 3.2.4. HTA04
 <figcaption> Figura 4: Análise da Tarefa para obtenção de informações pelo portal da transparêns - Licitações </figcaption>
-<img src="../../../assets/img/aht_transparencia-licitacao.drawio.svg"/>
+![licitação](https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/aht_transparencia-licitacao.drawio.svg)
 <figcaption> Fonte: Imagem do autor. </figcaption>
 </figure>
 <br><br>
@@ -245,8 +246,8 @@ Plano 3: caso queira ordenar, Faça 3.1;<br>
 
 ### Histórico de versões
 
- | **Data**   | **Versão** | **Descrição** | **Autor(es)**| **Revisor(es)** |
- | ---------- | :--------: | ---------------------------------------- |:------------------------------------------: |------| 
+ | **Data**   | **Versão** | **Descrição** | **Autor(es)**|
+ | ---------- | :--------: | ---------------------------------------- |:------------------------------------------: |
  | 24/02/2022 |    1.0     | Criação do documento AHT           |        [Adrian Soares](https://github.com/SwampTG)               |
  | 26/02/2022 | 1.1 | Escrita da introdução e metodologia | [Kathlyn Lara](https://github.com/klmurussi) |
  | 26/02/2022 | 1.2 | Complementação da metodologia| [Adrian Soares](https://github.com/SwampTG) |
@@ -260,6 +261,8 @@ figcaption {
 }
 img {
     position: relative;
-    left: 15%;
+    left: 5%;
+    width: 600px;
+    height: auto;
 }
 </style>
