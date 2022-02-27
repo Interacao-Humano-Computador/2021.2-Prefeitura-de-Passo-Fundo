@@ -1,0 +1,195 @@
+## 1. Introdução
+
+<p style="text-indent: 20px; text-align: justify">
+A Análise Hierárquica de Tarefas, ou Hierarchial Task Analysis (HTA), surgiu no século XX, na década de 60, tendo como intuito, entender as habilidades e competências exigidas numa tarefa complexa.
+</p>
+<p style="text-indent: 20px; text-align: justify">
+Ela ajuda a identificar problemas de desempenho numa empresa ou num projeto, assim como no bem estar e saúde dos trabalhadores. Usando de psicologia funcional, e não comportamental, ela ajuda a relacionar o que as pessoas fazem (ou recomenda-se que façam), por que o fazem, e quais as consequências caso não o façam corretamente (Barbosa e Silva, 2010).
+</p>
+
+## 2. Metodologia
+<p style="text-indent: 20px; text-align: justify">
+Uma tarefa complexa é qualquer parte do trabalho que precisa ser concluído. Podemos definir uma tarefa em seu(s) objetivo(s), como por exemplo, terminar o documento de HTA, e se desdobrar em subojetivos, como, fazer a introdução, fazer a metodologia, etc. E assim, também podemos, desdobrar os subojetivos em mais subojetivos, e assim por diante. Normalmente paramos de desdobrar quando já temos todas as informações necessárias para concluir o objetivo, um critério de parada, é o critério p x c (Annett e Duncan, 1967), parar quando o produto da probabilidade de falha (p) e o custo da falha (c) for julgado aceitável.
+</p>
+<p style="text-indent: 20px; text-align: justify">
+Segundo Barbosa e Silva (2010), uma HTA consiste nos seguintes passos:
+</p>
+<p style="text-indent: 20px; text-align: justify">
+  • Decidir os objetivos da análise;</p>
+
+<p style="text-indent: 20px; text-align: justify">
+  • Definir os resultados esperados para checar se um objetivo foi concluído, e também, as consequências caso falhe em atingir o resultado;</p>
+
+<p style="text-indent: 20px; text-align: justify">
+  • Identificar a fonte das informações das tarefas e como coletar os dados;</p>
+
+<p style="text-indent: 20px; text-align: justify">
+  • Coletar dados e esboçar uma tabela ou diagrama de decomposição (objetivos em subojetivos);</p>
+
+<p style="text-indent: 20px; text-align: justify">
+  • Verificar se a decomposição é válida;</p>
+
+<p style="text-indent: 20px; text-align: justify">
+  • Identificar operações significativas (normalmente utiliza-se o método p x c);</p>
+
+<p style="text-indent: 20px; text-align: justify">
+  • Gerar, e se possível, testar hipóteses sobre fatores de desempenho e aprendizado.
+</p>
+
+<p style="text-indent: 20px; text-align: justify">
+Com isso em mente, membros do grupo realizaram acessos aos principais serviços disponíveis no site da prefeitura, ou seja, aqueles que consideramos os mais acessados pela população do município, com base nos serviços destacados na página inicial e em nossas considerações sobre os perfis de usuário.  
+</p>
+
+
+## 3. Análise de Tarefas 
+
+| Data da análise da tarefa | Objetivo | ID |
+| :-: | :-: | :-: |
+|  | Obter licenças, alvarás e certidões | HTA01 |
+| 26/02/2022 | Obter informação sobre a quando se vacinar contra o coronavírus | HTA02 |
+| 26/02/2022 | Obter licença para condutor auxiliar (Táxi) | HTA03 |
+
+### 3.1. Representação Textual
+
+#### 3.1.1. HTA01
+
+|Objetivos/operações|Problemas e recomendações|
+|         :--       |            -            |
+| 0. Obter Alvarás / Licenças | input: requisição de documento; feedback: recebimento ou negação do documento requerido; plano: enviar número de protocólo da requisição, validar os documentos enviados  |
+| 1. Ler as infos sobre os documentos necessários e passos | recomendação: ler antes de acessar os formulários |
+| 2. Acessar a página de  requisição | input: dados pessoais do usuário, documentos necessários; feedback: sucesso do envio, protocolo da requisição; ação: não aceitar dados incompletos|
+| 2.1. Preencher dados pessoais | |
+| 2.1.1.  Integrar dados |  |
+| 2.2. Selecionar o serviço correto |  |
+| 2.2.1. Enviar documentos obrigatórios |  |
+| 2.2.2. Enviar documentos complementares |  |
+| 3. Enviar protocolo ao usuário |  |
+| 4. Resposta à requisição do usuário |  |
+| 4. Resposta à requisição do usuário |  |
+| 4.1. Verificar protocolação |  |
+| 4.1.1 Enviar documento solicitado |  |
+| 4.1.2. Enviar necessidade de alteração do protocolo |  |
+| 4.1.3. Negar pedido de documentação |  |
+
+<p style="text-indent: 20px; text-align: justify">
+    
+</p>
+
+#### 3.1.2. HTA02
+
+0 - Agendar a vacinação do coronavírus
+<br>&emsp;&emsp;1 - Ir na página Vacinação COVID-19
+<br>&emsp;&emsp;&emsp;1.1 - Descer a página home até "PASSO FUNDO CONTRA O CORONAVÍRUS"
+<br>&emsp;&emsp;&emsp;1.2 - Clicar na Vacinação
+<br>&emsp;&emsp;2 - Verificar no calendário de vacinação
+<br>&emsp;&emsp;&emsp;2.1 - Clicar na imagem do grupo que faz parte
+<br>&emsp;&emsp;&emsp;2.2 - Dentro da imagem, ler os locais e horágit rios para se vacinar
+
+Plano 0: Faça 1 - 2
+<br>Plano 1: Faça 1.1 - 1.2
+<br>Plano 2: Faça 2.1 - 2.2
+
+#### 3.1.3. HTA03
+
+0 - Obter licença para condutor auxiliar (Táxi)
+<br>&emsp;&emsp;1- Ir na página de serviços
+<br>&emsp;&emsp;&emsp;&emsp;1.1 - Clicar no botão azul escrito SERVIÇOS, ao lado de TURISMO e SERVIDOR
+<br>&emsp;&emsp;2 - Checar os documentos necessários
+<br>&emsp;&emsp;&emsp;&emsp;2.1 - Descer a página de serviços até o final e encontrar a seção de Transporte e Trânsito
+<br>&emsp;&emsp;&emsp;&emsp;2.2 - Clicar em "Informações" ao lado de Cadastro e Renovação de Contudor Auxiliar (Táxi)
+<br>&emsp;&emsp;&emsp;&emsp;2.3 - Verificar todos os documentos constados na página
+<br>&emsp;&emsp;3 - Enviar os documentos
+<br>&emsp;&emsp;&emsp;&emsp;3.1 - Descer a página de serviços até o final e encontrar a seção de Transporte e Trânsito
+<br>&emsp;&emsp;&emsp;&emsp;3.2 - Clicar em "Acesso" ao lado de Cadastro e Renovação de Condutor (Táxi)
+<br>&emsp;&emsp;&emsp;&emsp;3.3 - Preencher o formulário
+<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.3.1 - Em requerente, preencher com o nome da pessoa
+<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.3.2 - Em grupo, escolher "SERVIÇO ELETRÔNICO"
+<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.3.3 - Em assunto, escolher "CADASTRO DE CONDUTOR AUXILIAR (TÁXI)" ou "RENOVAÇÃO DE CADASTRO DE CONDUTOR AUXILIAR (TÁXI)"
+<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.3.4 - Preencher os outros campos, se achar necessário
+<br>&emsp;&emsp;&emsp;&emsp;3.4 - Adicionar as cópias dos documentos
+<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.4.1 - Na aba de Documentos, leia as descrições e clique em Selecionar
+<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.4.2 - Clique em "+Adicionar" e selecione o documento referente no seu computador
+<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.4.3 - Se achar necessário, preencher os outros dados
+<br>&emsp;&emsp;&emsp;&emsp;3.5 - No canto superior esquerdo, clique em "Salvar"
+<br>&emsp;&emsp;&emsp;&emsp;3.6 - Escolha se quer ou não salvar o comprovante de processo (recomenda-se que sim)
+
+Plano 0: Faça 1 - 3, caso não saiba os documentos, 1 - 2 - 3
+<br>Plano 1: Faça 1.1
+<br>Plano 2: Faça 2.1 - 2.2 - 2.3
+<br>Plano 3: Faça 3.1 - 3.2 - 3.3 - 3.4 - 3.5 - 3.6
+<br>Plano 3.3: Faça 3.3.1 - 3.3.2 - 3.3.3 ou, se achar necessário, 3.3.1 - 3.3.2 - 3.3.3 - 3.3.4
+<br>Plano 3.4: Faça 3.4.1 - 3.4.2, se achar necessário, 3.4.1 - 3.4.2 - 3.4.3
+
+### 3.2. Representação Gráfica
+
+#### 3.2.1. HTA01
+<figcaption> Figura 1: Análise da Tarefa de Protocólos para licenças, alvarás e certidões. </figcaption>
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Do not edit this file with editors other than diagrams.net -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="600px" height="auto" viewBox="-0.5 -0.5 922 621" content="&lt;mxfile host=&quot;app.diagrams.net&quot; modified=&quot;2022-02-26T14:51:49.416Z&quot; agent=&quot;5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36&quot; etag=&quot;5MdGiGMuOFw-d2TIZwcT&quot; version=&quot;16.6.4&quot; type=&quot;device&quot;&gt;&lt;diagram id=&quot;prtHgNgQTEPvFCAcTncT&quot; name=&quot;Page-1&quot;&gt;7Vvbdps4FP0aPyYLJIzjRzuXmVlNJ11N25k+yqBgdWREhfClXz+SEDfbeAjjC2nJg2MdJCHO2WxtHckDeLtY/8ZRNH/PfEwHwPLXA3g3AMAeOVD+U5ZNZhmnhoAT35gKwzP5gY3RMtaE+DiuVBSMUUGiqtFjYYg9UbEhztmqWu2F0epdIxTgHcOzh+iu9S/ii3lqvQGjwv47JsE8u7PtmudboKyyeZJ4jny2Kpng/QDecsZE+m2xvsVUOS/zS9ruoeZqPjCOQ9GkQUS+wGD8D7DfBe+sq2Xy/pP/dJV1s0Q0MU/8xANvjrgwoxabzBXxiiwoCmVpGgtZwQRL3hZO54yTHywUiEqLLQ2eKpAQ80+bSNUSHKuGIV7d+9LBWa+j6QC43xPlgynOL+SmAZyUrtMZK7UuKoHboqBHNlGBr+klZGFdWxz6r2g5utPttfcwF3hdGxc7j7Z8TTBbYME3soppcHVjGYSYVyQDzKrA2zizzUtYczMjMhgP8r4LGMgvBgmvQQXYQcUOGnApjFuRMaGSF5RjiKdAUQ4MvNOuLDk8t3CWhD5WY7Ny76o71fr2IKpjlnAPH6roGEpBPMAHexzujyHHFAmyrI7v+PGAfTy2KrqXjAe0D7qfcTFnAQsRLceg6sqiziNjkSHNb1iIjaFVlAimiFUsMkqVPuabv1X762FW/Gq604W7daW06V7UxheNGrxI1NZElIImS19LV4qQqUL3IgbBaSL2Ocb8afZNKTZgUTTD1EiYa1l+mgnM5f8JXSI+uIWDiR0P1GT3ID8fiYdDbRyh3OqiRaRm6Fkc5e5TiuOjVlelIR6mWaf0sAZRJbCs5kTg5whpz66k3K0GGlEShPK7HJ4aPpyqATxIvUnCwFRRlvdsWRh+STl0ALq1IglmgttoJHdXI9l7NdLrJZIsltD5mll6uDNL2wrOjxrMGqwkfGGxfkFnXDrP0gWfeclCekcX5CIGx3EKek60CWv/xbEqgP8HyWz+n5gLC+L7muZ6rB4Pq05VzttNsToCp5r4hpeY+E4/iblNJzFnf7zOJDvGvVhsFbWbiy653B0yB4rMJ4qekSZ05ZaUqAMSqpKPd5WIHO73hMQkVSz6EzJZjSoimsl+3EDkbu+ZvdvMDrZUyF5qt44jQ+oUMlQovA+XRIMw4kwwj1GmOlcfSZzk4qEOZi2UcXnh1ivjLmHSsVrKjXNKY+fnVCAQNJzLnBMpkDqScBRJfMRxxCTM1SJZUYJVOxvJJcgOdbQjikq+oCeKLhHFcPwGiAKOfk6iaJxvO1Feu44owLVOUXyQb1XozXWiwke+TjtEUugyROLjqQjY59e6Sg62VVW20D4rORyCpwLozqrqD4mBgKMSXltC0u0h+UYg6ZwXkg2F7eGN2F8tuZPmbJoIYmt/7M+T3HEusxP49qNW88aeTp3onNszptgj0teK7tVKRVZfmjWMKnqMcyzar1nKicZ+DujSHABBdc3SGVlidHOeh6vs4bEZJwESCqBTmG7itUNmhSV7ZHYJmWBYReaZ1ckhZIJ6ZHpsEVGsivLx28PS7mHZUVjCm7cgmi+yI3pyGeU0TfI4F93ZHF7m8GIXj8E1jtjwRMuV+vy9lhdfMCcvxKvs9KGt3H1LCu9TcV2lcNetKgsw6iKFu2+cRP6bpLOdiKYk0jrujUnENP3ASCgKvFzZW1IUwPH1uPznVLtMn8j0sgWNfFivZSt7r+bU/qPEIwL57blq1HNVR7lqCDq5ClKArK6C0mO1xEfqjJY+qGUhKvGwPZumO+GlUzXH2vty+iRTV0G8PeF2CMT6sNefOEgVIPaJhmeKYcOxx9GDwz7T1FV4bv889MzwlKbiN8qpRih+6Q3v/wU=&lt;/diagram&gt;&lt;/mxfile&gt;" style="background-color: rgb(255, 255, 255);"><defs/><g><path d="M 0 20 L 0 0 L 920 0 L 920 20" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/><path d="M 0 20 L 0 620 L 920 620 L 920 20" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/><path d="M 0 20 L 920 20" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/><g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px"><text x="459.5" y="14.5">Orgchart</text></g><path d="M 387 120 L 387 139.57 L 100 139.57 L 100 160" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/><path d="M 387 120 L 387 139.57 L 277 139.57 L 277 160" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/><path d="M 387 120 L 387 140 L 460 140 L 460 153.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/><path d="M 460 158.88 L 456.5 151.88 L 460 153.63 L 463.5 151.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/><path d="M 387 120 L 387 140 L 650 140 L 650 153.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/><path d="M 650 158.88 L 646.5 151.88 L 650 153.63 L 653.5 151.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/><rect x="327" y="60" width="120" height="60" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 90px; margin-left: 328px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">0. Obter Alvarás / Licenças / </div></div></div></foreignObject><text x="387" y="94" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">0. Obter Alvarás / L...</text></switch></g><rect x="40" y="160" width="120" height="72" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 196px; margin-left: 41px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">1. Ler as infos sobre os documentos necessários e passos</div></div></div></foreignObject><text x="100" y="200" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">1. Ler as infos sobr...</text></switch></g><path d="M 277 220 L 277 265 L 167 265 L 167 303.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/><path d="M 167 308.88 L 163.5 301.88 L 167 303.63 L 170.5 301.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/><path d="M 277 220 L 277 265 L 380 265 L 380 303.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/><path d="M 380 308.88 L 376.5 301.88 L 380 303.63 L 383.5 301.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/><rect x="227" y="160" width="100" height="60" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 190px; margin-left: 228px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">2. Acessar a página de  requisição<br /></div></div></div></foreignObject><text x="277" y="194" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">2. Acessar a pági...</text></switch></g><rect x="400" y="160" width="120" height="60" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 190px; margin-left: 401px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">3. Enviar protocolo ao usuário<br /></div></div></div></foreignObject><text x="460" y="194" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">3. Enviar protocolo...</text></switch></g><path d="M 650 220 L 650 245 L 720 245 L 720 263.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/><path d="M 720 268.88 L 716.5 261.88 L 720 263.63 L 723.5 261.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/><rect x="590" y="160" width="120" height="60" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 190px; margin-left: 591px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">4. Resposta à requisição do usuário</div></div></div></foreignObject><text x="650" y="194" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">4. Resposta à requis...</text></switch></g><path d="M 167 370 L 167 403.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/><path d="M 167 408.88 L 163.5 401.88 L 167 403.63 L 170.5 401.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/><rect x="107" y="310" width="120" height="60" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 340px; margin-left: 108px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">2.1. Preencher dados pessoais<br /></div></div></div></foreignObject><text x="167" y="344" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">2.1. Preencher dados...</text></switch></g><rect x="107" y="410" width="120" height="60" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 440px; margin-left: 108px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">2.1.1.  Integrar dados</div></div></div></foreignObject><text x="167" y="444" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">2.1.1.  Integrar dad...</text></switch></g><path d="M 380 370 L 380 390 L 310 390 L 310 403.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/><path d="M 310 408.88 L 306.5 401.88 L 310 403.63 L 313.5 401.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/><path d="M 380 370 L 380 390 L 447 390 L 447 403.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/><path d="M 447 408.88 L 443.5 401.88 L 447 403.63 L 450.5 401.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/><rect x="320" y="310" width="120" height="60" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 340px; margin-left: 321px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">2.2. Selecionar o serviço correto</div></div></div></foreignObject><text x="380" y="344" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">2.2. Selecionar o se...</text></switch></g><rect x="250" y="410" width="120" height="60" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 440px; margin-left: 251px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">2.2.1. Enviar documentos obrigatórios</div></div></div></foreignObject><text x="310" y="444" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">2.2.1. Enviar docume...</text></switch></g><rect x="387" y="410" width="120" height="60" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 440px; margin-left: 388px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">2.2.2. Enviar documentos complementares</div></div></div></foreignObject><text x="447" y="444" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">2.2.2. Enviar docume...</text></switch></g><path d="M 720 330 L 720 403.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/><path d="M 720 408.88 L 716.5 401.88 L 720 403.63 L 723.5 401.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/><path d="M 720 330 L 720 370 L 860 370 L 860 403.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/><path d="M 860 408.88 L 856.5 401.88 L 860 403.63 L 863.5 401.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/><rect x="660" y="270" width="120" height="60" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 300px; margin-left: 661px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">4.1. Verificar protocolação</div></div></div></foreignObject><text x="720" y="304" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">4.1. Verificar proto...</text></switch></g><path d="M 720 330 L 720 370 L 580 370 L 580 403.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/><path d="M 580 408.88 L 576.5 401.88 L 580 403.63 L 583.5 401.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/><rect x="520" y="410" width="120" height="60" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 440px; margin-left: 521px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">4.1.1 Enviar documento solicitado</div></div></div></foreignObject><text x="580" y="444" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">4.1.1 Enviar documen...</text></switch></g><rect x="660" y="410" width="120" height="60" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 440px; margin-left: 661px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">4.1.2. Enviar necessidade de alteração do protocolo<br /></div></div></div></foreignObject><text x="720" y="444" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">4.1.2. Enviar necess...</text></switch></g><rect x="800" y="410" width="120" height="60" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 440px; margin-left: 801px;"><div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">4.1.3. Negar pedido de documentação</div></div></div></foreignObject><text x="860" y="444" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">4.1.3. Negar pedido...</text></switch></g></g><switch><g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/><a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank"><text text-anchor="middle" font-size="10px" x="50%" y="100%">Text is not SVG - cannot display</text></a></switch></svg>
+<figcaption style="text-align: center;"> Fonte: Imagem do autor. </figcaption>
+</figure>
+
+#### 3.2.2.HTA02
+<figcaption> Figura 2: Análise da Tarefa de Agendar Vacinação do Coronavírus. </figcaption>
+![imagem](https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/33-analise-hierarquica/assets/img/diagrama-vacina.png)
+<p style="text-indent: 20px; text-align: center"> Fonte: Imagem do autor. </p>
+
+<figcaption> Tabela 1: Análise da Tarefa de Agendar Vacinação do Coronavírus. </figcaption>
+| Objetivos/operações | Problemas e recomendações |
+|:- | :-: |
+| 0. Agendar a vacina do Coronavírus| |
+| 1. Ir na página de vacinação do COVID-19 | **Input**: página principal da Prefeitura de Passo Fundo aberta. |
+| 1.1. Descer a página home até "PASSO FUNDO CONTRA O CORONAVÍRUS" | **Input**: barra de rolagem que fica na lateral direita; <br>**Action**: descer a barra até encontrar a área de combate ao Coronavírus |
+| 1.2. Clicar na Vacinação | **Input**: área de combate ao Coronavírus;<br>**Action**: Clicar na imagem de seringa com a legenda de "vacinação";<br>**Feedback**: Aparecerá a página de Vacinação COVID-19; <br>**Problema**: uma nova aba será aberta no navegador; <br>**Recomendação**: modificar o caminho de acesso para que o usuário seja redirecionado para uma tela na mesma aba do navegador. |
+| 2. Verificar no calendário de vacinação |**Input**: página de vacinação COVID-19 |
+| 2.1. Clicar na imagem do grupo que faz parte | **Input**: barra de rolagem que fica na lateral direita. <br>**Action**: Clicar em cima da imagem do grupo que faz parte. <br>**Feedback**: a imagem aumentará um pouco de tamanho. <br>**Problema**: as informações de horário e local são em letras pequenas, dificultando para pessoas com problemas visuais. <br>**Recomendação**: ao clicar na imagem, direcione para uma nova página, com letras em tamanho adequado. |
+| 2.2. Dentro da imagem, ler os locais e horários para se vacinar| **Input**: imagem aumentada com informação do grupo de vacinação, dos horários, locais e dias. |
+<p style="text-indent: 20px; text-align: center"> Fonte: Imagem do autor. </p>
+
+### 3.2.3 HTA03
+<figcaption> Figura 3: Análise da Obter licença para táxi. </figcaption>
+![imagem](https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/33-analise-hierarquica/assets/img/diagrama-taxi.png)
+<p style="text-indent: 20px; text-align: center"> Fonte: Imagem do autor. </p>
+
+<figcaption> Tabela 2: Análise da Obter licença para táxi. </figcaption>
+| Objetivos/operações | Problemas e recomendações |
+|:- | :-: |
+| 0. Obter licença para táxi| |
+| 1. Ir na página de serviços | **Input**: página principal da Prefeitura de Passo Fundo aberta. |
+| 1.1.  Clicar no botão azul escrito SERVIÇOS, ao lado de TURISMO e SERVIDOR | **Input**: aba Guia de Serviços;<br>**Action**: Clicar no botão escrito SERVIÇOS;<br>**Feedback**: Aparecerá a página de Guia de Serviços Municipais |
+| 2. Checar documentos necessários |**Input**: página de Guia de Serviços Municipais |
+| 2.1. Descer a página de serviços até o final e encontrar a seção de Transporte e Trânsito | **Input**: barra de rolagem que fica na lateral direita.|
+| 2.2. Clicar em "Informações" ao lado de Cadastro e Renovação de Contudor (Táxi)| **Input**: seção de Transporte e Transito;<br>**Action**: clicar no botão de Informações ao lado de Cadastro e Renovação de Condutor Auxiliar (Táxi);<br>**Feedback**: Aparecerá uma nova página com as informações/documentos necessários para o processo de licença de táxi |
+| 2.3. Verificar todos os documentos constados na página | **Input**: Página de Serviço - Cadastro e Renovação de Condutor Auxiliar (Táxi) |
+| 3 - Enviar os documentos | **Input**: página de Guia de Serviços Municipais |
+| 3.1 - Descer a página de serviços até o final e encontrar a seção de Transporte e Trânsito | **Input**: barra de rolagem que fica na lateral direita.|
+| 3.2 - Clicar em "Acesso" ao lado de Cadastro e Renovação de Condutor (Táxi) |  **Input**: seção de Transporte e Transito;<br>**Action**: clicar no botão de Acesso ao lado de Cadastro e Renovação de Condutor Auxiliar (Táxi);<br>**Feedback**: Aparecerá uma nova página para o preenchimento do processo de licença de táxi |
+| 3.3 - Preencher o formulário | **Input**: página com os dados para preencher para o processo de licença de táxi |
+| 3.3.1 - Em requerente, preencher com o nome da pessoa | **Input**: campo de entrada do teclado;<br>**Action**: escrever o nome do requerente |
+| 3.3.2 - Em grupo, escolher "SERVIÇO ELETRÔNICO" | **Input**: botão com múltipla escolha |
+|3.3.3 - Em assunto, escolher "CADASTRO DE CONDUTOR AUXILIAR (TÁXI)" ou "RENOVAÇÃO DE CADASTRO DE CONDUTOR AUXILIAR (TÁXI)" | **Input**: botão com múltipla escolha |
+| 3.3.4 - Preencher os outros campos, se achar necessário | |
+| 3.4 - Adicionar as cópias dos documentos |  **Input**: página com os documentos para enviar |
+| 3.4.1 - Na aba de Documentos, leia as descrições e clique em Selecionar | **Input**: botão de redirecionamento; **Feedback**: abre uma nova janela para enviar o documento |
+| 3.4.2 - Clique em "+Adicionar" e selecione o documento referente no seu computador | |
+| 3.4.3 - Se achar necessário, preencher os outros dados | |
+|3.5 - No canto superior esquerdo, clique em "Salvar" | **Input**: botão escrito salvar; <br>**Feedback**: Sairá da página de envio de documentos e aparecerá uma janela sobre o comprovante do processo; <br>**Problema**: só tem a opção de imprimir e salvar no computador, ou seja, o usuário não poderá acessar em outra máquina;<br>**Recomendação** Enviar o comprovante para o e-mail do usuário |
+| 3.6 - Escolha se quer ou não salvar o comprovante de processo (recomenda-se que sim) | **Input**: escolher um botão |
+
+<p style="text-indent: 20px; text-align: center"> Fonte: Imagem do autor. </p>
+
+## Referências bibliográficas
+
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2010) Interação Humano-Computador e Experiência do usuário. Autopublicação.
+
+> Menezes, R. C. D; Pereira, A. S.; Franz, L. A . S. (2015) Aplicação da Análise Hierárquica da Tarefa e Estudo de Demandas Ergonômicas em uma Empresa de Doces. Disponível em: http://abepro.org.br/biblioteca/TN_STP_209_238_27365.pdf. Acesso em 26 fev. 2022.
+
+### Histórico de versões
+
+ | **Data**   | **Versão** | **Descrição** | **Autor(es)**| **Revisor(es)** |
+ | ---------- | :--------: | ---------------------------------------- |:------------------------------------------: |------| 
+ | 24/02/2022 |    1.0     | Criação do documento AHT           |        [Adrian Soares](https://github.com/SwampTG)         |
+ | 26/02/2022 | 1.1 | Escrita da introdução e metodologia | [Kathlyn Lara](https://github.com/klmurussi) |
+ | 26/02/2022 | 1.2 | Análise de agendamento de vacinação e da licença de táxi| [Kathlyn Lara](https://github.com/klmurussi)
