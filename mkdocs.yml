@@ -14,14 +14,15 @@ nav:
    - Processo de design:
      - Usabilidade de Mayhew: Planejamento/UsabilidadeMayhew.md
  - Análise de Requisitos:
+   - Perfil do usuário:
+        - Personas: AnaliseRequisitos/PerfilUsuario/personas.md 
    - Análise de Tarefas: 
        - Análise Hierárquica de Tarefas: AnaliseRequisitos/AnaliseTarefas/hta.md
        - GOMS: AnaliseRequisitos/AnaliseTarefas/goms.md 
-   - Perfil do usuário:
-        - Personas: AnaliseRequisitos/PerfilUsuario/personas.md 
  - Design, Avaliação e Desenvolvimento: DesignAvaliacaoDesenvolvimento/arquivo.md
  - Apresentações:
       - Apresentação 1: Apresentacoes/apresentacao1.md
+      - Apresentação 2: Apresentacoes/apresentacao2.md
  - Atas:
      - Ata 1: Atas/ata1.md
      - Ata 2: Atas/ata2.md
