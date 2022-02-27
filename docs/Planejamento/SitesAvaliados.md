@@ -1,6 +1,8 @@
 ## Escolha do site
 
- Cada membro avaliou individualmente um site de sua escolha e a partir desses sites foi escolhido um por meio de votação realizada em reunião. O site escolhido foi o site da [Prefeitura de Passo Fundo](http://www.pmpf.rs.gov.br/), pois foi o que mais aparentou ter uma estrutura problemática, sem muita organização e com  problemas de design aparentes.
+ <p style="text-indent: 20px; text-align: justify">Cada membro avaliou individualmente um site de sua escolha e a partir desses sites foi escolhido um por meio de votação realizada em reunião. O site escolhido foi o site da <a href = "http://www.pmpf.rs.gov.br/">Prefeitura de Passo Fundo </a>, pois foi o que mais aparentou ter uma estrutura problemática, sem muita organização e com  problemas de design aparentes.</p>
+
+ <br>
 
 
 ## Sites analisados pelos integrantes do grupo
@@ -15,6 +17,8 @@
 
 
 <figcaption>Tabela 1 - Sites analisados </figcaption> 
+<br>
+<br>
 
 ### Histórico de versões
 

@@ -6,13 +6,13 @@
 | 10/02/2022 | 0.2 | Adição das referências usadas | [Kathlyn Lara Murussi](https://github.com/klmurussi) |
 
 # Como Contribuir
-Antes de fazer qualquer alteração no repositório, crie uma issue e se responsabilize por essa alteração. Atente-se a [política de branchs](#política-de-branches) e a [política de commits](#política-de-commits). 
+<p style="text-indent: 20px; text-align: justify"> Antes de fazer qualquer alteração no repositório, crie uma issue e se responsabilize por essa alteração. Atente-se a [política de branchs](#política-de-branches) e a [política de commits](#política-de-commits). 
 
 ## Objetivo:
-Critérios a serem seguidos por todos que queiram contribuir para o projeto, principalmente os colaboradores e desenvolvedores oficiais.
+<p style="text-indent: 20px; text-align: justify">Critérios a serem seguidos por todos que queiram contribuir para o projeto, principalmente os colaboradores e desenvolvedores oficiais.
 
 ## Criação de Issue:
-Ao criar issues atente-se as seguintes questões:
+<p style="text-indent: 20px; text-align: justify"> Ao criar issues atente-se as seguintes questões:
 
 - Já existe [issue](https://github.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/issues) referente ao assunto que você pretende abordar na sua? Se sim, trabalhe a partir da issue já criada
 - Adicione um título que sintetize bem o problema abordado na issue
@@ -26,7 +26,7 @@ Ao criar issues atente-se as seguintes questões:
 
 ## Política de Branches
 
-A partir das branches que serão resolvidas as issues e criados artefatos para serem adicionados ao projeto principal, após revisões.
+<p style="text-indent: 20px; text-align: justify"> A partir das branches que serão resolvidas as issues e criados artefatos para serem adicionados ao projeto principal, após revisões.
 
 ### Padronização das Branches
 

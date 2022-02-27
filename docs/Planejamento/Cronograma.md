@@ -1,14 +1,14 @@
 ## 1. Introdução
 
-O documento versa sobre o cronograma para o nosso grupo, considerando as entregas e os prováveis responsáveis pelas tarefas. É válido lembrar que esse cronograma poderá ser alterado durante o projeto, pois artefatos podem ser evoluídos e modificados e novos contextos podem surgir.
+<p style="text-indent: 20px; text-align: justify"> O documento versa sobre o cronograma para o nosso grupo, considerando as entregas e os prováveis responsáveis pelas tarefas. É válido lembrar que esse cronograma poderá ser alterado durante o projeto, pois artefatos podem ser evoluídos e modificados e novos contextos podem surgir.</p>
+
+<br>
 
 ## 2. Cronograma
 
-Na sprint, para cada atividade colocaremos os responsáveis pelas issues e seus respectivos revisores.
+<p style="text-indent: 20px; text-align: justify">Na sprint, para cada atividade colocaremos os responsáveis pelas issues e seus respectivos revisores.</p>
 
-<!-- **Clique [aqui](https://sharing.clickup.com/tl/h/6-168993937-16/759abf0db6a9492) para ver o quadro interativo**
-
->Ao clicar em uma das entradas do calendário, podemos visualizar os detalhes de entrega e os prazos. -->
+<br>
 
 ## 3. Visão Geral
 <figure>
@@ -92,7 +92,7 @@ Na sprint, para cada atividade colocaremos os responsáveis pelas issues e seus 
     </div>  
 </div>
 
->Nós utilizaremos as issues do GitHub para atribuir tasks para cada um e os prazos de entrega de cada task
+><p>Nós utilizaremos as issues do GitHub para atribuir tasks para cada um e os prazos de entrega de cada task.</p>
 
 
 # Histórico de versões
