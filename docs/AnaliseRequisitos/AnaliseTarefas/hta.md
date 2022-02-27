@@ -39,20 +39,21 @@ Segundo Barbosa e Silva (2010), uma HTA consiste nos seguintes passos:
 
 ## 3. Análise de Tarefas 
 
-| Data da análise da tarefa | Objetivo |
-| :-: | :-: |
-|  | Obter licenças, alvarás e certidões |
-| 26/02/2022 | Obter informação sobre a quando se vacinar contra o coronavírus |
+| Data da análise da tarefa | Objetivo | ID |
+| :-: | :-: | :-: |
+|  | Obter licenças, alvarás e certidões | HTA01 |
+| 26/02/2022 | Obter informação sobre a quando se vacinar contra o coronavírus | HTA02 |
+| 26/02/2022 | Obter licença para condutor auxiliar (Táxi) | HTA03 |
 
 ### 3.1. Representação Textual
 
-#### 3.1.1. Representação textual do objetivo de obter licenças, alvarás e certidões
+#### 3.1.1. HTA01
 
 <p style="text-indent: 20px; text-align: justify">
     
 </p>
 
-#### 3.1.2. Representação textual do objetivo de obter informações sobre quando se vacinar contra o coronavírus
+#### 3.1.2. HTA02
 
 0 - Agendar a vacinação do coronavírus
 <br>&emsp;&emsp;1 - Ir na página Vacinação COVID-19
@@ -66,6 +67,26 @@ Plano 0: Faça 1 - 2
 <br>Plano 1: Faça 1.1 - 1.2
 <br>Plano 2: Faça 2.1 - 2.2
 
+#### 3.1.3. HTA03
+
+0 - Obter licença para condutor auxiliar (Táxi)
+<br>1- Ir na página de serviços
+<br>1.1 - Clicar no botão azul escrito SERVIÇOS, ao lado de TURISMO e SERVIDOR
+<br>2 - Checar os documentos necessários
+<br>2.1 - Descer a página de serviços até o final e encontrar a seção de Transporte e Trânsito
+<br>2.2 - Clicar em "Informações" ao lado de Cadastro e Renovação de Contudor (Táxi)
+<br>2.2 - Verificar todos os documentos constados na página
+<br>3 - Enviar os documentos
+<br>3.1 - Descer a página de serviços até o final e encontrar a seção de Transporte e Trânsito
+<br>3.2 - Clicar em "Acesso" ao lado de Cadastro e Renovação de Contudor (Táxi)
+<br>3.3 - Preencher o formulário
+<br>3.3.1 - 
+
+Plano 0: Faça 1 - 3, caso não saiba os documentos, 1 - 2 - 3
+Plano 1: Faça 1.1
+Plano 2: Faça 2.1 - 2.2 - 2.3
+Plano 3:
+
 ### 3.2. Representação Gráfica
 
 #### 3.2.1. Representação gráfica do objetivo de obter licenças, alvarás e certidões
@@ -77,7 +98,7 @@ Plano 0: Faça 1 - 2
 
 <p style="text-indent: 20px; text-align: center"> Fonte: Imagem do autor. </p>
 
-### 3.2.2. Representação gráfica do objetivo de agendar uma vacinação do coronavírus
+#### 3.2.2. Representação gráfica do objetivo de agendar uma vacinação do coronavírus
 <figcaption> Figura 2: Análise da Tarefa de Agendar Vacinação do Coronavírus. </figcaption>
 ![imagem](https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/33-analise-hierarquica/assets/img/diagrama-vacina.png)
 <p style="text-indent: 20px; text-align: center"> Fonte: Imagem do autor. </p>
@@ -106,3 +127,4 @@ Plano 0: Faça 1 - 2
  | ---------- | :--------: | ---------------------------------------- |:------------------------------------------: |------| 
  | 24/02/2022 |    1.0     | Criação do documento AHT           |        [Adrian Soares](https://github.com/SwampTG)         |
  | 26/02/2022 | 1.1 | Escrita da introdução e metodologia | [Kathlyn Lara](https://github.com/klmurussi) |
+ | 26/02/2022 | 1.2 | Análise de agendamento de vacinação e | [Kathlyn Lara](https://github.com/klmurussi)
