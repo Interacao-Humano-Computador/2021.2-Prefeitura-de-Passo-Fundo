@@ -19,6 +19,9 @@ nav:
    - Análise de Tarefas: 
        - Análise Hierárquica de Tarefas: AnaliseRequisitos/AnaliseTarefas/hta.md
        - GOMS: AnaliseRequisitos/AnaliseTarefas/goms.md 
+   - Princípios Gerais de Projeto: AnaliseRequisitos/PrincipiosProjeto.md 
+   - Metas de usabilidade: AnaliseRequisitos/MetasUsabilidade.md 
+   - Guia de estilo: AnaliseRequisitos/GuiaEstilo.md 
  - Design, Avaliação e Desenvolvimento: DesignAvaliacaoDesenvolvimento/arquivo.md
  - Apresentações:
       - Apresentação 1: Apresentacoes/apresentacao1.md
