@@ -22,13 +22,30 @@ nav:
    - Princípios Gerais de Projeto: AnaliseRequisitos/PrincipiosProjeto.md 
    - Metas de usabilidade: AnaliseRequisitos/MetasUsabilidade.md 
    - Guia de estilo: AnaliseRequisitos/GuiaEstilo.md 
- - Design, Avaliação e Desenvolvimento: DesignAvaliacaoDesenvolvimento/arquivo.md
+ - Design, Avaliação e Desenvolvimento: 
+   - Nível 1:
+        - Análise de Tarefas:
+          - Planejamento da avaliação: DesignAvaliacaoDesenvolvimento/Nivel1/AnaliseTarefas/PlanejamentoAnaliseTarefas.md
+          - Relato da avaliação: DesignAvaliacaoDesenvolvimento/Nivel1/AnaliseTarefas/RelatoAnaliseTarefas.md
+        - Storyboard: 
+          - Planejamento da avaliação: DesignAvaliacaoDesenvolvimento/Nivel1/Storyboard/PlanejamentoStoryboard.md
+          - Storyboard: DesignAvaliacaoDesenvolvimento/Nivel1/Storyboard/Storyboard.md
+          - Relato da avaliação: DesignAvaliacaoDesenvolvimento/Nivel1/Storyboard/RelatoStoryboard.md
+   - Nível 2: 
+       - Protótipo de Baixa Fidelidade: 
+           - Planejamento da avaliação: DesignAvaliacaoDesenvolvimento/Nivel2/PlanejamentoProtBaixaFid.md
+           - Relato da avaliação: DesignAvaliacaoDesenvolvimento/Nivel2/RelatoProtBaixaFid.md
+   - Nível 3:
+       - Protótipo de alta Fidelidade: 
+           - Planejamento da avaliação: DesignAvaliacaoDesenvolvimento/Nivel3/PlanejamentoProtAltaFid.md
+           - Relato da avaliação: DesignAvaliacaoDesenvolvimento/Nivel3/RelatoProtAltaFid.md
+ - Verificação: Verificacao/Verificacao.md
  - Apresentações:
       - Apresentação 1: Apresentacoes/apresentacao1.md
       - Apresentação 2: Apresentacoes/apresentacao2.md
  - Atas:
      - Ata 1: Atas/ata1.md
-     - Ata 2: Atas/ata2.md
+     - Ata 2: Atas/ata2.md 
 theme:
   language: pt
   logo: https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/logo-passo-fundo.png
