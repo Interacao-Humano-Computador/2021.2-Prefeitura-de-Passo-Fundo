@@ -1,29 +1,154 @@
 ## 1. Introdução
 
-<p style="text-indent: 20px; text-align: justify">
-
-</p>
-
-## 2. 
+### 1.1 Objetivo do guia de estilo
 
 <p style="text-indent: 20px; text-align: justify">
 
 </p>
 
-<p style="text-indent: 20px; text-align: justify">
- 
-</p>
-
+### 1.2 Organização e conteúdo do guia de estilo
 
 <p style="text-indent: 20px; text-align: justify">
 
 </p>
 
+### 1.3 Público-alvo do guia de estilo (programadores, gerentes, equipe de suporte)
 
-## 3. 
+<p style="text-indent: 20px; text-align: justify">
+
+</p>
+
+### 1.4 Como utilizar o guia 
+
+<p style="text-indent: 20px; text-align: justify">
+
+</p>
+
+### 1.5 Como manter o guia
+
+<p style="text-indent: 20px; text-align: justify">
+
+</p>
+
+## 2. Resultados de análise
+
+### 2.1 Descrição do ambiente de trabalho do usuário
+<p style="text-indent: 20px; text-align: justify">
+
+</p>
 
 
+
+
+## 3. Elementos de interface
+
+### 3.1 Disposição espacial e grid
         
+<p style="text-indent: 20px; text-align: justify">
+
+</p>
+
+### 3.2 Janelas
+
+### 3.3 Tipografia
+<p style="text-indent: 20px; text-align: justify">
+
+</p>
+
+### 3.4 Símbolos não tipográficos
+
+<p style="text-indent: 20px; text-align: justify">
+
+</p>
+
+### 3.5 Cores
+
+#### 3.5.1 Cores Principais
+
+<p style="text-indent: 20px; text-align: justify">
+    
+</p>
+
+
+
+
+#### 3.5.2 Cores Secundárias
+
+<p style="text-indent: 20px; text-align: justify">
+    
+</p>
+
+
+
+
+
+### 3.6 Animações
+
+<p style="text-indent: 20px; text-align: justify">
+
+</p>
+
+## 4. Elementos de interação
+
+### 4.1 Estilos de interação
+
+<p style="text-indent: 20px; text-align: justify">
+</p>
+
+### 4.2 Seleção de um estilo
+
+<p style="text-indent: 20px; text-align: justify">
+
+</p>
+
+### 4.3 Aceleradores (teclas de atalho)
+
+<p style="text-indent: 20px; text-align: justify">
+
+</p>
+
+## 5. Elementos de ação
+
+### 5.1 Preenchimento de campos
+
+<p style="text-indent: 20px; text-align: justify">
+
+</p>
+
+### 5.2 Seleção
+
+<p style="text-indent: 20px; text-align: justify">
+
+</p>
+
+### 5.3 Ativação
+
+<p style="text-indent: 20px; text-align: justify">
+
+</p>
+
+## 6. Vocabulário e padrões
+
+### 6.1 Terminologia
+
+<p style="text-indent: 20px; text-align: justify">
+
+</p>
+
+### 6.2 Tipos de tela (para tarefas comuns)
+
+<p style="text-indent: 20px; text-align: justify">
+
+</p>
+
+
+
+### 6.3 Sequências de diálogos (e.g., para feedback ou confirmação de uma operação)
+
+<p style="text-indent: 20px; text-align: justify">
+
+</p>
+
 
 ## Referências bibliográficas
 
