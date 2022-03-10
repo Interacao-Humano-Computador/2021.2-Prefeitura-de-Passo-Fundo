@@ -11,7 +11,9 @@ Nome | Tarefa(s) realizada(s)
 [Kathlyn Lara](https://github.com/klmurussi)| Introdução
 Todos os membros | Gravação da apresentação 1
 
-
+### Observações:
+- Todos os membros do grupo realizaram as atividades designadas 
+- Todos os membros do grupo participaram da gravação da apresentação
 
 ## Pontos de melhoria:
 - Acrescentar revisores de cada tarefa
