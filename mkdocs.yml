@@ -43,9 +43,11 @@ nav:
  - Apresentações:
       - Apresentação 1: Apresentacoes/apresentacao1.md
       - Apresentação 2: Apresentacoes/apresentacao2.md
+      - Apresentação 3: Apresentacoes/apresentacao3.md
  - Atas:
      - Ata 1: Atas/ata1.md
      - Ata 2: Atas/ata2.md 
+     - Ata 3: Atas/ata3.md 
 theme:
   language: pt
   logo: https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/logo-passo-fundo.png
