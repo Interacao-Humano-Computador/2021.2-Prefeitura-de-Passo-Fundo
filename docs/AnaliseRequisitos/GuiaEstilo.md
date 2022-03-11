@@ -138,24 +138,29 @@
 ### 6.1 Terminologia
 
 <p style="text-indent: 20px; text-align: justify">
-
+Por se tratar de um site de uma Prefeitura, é esperado que a linguagem e vocabulário utilizados sejam simples, objetivos e de fácil compreensão. O site faz uso de uma linguagem simples e que é de fácil entendimento na maior parte do conteúdo, o que é compatível com a linguagem utilizada por parte dos usuários que tendem a ser os moradores do município.
 </p>
 
 ### 6.2 Tipos de tela (para tarefas comuns)
 
 <p style="text-indent: 20px; text-align: justify">
-O protótipo de alta fidelidade contará com todas as telas abaixo, e o protótipo de média fidelidade contará com as telas que julgarmos mais importantes:
+ Analisando o site, foi possível identificar a existencia de uma página inicial para navegação com elementos não padronizados.As páginas secundárias são utilizadas para realizar tarefas comuns como impressão de IPTU, serviços de iluminação pública, portal do servidor público. As tarefas citadas são realizadas em outra página de navegação que possui um certo padrão, mas não apresenta uma estrutura muito clara ao usuário.
 </p>
 
-- Tela inicial +tarefas 
+<img src="../../../assets/img/tela_passo_fundo.PNG">
+
+tela_sec_iluminacao
+
 
 
 ### 6.3 Sequências de diálogos (e.g., para feedback ou confirmação de uma operação)
 
-<p style="text-indent: 20px; text-align: justify">
 
+<p style="text-indent: 20px; text-align: justify">
+    Após preenchimento de formulários, de forma correta, o sistema mostra que a operação foi concluida com sucesso. Ao inserir as informações de maneira incorreta ou deixar de preencher alguma informação, o sistema informa que existem erros no formulário e que é necessário corrigi-los.
 </p>
 
+<img src="../../../assets/feedback.PNG">
 
 ## Referências bibliográficas
 
