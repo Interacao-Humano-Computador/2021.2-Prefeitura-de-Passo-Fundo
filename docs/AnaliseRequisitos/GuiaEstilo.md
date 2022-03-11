@@ -43,6 +43,7 @@
 
 </p>
 
+Ao acessar o site, o usuário encontra informações dispostas na referência do baner. As funcionalidades do site estão dispostas nas categorias do menu. Os destaques e notícias estão caracterizados abaixo do baner. 
 
 
 
@@ -55,7 +56,10 @@
 </p>
 
 ### 3.2 Janelas
+<p style="text-indent: 20px; text-align: justify">
 
+O site está disposto de diversas janelas informativas e de funcionalidades que são acessadas a partir do menu, da categoria de destaques e notícias. Tem como base o menu da prefeitura e governo, além de novas janelas redirecionadas a partir da "Ouvidoria" e "Fala Cidadão".
+</p>
 ### 3.3 Tipografia
 <p style="text-indent: 20px; text-align: justify">
 
