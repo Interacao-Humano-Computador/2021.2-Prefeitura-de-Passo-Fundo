@@ -3,14 +3,15 @@
 ### 1.1 Objetivo do guia de estilo
 
 <p style="text-indent: 20px; text-align: justify">
- O Guia de estilo é utilizado para registrar as principais decisões tomadas, para que elas não se percam e sejam utilizadas e incorporadas de maneira efetiva no produto final. Guias de estilo também são importantes para a comunicação entre os membros da equipe de design e também com a equipe de
- desenvolvimento. As decisões de design devem estar disponíveis para serem acessadas facilmente, para   consulta e reutilização
- nas discussões acerca de  extensões ou versões futuras do produto.
+
+ O Guia de estilo é utilizado para registrar as principais decisões tomadas, para que elas não se percam e sejam utilizadas e incorporadas de maneira efetiva no produto final. Guias de estilo também são importantes para a comunicação entre os membros da equipe de design e também com a equipe de desenvolvimento. As decisões de design devem estar disponíveis para serem acessadas facilmente, para   consulta e reutilização nas discussões acerca de  extensões ou versões futuras do produto.
+
 </p>
 
 ### 1.2 Organização e conteúdo do guia de estilo
 
 <p style="text-indent: 20px; text-align: justify">
+
 
 </p>
 
@@ -18,17 +19,20 @@
 
 <p style="text-indent: 20px; text-align: justify">
 
+
 </p>
 
 ### 1.4 Como utilizar o guia 
 
 <p style="text-indent: 20px; text-align: justify">
 
+
 </p>
 
 ### 1.5 Como manter o guia
 
 <p style="text-indent: 20px; text-align: justify">
+
 
 </p>
 
@@ -140,9 +144,10 @@
 ### 6.2 Tipos de tela (para tarefas comuns)
 
 <p style="text-indent: 20px; text-align: justify">
-
+O protótipo de alta fidelidade contará com todas as telas abaixo, e o protótipo de média fidelidade contará com as telas que julgarmos mais importantes:
 </p>
 
+- Tela inicial +tarefas 
 
 
 ### 6.3 Sequências de diálogos (e.g., para feedback ou confirmação de uma operação)
