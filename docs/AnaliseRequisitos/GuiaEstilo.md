@@ -12,6 +12,7 @@
 
 <p style="text-indent: 20px; text-align: justify">
 
+A organização do guia de estilo é baseada na caracterização do ciclo de vida para engenharia de usabilidade de Mayhew, de forma que as metas de usabilidade estão representadas no guia de estilo para que possam ser verificadas durante o processo das atividades.
 
 </p>
 
@@ -19,6 +20,7 @@
 
 <p style="text-indent: 20px; text-align: justify">
 
+O público-alvo deste guia de estilo são as pessoas, no caso, os alunos envolvidos no desenvolvimento do protótipo que estão realizando o design e alterações do projeto.
 
 </p>
 
@@ -26,6 +28,7 @@
 
 <p style="text-indent: 20px; text-align: justify">
 
+O guia de estilo deve ser utilizado como estado de embasamento e verificação para alterações, desde atualizações, implementações e visões do desenvolvimento para o projeto do site.
 
 </p>
 
@@ -33,6 +36,7 @@
 
 <p style="text-indent: 20px; text-align: justify">
 
+O guia é mantido utilizando as bases de verificação por ciclo, de forma iterativa, de acordo com a Engenharia de Usabilidade de Mayhew.
 
 </p>
 
