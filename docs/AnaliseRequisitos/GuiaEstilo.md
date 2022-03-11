@@ -56,8 +56,11 @@ Ao acessar o site, o usuário encontra informações dispostas na referência do
 ### 3.1 Disposição espacial e grid
         
 <p style="text-indent: 20px; text-align: justify">
-
+O grid está apresentado de  forma  confusa em alguns menus, porque eles realizam ações parecidas. A guia de serviços,guia de covid e opções da prefeitura possuem ações muito parecidas e são próximas uma da outra, o que pode causar a desorientação ao usuário.
 </p>
+
+<img src="grid.png">
+
 
 ### 3.2 Janelas
 <p style="text-indent: 20px; text-align: justify">
@@ -66,14 +69,18 @@ O site está disposto de diversas janelas informativas e de funcionalidades que 
 </p>
 ### 3.3 Tipografia
 <p style="text-indent: 20px; text-align: justify">
-
+  O site possui como fonte principal a Arial, utilizada com algumas variações de tamanho.
 </p>
+
+<img src="tipografia.png">
 
 ### 3.4 Símbolos não tipográficos
 
 <p style="text-indent: 20px; text-align: justify">
-
+Os símbolos não tipográficos que o site apresenta estão relacionados a acessos rápidos e funcionalidades. São formas de facilitar o reconhecimento de alguma ação de maneira visual.
 </p>
+
+<img src="/tipografia.png">
 
 ### 3.5 Cores
 
