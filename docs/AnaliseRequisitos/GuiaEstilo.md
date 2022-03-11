@@ -58,8 +58,9 @@ Ao acessar o site, o usuário encontra informações dispostas na referência do
 <p style="text-indent: 20px; text-align: justify">
 O grid está apresentado de  forma  confusa em alguns menus, porque eles realizam ações parecidas. A guia de serviços,guia de covid e opções da prefeitura possuem ações muito parecidas e são próximas uma da outra, o que pode causar a desorientação ao usuário.
 </p>
-
-<img src="grid.png">
+<div style="text-align:center">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/grid.png" width=500>
+</div >
 
 
 ### 3.2 Janelas
@@ -72,15 +73,20 @@ O site está disposto de diversas janelas informativas e de funcionalidades que 
   O site possui como fonte principal a Arial, utilizada com algumas variações de tamanho.
 </p>
 
-<img src="tipografia.png">
+
 
 ### 3.4 Símbolos não tipográficos
 
 <p style="text-indent: 20px; text-align: justify">
-Os símbolos não tipográficos que o site apresenta estão relacionados a acessos rápidos e funcionalidades. São formas de facilitar o reconhecimento de alguma ação de maneira visual.
+Os símbolos não tipográficos são formas de facilitar o reconhecimento de alguma ação de maneira visual. O site apresenta símbolos não tipográficos relacionados a funcionalidades, mas não possuem um padrão bem definido.
 </p>
 
-<img src="/tipografia.png">
+<p style="text-align: center">
+
+<img src="nao_tipograficos.png">
+
+</p>
+
 
 ### 3.5 Cores
 
