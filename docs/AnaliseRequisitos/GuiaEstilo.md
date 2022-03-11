@@ -147,10 +147,22 @@ Por se tratar de um site de uma Prefeitura, é esperado que a linguagem e vocabu
  Analisando o site, foi possível identificar a existencia de uma página inicial para navegação com elementos não padronizados.As páginas secundárias são utilizadas para realizar tarefas comuns como impressão de IPTU, serviços de iluminação pública, portal do servidor público. As tarefas citadas são realizadas em outra página de navegação que possui um certo padrão, mas não apresenta uma estrutura muito clara ao usuário.
 </p>
 
-<img src="../../../assets/img/tela_passo_fundo.PNG">
+<div style="display:inline-block; margin:5px">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/tela_passo_fundo.PNG" width= 320>
+</div>
+<div style="display:inline-block; margin:10px">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/tela_passo_fundo2.PNG" width= 320>
+</div>
+<div style="display:inline-block; margin:5px">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/tela_sec_iluminacao.PNG" width= 320>
+</div>
+<div style="display:inline-block; margin:5px">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/tela_sec_iptu.PNG" width= 320>
+</div>
+<div style="display:inline-block; margin:5px">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/tela_sec_portal_servidor.PNG" width= 320>
 
-tela_sec_iluminacao
-
+</div>
 
 
 ### 6.3 Sequências de diálogos (e.g., para feedback ou confirmação de uma operação)
@@ -160,7 +172,7 @@ tela_sec_iluminacao
     Após preenchimento de formulários, de forma correta, o sistema mostra que a operação foi concluida com sucesso. Ao inserir as informações de maneira incorreta ou deixar de preencher alguma informação, o sistema informa que existem erros no formulário e que é necessário corrigi-los.
 </p>
 
-<img src="../../../assets/feedback.PNG">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/feedback.PNG" width= 350>
 
 ## Referências bibliográficas
 
