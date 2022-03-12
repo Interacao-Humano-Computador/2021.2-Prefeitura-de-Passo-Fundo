@@ -10,7 +10,7 @@ relacionamento entre as ações e informações apresentadas pelo sistema e o co
 <p style="text-indent: 20px; text-align: justify">
     Os princípios mais comumente utilizados são:    
 </p>
-<ul>
+
 
 ### 2.1 Correspondência com as Expectativas dos Usuários
  <p style="text-indent: 20px; text-align: justify">Devemos explorar os mapeamentos naturais, seja entre as variáveis mentais e
@@ -36,7 +36,7 @@ usuários que queiram explorar diferentes alternativas e cenários devem consegu
 <p style="text-indent: 20px; text-align: justify">
 É sugerido manter o usuário ocupado,
 sendo assim, processamentos demorados não devem prender a interação, mas sim permitir que os usuários
-continuem seu trabalho com outras partes do sistema, deixando esses processos executando em background.<p>
+continuem seu trabalho com outras partes do sistema, deixando esses processos executando em background.</p>
 
 ### 2.6 Antecipação
 <p style="text-indent: 20px; text-align: justify">As aplicações devem tentar prever o que o usuário quer e precisa, em vez de esperar que os usuários
@@ -64,11 +64,12 @@ objetivo dos interlocutores e finalmente, a máxima de modo ou clareza pede para
 e ambiguidade, buscar a concisão e ordenar adequadamente a conversa.</p>
 
 ### 2.9 Projeto para Erros
+
 <p style="text-indent: 20px; text-align: justify">É recomendado projetar para o erro, ou seja, assumir que qualquer erro potencial será cometido.
 O designer deve ajudar o usuário a se recuperar de um erro, informando-lhe sobre o que ocorreu, as
 consequências disso e como reverter os resultados indesejados. Como visto, os sistemas devem ser
 exploráveis, ou seja, deve ser fácil reverter as operações e difícil realizar ações irreversíveis.</p>
-</ul>
+
 
 
 
