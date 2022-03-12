@@ -61,7 +61,7 @@ O grid está apresentado de  forma  confusa em alguns menus, porque eles realiza
 
 <div style="text-align:center">
 <figcaption class="figure-caption text-center">Figura 1 - Disposição espacial e grid </figcaption>
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/grid.png" width=350>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/grid.png" width=350>
 <figcaption class="figure-caption text-center">Fonte: Elaboração dos autores</figcaption>
 </div >
 
@@ -81,7 +81,7 @@ O site está disposto de diversas janelas informativas e de funcionalidades que 
 
 <div style="text-align:center">
 <figcaption class="figure-caption text-center">Figura 2 - Símbolos tipográficos</figcaption>
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/tipografia.PNG" width=200>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/tipografia.PNG" width=200>
 <figcaption class="figure-caption text-center">Fonte: Elaboração dos autores </figcaption>
 
 </div >
@@ -97,7 +97,7 @@ Os símbolos não tipográficos são formas de facilitar o reconhecimento de alg
 <div style="text-align:center">
 
 <figcaption class="figure-caption text-center">Figura 3 - Símbolos não tipográficos</figcaption>
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/nao_tipograficos.png" width=500>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/nao_tipograficos.png" width=500>
 <figcaption class="figure-caption text-center">Fonte: Elaboração dos autores </figcaption>
 
 </div>
@@ -109,7 +109,7 @@ Ao seguir o padrão de cores existente no logo da Prefeitura de Passo Fundo temo
 </p>
 <div style="text-align:center">
 <figcaption class="figure-caption text-center">Figura 4 - Paleta de Cores do logo</figcaption>
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/paleta_logo.png" >
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/paleta_logo.png" >
 <figcaption class="figure-caption text-center">Fonte: Elaboração dos autores </figcaption>
 </div>
 <br>
@@ -120,7 +120,7 @@ O site da Prefeitura de Passo Fundo utiliza, na maior parte da sua estrutura, to
 
 <div style="text-align:center">
 <figcaption class="figure-caption text-center">Figura 5 - Paleta de Cores do site</figcaption>
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/paleta_site.PNG" >
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/paleta_site.PNG" >
 <figcaption class="figure-caption text-center">Fonte: Elaboração dos autores </figcaption>
 </div >
 
@@ -132,7 +132,7 @@ A página possui animações simples, para destacar principais novidades dentro 
 </p>
 <figure class="figure">
  <figcaption class="figure-caption text-center" class="figure-caption">Figura 6: Primeiro banner destacando novos serviços.</figcaption>
-  <img class="figure-img img-fluid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/first_banner.gif">
+  <img class="figure-img img-fluid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/first_banner.gif">
    <figcaption class="figure-caption text-center" class="figure-caption">Fonte: Elaboração dos autores.</figcaption>
 </figure>
 <p style="text-indent: 20px; text-align: justify">
@@ -140,7 +140,7 @@ As animações são do tipo <em>slider</em>, para revesar informações em desta
 </p>
 <figure class="figure">
   <figcaption class="figure-caption text-center" class="figure-caption">Figura 7: <em>Slider</em> destacando as últimas notícias.</figcaption>
-  <img class="figure-img img-fluid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/news.gif">
+  <img class="figure-img img-fluid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/news.gif">
   <figcaption class="figure-caption text-center">Fonte: Elaboração dos autores.</figcaption>
 </figure>
 <p style="text-indent: 20px; text-align: justify">
@@ -157,17 +157,17 @@ As principais interações são através dos hiperlinks contidos em botões e í
 
 <figure class="figure">
   <figcaption class="figure-caption text-center" class="figure-caption">Figura 8: Menus.</figcaption>
-  <img class="figure-img img-fluid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/menu.gif">
+  <img class="figure-img img-fluid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/menu.gif">
   <figcaption class="figure-caption text-center" class="figure-caption">Fonte: Elaboração dos autores.</figcaption>
 </figure>
 
 <figure class="figure">
   <figcaption class="figure-caption text-center" class="figure-caption">Figura 9: Janela.</figcaption>
-  <img class="figure-img img-fluid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/janela.gif">
+  <img class="figure-img img-fluid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/janela.gif">
   <figcaption class="figure-caption text-center" class="figure-caption">Fonte: Elaboração dos autores.</figcaption>
 </figure>
 
-### 4.3 Aceleradores (teclas de atalho)
+### 4.2 Aceleradores (teclas de atalho)
 
 <p style="text-indent: 20px; text-align: justify">
 A página não possui aceleradores criados para ela, somente os implementados pelos navegadores para qualquer página web.
@@ -183,9 +183,9 @@ Os componentes mais utilizados, para garantir as interações. Esses elementos s
 
 |||
 |----|----|
-|<img width="auto" height="30px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/bota_icone.png">|Botões com ícones|
-|<img width="auto" height="30px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/hipertexto.png">|Hipertexto|
-|<img width="auto" height="30px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/botao_formulario.png">|Botão de formulário|
+|<img width="auto" height="30px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/bota_icone.png">|Botões com ícones|
+|<img width="auto" height="30px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/hipertexto.png">|Hipertexto|
+|<img width="auto" height="30px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/botao_formulario.png">|Botão de formulário|
 
 <figcaption class="figure-caption text-center" class="text-center"> Fonte: Elaboração dos autores.</figcaption>
 
@@ -197,7 +197,7 @@ Os campos são preenchidos, principalmente, para o envio de formulários e reali
 
 <figure class="figure">
   <figcaption class="figure-caption text-center" class="figure-caption">Figura 10: Campo de Texto.</figcaption>
-  <img class="figure-img img-fluid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/input_texto.png">
+  <img class="figure-img img-fluid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/input_texto.png">
   <figcaption class="figure-caption text-center" class="figure-caption">Fonte: Elaboração dos autores.</figcaption>
 </figure>
 
@@ -211,8 +211,8 @@ Os elementos de seleção são basicamente <em>check-boxes</em> e <em>combo-boxe
 
 |||
 |----|----|
-|<img width="auto" height="30px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/check_box.png">|Check-box|
-|<img width="420px" height="30px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/listbox.png">|Combo-box|
+|<img width="auto" height="30px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/check_box.png">|Check-box|
+|<img width="420px" height="30px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/listbox.png">|Combo-box|
 
 <figcaption class="figure-caption text-center"> Fonte: Autores </figcaption>
 
@@ -237,19 +237,19 @@ Por se tratar de um site de uma Prefeitura, é esperado que a linguagem e vocabu
 </p>
 
 <div style="display:inline-block; margin:5px">
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/tela_passo_fundo.PNG" width= 320>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/tela_passo_fundo.PNG" width= 320>
 </div>
 <div style="display:inline-block; margin:10px">
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/tela_passo_fundo2.PNG" width= 320>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/tela_passo_fundo2.PNG" width= 320>
 </div>
 <div style="display:inline-block; margin:5px">
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/tela_sec_iluminacao.PNG" width= 320>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/tela_sec_iluminacao.PNG" width= 320>
 </div>
 <div style="display:inline-block; margin:5px">
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/tela_sec_iptu.PNG" width= 320>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/tela_sec_iptu.PNG" width= 320>
 </div>
 <div style="display:inline-block; margin:5px">
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/tela_sec_portal_servidor.PNG" width= 320>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/tela_sec_portal_servidor.PNG" width= 320>
 
 </div>
 
@@ -261,7 +261,7 @@ Por se tratar de um site de uma Prefeitura, é esperado que a linguagem e vocabu
     Após preenchimento de formulários, de forma correta, o sistema mostra que a operação foi concluida com sucesso. Ao inserir as informações de maneira incorreta ou deixar de preencher alguma informação, o sistema informa que existem erros no formulário e que é necessário corrigi-los.
 </p>
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/feedback.PNG" width= 350>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/feedback.PNG" width= 350>
 
 ## Referências bibliográficas
 
@@ -273,5 +273,7 @@ Por se tratar de um site de uma Prefeitura, é esperado que a linguagem e vocabu
  | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: |
  | 10/03/2022 |    1.0     |   Criação do documento    |        [Kayro César](https://github.com/kayrocesar)         |
  | 10/03/2022 |    1.1    |   Inserção de conteúdo nos tópicos 1.1, 3.1, 3.3, 3.4, 3.5 e 6  |        [Kayro César](https://github.com/kayrocesar)         |
- |   |     1.2   |     |       [](https://github.com/)       |
+ |  11/03/2022 |     1.2   |   Inserção de conteúdo nos tópicos 3.6, 4.1, 4.2  |       [Adrian Soares](https://github.com/SwampTG)       |
+  |  12/03/2022 |     1.3   |   Inserção de conteúdo nos tópicos 5.1, 5.2, 5.3  |       [Adrian Soares](https://github.com/SwampTG)       |
+    |  12/03/2022 |     1.4   |   Fix caminho das imagens  |       [Adrian Soares](https://github.com/SwampTG)       |
  |  |         |    Revisão do documento   |        [](https://github.com/)         |
