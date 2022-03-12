@@ -277,4 +277,4 @@ Por se tratar de um site de uma Prefeitura, é esperado que a linguagem e vocabu
  |  12/03/2022 |     1.3   |   Inserção de conteúdo nos tópicos 5.1, 5.2, 5.3  |       [Adrian Soares](https://github.com/SwampTG)       |
  |  12/03/2022 |     1.4   |   Fix caminho das imagens  |       [Adrian Soares](https://github.com/SwampTG)       |
  |  12/03/2022 |     1.5   |   Correção e atualização dos tópicos | [Magno Luiz](https://github.com/magnluiz) |
- |  12/03/2022       |    Revisão do documento   |       | [Kathlyn Lara](https://github.com/klmurussi)         |
+ |  12/03/2022       |   1.6     |    Revisão do documento   | [Kathlyn Lara](https://github.com/klmurussi)         |
