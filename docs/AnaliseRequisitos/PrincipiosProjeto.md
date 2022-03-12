@@ -1,7 +1,7 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-Os princípios de um projeto são os objetivos que o time de disgn deve sempre ter em mente enquanto trabalham. Esses objetivos formam um modelo conceitual, o qual deve auxiliar a interpretar o
+Os princípios de um projeto são os objetivos que o time de design deve sempre ter em mente enquanto trabalham. Esses objetivos formam um modelo conceitual, o qual deve auxiliar a interpretar o
 relacionamento entre as ações e informações apresentadas pelo sistema e o conhecimento no mundo.
 </p>
 
@@ -20,7 +20,7 @@ relacionamento entre as ações e informações apresentadas pelo sistema e o co
 ### 2.2 Simplicidade nas Estruturas das Tarefas
 <p style="text-indent: 20px; text-align: justify">Devemos reduzir a quantidade de planejamento e
     resolução de problemas que elas requerem. Tarefas desnecessariamente complexas podem ser reestruturadas,
-    em geral utilizando inovações tecnológicas, seja manteNDO a tarefa a mesma, mas fornecendo diversas formas de
+    em geral utilizando inovações tecnológicas, seja mantendo a tarefa a mesma, mas fornecendo diversas formas de
     apoio para que os usuários consigam aprender e realizar a tarefa, usando tecnologia para tornar visível o
     que seria invisível, melhorando o feedback e a capacidade de o usuário se manter no controle da tarefa, automatizando a tarefa ou parte dela, mantendo-a igual, ou modificando a natureza da tarefa;</p>
 
@@ -81,4 +81,5 @@ exploráveis, ou seja, deve ser fácil reverter as operações e difícil realiz
  | **Data**   | **Versão** | **Descrição**                            |                **Autor(es)**                 |
  | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: |
  | 11/03/22 |    1.0     |    Criação do documento   |        [Lorenzo Santos](https://github.com/lorenzo7377)         |
+ | 12/03/22 |    1.1     |    Revisão do documento   |        [Kayro César](https://github.com/kayrocesar)         |
  
