@@ -47,7 +47,7 @@ O guia é mantido utilizando as bases de verificação por ciclo, de forma itera
 
 </p>
 
-Ao acessar o site, o usuário encontra informações dispostas na referência do baner. As funcionalidades do site estão dispostas nas categorias do menu. Os destaques e notícias estão caracterizados abaixo do baner. 
+Ao acessar o site, o usuário encontra informações dispostas na referência do banner. As funcionalidades do site estão dispostas nas categorias do menu. Os destaques e notícias estão caracterizados abaixo do banner. 
 
 
 
