@@ -255,7 +255,7 @@ Plano 3: caso queira ordenar, Faça 3.1;<br>
  | 26/02/2022 | 1.4 | Análise de agendamento de vacinação e da licença de táxi| [Kathlyn Lara](https://github.com/klmurussi)      |
  | 26/02/2022 | 1.5 | Análise de licitações| [Adrian Soares](https://github.com/SwampTG) |
  | 27/02/2022 | 1.6 | Correção de erros apontados | [Kathlyn Lara](https://github.com/klmurussi) |
- | 27/02/2022 | 1.7 | Revisão da documentação v1.7 | [Kayro César](https://github.com/kayrocesar) |
+ | 27/02/2022 | 1.7 | Revisão do documento v1.7 | [Kayro César](https://github.com/kayrocesar) |
 
 <!-- <style>
 figcaption {

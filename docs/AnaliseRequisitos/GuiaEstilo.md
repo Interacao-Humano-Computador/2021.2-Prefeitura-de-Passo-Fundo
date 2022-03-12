@@ -131,37 +131,48 @@ O site da Prefeitura de Passo Fundo utiliza, na maior parte da sua estrutura, to
 A página possui animações simples, para destacar principais novidades dentro de notícias e dos serviços.
 </p>
 <figure class="figure">
+ <figcaption class="figure-caption">Figura 6: Primeiro banner destacando novos serviços.</figcaption>
   <img class="figure-img img-fluid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/first_banner.gif">
-  <figcaption class="figure-caption">Figura 6: Primeiro banner destacando novos serviços.</figcaption>
+   <figcaption class="figure-caption">Fonte: Elaboração dos autores.</figcaption>
+ 
 </figure>
 <p style="text-indent: 20px; text-align: justify">
 As animações são do tipo <em>slider</em>, para revesar informações em destaque automaticamente.
 </p>
 <figure class="figure">
-  <img class="figure-img img-fluid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/news.gif">
   <figcaption class="figure-caption">Figura 7: <em>Slider</em> destacando as últimas notícias.</figcaption>
+  <img class="figure-img img-fluid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/news.gif">
+  <figcaption class="figure-caption">Fonte: Elaboração dos autores.</figcaption>
 </figure>
+<p style="text-indent: 20px; text-align: justify">
+São elementos interessantes para destaque, porém, é preciso tomar cuidado com a velocidade das animações, para não tornar o visual cansativo ou vertiginoso. A animação da figura 7 pode ser incômoda para algumas pessoas.
+</p>
 
 ## 4. Elementos de interação
 
 ### 4.1 Estilos de interação
 
 <p style="text-indent: 20px; text-align: justify">
-</p>
-
-### 4.2 Seleção de um estilo
-
-<p style="text-indent: 20px; text-align: justify">
-
+As principais interações são através dos hiperlinks contidos em botões e ícones, redirecionando para outras páginas. Com isso, os estilos de interação são por meio de janelas e menus.  
 </p>
 
 ### 4.3 Aceleradores (teclas de atalho)
 
 <p style="text-indent: 20px; text-align: justify">
-
+A página não possui aceleradores criados para ela, somente os implementados pelos navegadores para qualquer página web.
 </p>
 
 ## 5. Elementos de ação
+
+<p style="text-indent: 20px; text-align: justify">
+Os componentes mais utilizados, para garantir as interações.
+</p>
+
+|||
+|----|----|
+|<img width="auto" height="30px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/bota_icone.png">|Botões com ícones|
+|<img width="auto" height="30px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/input_texto.png">|Hipertexto|
+|<img width="auto" height="30px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/botao_formulario">|Botão de formulário|
 
 ### 5.1 Preenchimento de campos
 
