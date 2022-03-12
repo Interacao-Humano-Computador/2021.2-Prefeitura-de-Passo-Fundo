@@ -58,8 +58,11 @@ Ao acessar o site, o usuário encontra informações dispostas na referência do
 <p style="text-indent: 20px; text-align: justify">
 O grid está apresentado de  forma  confusa em alguns menus, porque eles realizam ações parecidas. A guia de serviços,guia de covid e opções da prefeitura possuem ações muito parecidas e são próximas uma da outra, o que pode causar a desorientação ao usuário.
 </p>
+
 <div style="text-align:center">
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/grid.png" width=500>
+<figcaption>Figura 1 - Disposição espacial e grid </figcaption>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/grid.png" width=350>
+<figcaption>Fonte: Elaboração dos autores</figcaption>
 </div >
 
 
@@ -68,45 +71,63 @@ O grid está apresentado de  forma  confusa em alguns menus, porque eles realiza
 
 O site está disposto de diversas janelas informativas e de funcionalidades que são acessadas a partir do menu, da categoria de destaques e notícias. Tem como base o menu da prefeitura e governo, além de novas janelas redirecionadas a partir da "Ouvidoria" e "Fala Cidadão".
 </p>
+
 ### 3.3 Tipografia
 <p style="text-indent: 20px; text-align: justify">
-  O site possui como fonte principal a Arial, utilizada com algumas variações de tamanho.
+  O site possui como fonte principal a Arial, utilizada com algumas variações de tamanho. A figura 2 apresenta os símbolos  tipográficos utilizados no site da Prefeitura.
 </p>
+
+
+
+<div style="text-align:center">
+<figcaption>Figura 2 - Símbolos tipográficos</figcaption>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/tipografia.PNG" width=200>
+<figcaption>Fonte: Elaboração dos autores </figcaption>
+
+</div >
 
 
 
 ### 3.4 Símbolos não tipográficos
 
 <p style="text-indent: 20px; text-align: justify">
-Os símbolos não tipográficos são formas de facilitar o reconhecimento de alguma ação de maneira visual. O site apresenta símbolos não tipográficos relacionados a funcionalidades, mas não possuem um padrão bem definido.
+Os símbolos não tipográficos são formas de facilitar o reconhecimento de alguma ação de maneira visual. O site apresenta símbolos não tipográficos relacionados a funcionalidades, mas não possuem um padrão bem definido. A figura 3 apresenta os símbolos não tipográficos utilizados no site da Prefeitura.
 </p>
 
-<p style="text-align: center">
+<div style="text-align:center">
 
-<img src="nao_tipograficos.png">
+<figcaption>Figura 3 - Símbolos não tipográficos</figcaption>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/nao_tipograficos.png" width=500>
+<figcaption>Fonte: Elaboração dos autores </figcaption>
 
-</p>
-
+</div>
 
 ### 3.5 Cores
 
-#### 3.5.1 Cores Principais
+
 
 <p style="text-indent: 20px; text-align: justify">
-    
+Ao seguir o padrão de cores existente no logo da Prefeitura de Passo Fundo temos a seguinte paleta:
 </p>
 
 
+<div style="text-align:center">
+<figcaption>Figura 4 - Paleta de Cores do logo</figcaption>
+<img src="" width=450>
+<figcaption>Fonte: Elaboração dos autores </figcaption>
+</div>
 
-
-#### 3.5.2 Cores Secundárias
+<br>
 
 <p style="text-indent: 20px; text-align: justify">
-    
+O site da Prefeitura de Passo Fundo utiliza, na maior parte da sua estrutura, tons da cor verde e azul. Também existem elementos na cor laranja, mas em menos elementos. A figura 5 apresenta a paleta de cores obtida a partir do site.
 </p>
 
-
-
+<div style="text-align:center">
+<figcaption>Figura 5 - Paleta de Cores do site</figcaption>
+<img src="" width=450>
+<figcaption>Fonte: Elaboração dos autores </figcaption>
+</div >
 
 
 ### 3.6 Animações
