@@ -60,9 +60,9 @@ O grid está apresentado de  forma  confusa em alguns menus, porque eles realiza
 </p>
 
 <div style="text-align:center">
-<figcaption>Figura 1 - Disposição espacial e grid </figcaption>
+<figcaption class="figure-caption text-center">Figura 1 - Disposição espacial e grid </figcaption>
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/grid.png" width=350>
-<figcaption>Fonte: Elaboração dos autores</figcaption>
+<figcaption class="figure-caption text-center">Fonte: Elaboração dos autores</figcaption>
 </div >
 
 
@@ -80,9 +80,9 @@ O site está disposto de diversas janelas informativas e de funcionalidades que 
 
 
 <div style="text-align:center">
-<figcaption>Figura 2 - Símbolos tipográficos</figcaption>
+<figcaption class="figure-caption text-center">Figura 2 - Símbolos tipográficos</figcaption>
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/tipografia.PNG" width=200>
-<figcaption>Fonte: Elaboração dos autores </figcaption>
+<figcaption class="figure-caption text-center">Fonte: Elaboração dos autores </figcaption>
 
 </div >
 
@@ -96,9 +96,9 @@ Os símbolos não tipográficos são formas de facilitar o reconhecimento de alg
 
 <div style="text-align:center">
 
-<figcaption>Figura 3 - Símbolos não tipográficos</figcaption>
+<figcaption class="figure-caption text-center">Figura 3 - Símbolos não tipográficos</figcaption>
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/nao_tipograficos.png" width=500>
-<figcaption>Fonte: Elaboração dos autores </figcaption>
+<figcaption class="figure-caption text-center">Fonte: Elaboração dos autores </figcaption>
 
 </div>
 
@@ -108,9 +108,9 @@ Os símbolos não tipográficos são formas de facilitar o reconhecimento de alg
 Ao seguir o padrão de cores existente no logo da Prefeitura de Passo Fundo temos a seguinte paleta:
 </p>
 <div style="text-align:center">
-<figcaption>Figura 4 - Paleta de Cores do logo</figcaption>
+<figcaption class="figure-caption text-center">Figura 4 - Paleta de Cores do logo</figcaption>
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/paleta_logo.png" >
-<figcaption>Fonte: Elaboração dos autores </figcaption>
+<figcaption class="figure-caption text-center">Fonte: Elaboração dos autores </figcaption>
 </div>
 <br>
 <br>
@@ -119,9 +119,9 @@ O site da Prefeitura de Passo Fundo utiliza, na maior parte da sua estrutura, to
 </p>
 
 <div style="text-align:center">
-<figcaption>Figura 5 - Paleta de Cores do site</figcaption>
+<figcaption class="figure-caption text-center">Figura 5 - Paleta de Cores do site</figcaption>
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/paleta_site.PNG" >
-<figcaption>Fonte: Elaboração dos autores </figcaption>
+<figcaption class="figure-caption text-center">Fonte: Elaboração dos autores </figcaption>
 </div >
 
 
@@ -131,18 +131,17 @@ O site da Prefeitura de Passo Fundo utiliza, na maior parte da sua estrutura, to
 A página possui animações simples, para destacar principais novidades dentro de notícias e dos serviços.
 </p>
 <figure class="figure">
- <figcaption class="figure-caption">Figura 6: Primeiro banner destacando novos serviços.</figcaption>
+ <figcaption class="figure-caption text-center" class="figure-caption">Figura 6: Primeiro banner destacando novos serviços.</figcaption>
   <img class="figure-img img-fluid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/first_banner.gif">
-   <figcaption class="figure-caption">Fonte: Elaboração dos autores.</figcaption>
- 
+   <figcaption class="figure-caption text-center" class="figure-caption">Fonte: Elaboração dos autores.</figcaption>
 </figure>
 <p style="text-indent: 20px; text-align: justify">
 As animações são do tipo <em>slider</em>, para revesar informações em destaque automaticamente.
 </p>
 <figure class="figure">
-  <figcaption class="figure-caption">Figura 7: <em>Slider</em> destacando as últimas notícias.</figcaption>
+  <figcaption class="figure-caption text-center" class="figure-caption">Figura 7: <em>Slider</em> destacando as últimas notícias.</figcaption>
   <img class="figure-img img-fluid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/news.gif">
-  <figcaption class="figure-caption">Fonte: Elaboração dos autores.</figcaption>
+  <figcaption class="figure-caption text-center">Fonte: Elaboração dos autores.</figcaption>
 </figure>
 <p style="text-indent: 20px; text-align: justify">
 São elementos interessantes para destaque, porém, é preciso tomar cuidado com a velocidade das animações, para não tornar o visual cansativo ou vertiginoso. A animação da figura 7 pode ser incômoda para algumas pessoas.
@@ -156,6 +155,18 @@ São elementos interessantes para destaque, porém, é preciso tomar cuidado com
 As principais interações são através dos hiperlinks contidos em botões e ícones, redirecionando para outras páginas. Com isso, os estilos de interação são por meio de janelas e menus.  
 </p>
 
+<figure class="figure">
+  <figcaption class="figure-caption text-center" class="figure-caption">Figura 8: Menus.</figcaption>
+  <img class="figure-img img-fluid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/menu.gif">
+  <figcaption class="figure-caption text-center" class="figure-caption">Fonte: Elaboração dos autores.</figcaption>
+</figure>
+
+<figure class="figure">
+  <figcaption class="figure-caption text-center" class="figure-caption">Figura 9: Janela.</figcaption>
+  <img class="figure-img img-fluid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/janela.gif">
+  <figcaption class="figure-caption text-center" class="figure-caption">Fonte: Elaboração dos autores.</figcaption>
+</figure>
+
 ### 4.3 Aceleradores (teclas de atalho)
 
 <p style="text-indent: 20px; text-align: justify">
@@ -165,31 +176,50 @@ A página não possui aceleradores criados para ela, somente os implementados pe
 ## 5. Elementos de ação
 
 <p style="text-indent: 20px; text-align: justify">
-Os componentes mais utilizados, para garantir as interações.
+Os componentes mais utilizados, para garantir as interações. Esses elementos são suficientes para a interação dos usuários nas tarefas dos sites, que são, basicamente o preenchimento de formulários, campos de pesquisa e acesso a informações.
 </p>
+
+<figcaption class="figure-caption text-center"> Tabela 1: Elementos de Ação para interação. </figcaption>
 
 |||
 |----|----|
 |<img width="auto" height="30px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/bota_icone.png">|Botões com ícones|
-|<img width="auto" height="30px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/input_texto.png">|Hipertexto|
-|<img width="auto" height="30px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/botao_formulario">|Botão de formulário|
+|<img width="auto" height="30px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/hipertexto.png">|Hipertexto|
+|<img width="auto" height="30px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/botao_formulario.png">|Botão de formulário|
+
+<figcaption class="figure-caption text-center" class="text-center"> Fonte: Elaboração dos autores.</figcaption>
 
 ### 5.1 Preenchimento de campos
 
 <p style="text-indent: 20px; text-align: justify">
-
+Os campos são preenchidos, principalmente, para o envio de formulários e realização de cadastros. Servem para solicitação de documentos de informação, autorização e afins. Basicamente são campos de texto.
 </p>
+
+<figure class="figure">
+  <figcaption class="figure-caption text-center" class="figure-caption">Figura 10: Campo de Texto.</figcaption>
+  <img class="figure-img img-fluid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/input_texto.png">
+  <figcaption class="figure-caption text-center" class="figure-caption">Fonte: Elaboração dos autores.</figcaption>
+</figure>
 
 ### 5.2 Seleção
 
 <p style="text-indent: 20px; text-align: justify">
-
+Os elementos de seleção são basicamente <em>check-boxes</em> e <em>combo-boxes</em> permitindo a seleção de dados com opções finitas e restritas.
 </p>
+
+<figcaption class="figure-caption text-center"> Tabela 2: Elementos de Seleção </figcaption>
+
+|||
+|----|----|
+|<img width="auto" height="30px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/check_box.png">|Check-box|
+|<img width="420px" height="30px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/listbox.png">|Combo-box|
+
+<figcaption class="figure-caption text-center"> Fonte: Autores </figcaption>
 
 ### 5.3 Ativação
 
 <p style="text-indent: 20px; text-align: justify">
-
+As ativações são restritas a ativações de janelas e de envio de informações. Deveriam haver mais ativações de feedback com o usuário, com janelas modais com informações, tooltips e hints (dicas antes de intergir com algum elemento)
 </p>
 
 ## 6. Vocabulário e padrões
