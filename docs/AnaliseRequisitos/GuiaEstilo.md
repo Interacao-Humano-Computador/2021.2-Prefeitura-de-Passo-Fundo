@@ -104,28 +104,23 @@ Os símbolos não tipográficos são formas de facilitar o reconhecimento de alg
 
 ### 3.5 Cores
 
-
-
 <p style="text-indent: 20px; text-align: justify">
 Ao seguir o padrão de cores existente no logo da Prefeitura de Passo Fundo temos a seguinte paleta:
 </p>
-
-
 <div style="text-align:center">
 <figcaption>Figura 4 - Paleta de Cores do logo</figcaption>
-<img src="" width=450>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/paleta_logo.png" >
 <figcaption>Fonte: Elaboração dos autores </figcaption>
 </div>
-
 <br>
-
+<br>
 <p style="text-indent: 20px; text-align: justify">
 O site da Prefeitura de Passo Fundo utiliza, na maior parte da sua estrutura, tons da cor verde e azul. Também existem elementos na cor laranja, mas em menos elementos. A figura 5 apresenta a paleta de cores obtida a partir do site.
 </p>
 
 <div style="text-align:center">
 <figcaption>Figura 5 - Paleta de Cores do site</figcaption>
-<img src="" width=450>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/guia-de-estilo/assets/img/paleta_site.PNG" >
 <figcaption>Fonte: Elaboração dos autores </figcaption>
 </div >
 
