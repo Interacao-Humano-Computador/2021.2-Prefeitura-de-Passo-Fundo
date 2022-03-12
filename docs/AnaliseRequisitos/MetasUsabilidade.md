@@ -2,14 +2,14 @@
 
 
 <p style="text-indent: 20px; text-align: justify">
-A Usabilidade é considerada como aspecto que assegura que os produtos são fáceis de usar, que são eficientes e agradáveis do ponto de vista do usuário. A usabilidade é divida em metas e é uma importante ferramenta para analisar e otimizar as interações do usuário com o produto.
+A Usabilidade é considerada como aspecto que assegura que os produtos são fáceis de usar, que são eficientes e agradáveis do ponto de vista do usuário. A usabilidade é dividida em metas e é uma importante ferramenta para analisar e otimizar as interações do usuário com o produto.
 
 </p>
 
 ## 2. As Metas de Usabilidade 
 
  <p style="text-align: justify">
-    As usabilidade é dividida nas seguintes metas:
+    A usabilidade é dividida nas seguintes metas:
  </p>
 
  - <b>Eficácia: </b> se refere a quanto um produto é bom em fazer o que se espera dele.
