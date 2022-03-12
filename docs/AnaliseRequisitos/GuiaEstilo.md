@@ -219,5 +219,7 @@ Por se tratar de um site de uma Prefeitura, é esperado que a linguagem e vocabu
 
  | **Data**   | **Versão** | **Descrição**                            |                **Autor(es)**                 |
  | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: |
- |  |    1.0     |       |        [](https://github.com/)         |
+ | 10/03/2022 |    1.0     |   Criação do documento    |        [Kayro César](https://github.com/kayrocesar)         |
+ | 10/03/2022 |    1.1    |   Inserção de conteúdo nos tópicos 1.1, 3.1, 3.3, 3.4, 3.5 e 6  |        [Kayro César](https://github.com/kayrocesar)         |
+ |   |     1.2   |     |       [](https://github.com/)       |
  |  |         |    Revisão do documento   |        [](https://github.com/)         |
