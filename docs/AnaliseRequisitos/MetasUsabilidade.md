@@ -110,4 +110,4 @@ A Usabilidade é considerada como aspecto que assegura que os produtos são fác
  | **Data**   | **Versão** | **Descrição**                            |                **Autor(es)**                 |
  | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: |
  |12/03/2022  |    1.0     |  Criação do documento e inserção dos tópicos   1, 2, 3  |        [Kayro César](https://github.com/kayrocesar)         |
- |  |         |    Revisão do documento   |        [](https://github.com/)         |
+|  12/03/2022 |     1.1   |  Revisão do documento | [Magno Luiz](https://github.com/magnluiz) |
