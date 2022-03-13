@@ -16,8 +16,8 @@
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE6h5Kfkdg&#x2F;view?utm_content=DAE6h5Kfkdg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Prefeitura de Passo Fundo- Apresentação 3</a> 
 
-
 ## Histórico de versões
 | Versão | Data | Modificação | Autor(es) |
 |--|--|--|--|
 | 1.0 | 12/03/2022 | Página da apresentação 3 do projeto |[Kayro César](https://github.com/kayrocesar) |
+| 1.1 | 12/03/2022 | Gravação do vídeo da apresentação 3 do projeto | Todos os membros
