@@ -56,7 +56,7 @@ Ao acessar o site, o usuário encontra informações dispostas na referência do
 ### 3.1 Disposição espacial e grid
         
 <p style="text-indent: 20px; text-align: justify">
-O grid está apresentado de  forma  confusa em alguns menus, porque eles realizam ações parecidas. A guia de serviços,guia de covid e opções da prefeitura possuem ações muito parecidas e são próximas uma da outra, o que pode causar a desorientação ao usuário.
+O grid está apresentado de  forma  confusa em alguns menus, porque eles realizam ações parecidas. A guia de serviços, guia de covid e opções da prefeitura possuem ações muito parecidas e são próximas uma da outra, o que pode causar a desorientação ao usuário.
 </p>
 
 <div style="text-align:center">
@@ -233,7 +233,7 @@ Por se tratar de um site de uma Prefeitura, é esperado que a linguagem e vocabu
 ### 6.2 Tipos de tela (para tarefas comuns)
 
 <p style="text-indent: 20px; text-align: justify">
- Analisando o site, foi possível identificar a existencia de uma página inicial para navegação com elementos não padronizados.As páginas secundárias são utilizadas para realizar tarefas comuns como impressão de IPTU, serviços de iluminação pública, portal do servidor público. As tarefas citadas são realizadas em outra página de navegação que possui um certo padrão, mas não apresenta uma estrutura muito clara ao usuário.
+ Analisando o site, foi possível identificar a existência de uma página inicial para navegação com elementos não padronizados. As páginas secundárias são utilizadas para realizar tarefas comuns como impressão de IPTU, serviços de iluminação pública, portal do servidor público. As tarefas citadas são realizadas em outra página de navegação que possui um certo padrão, mas não apresenta uma estrutura muito clara ao usuário.
 </p>
 
 <div style="display:inline-block; margin:5px">
@@ -258,7 +258,7 @@ Por se tratar de um site de uma Prefeitura, é esperado que a linguagem e vocabu
 
 
 <p style="text-indent: 20px; text-align: justify">
-    Após preenchimento de formulários, de forma correta, o sistema mostra que a operação foi concluida com sucesso. Ao inserir as informações de maneira incorreta ou deixar de preencher alguma informação, o sistema informa que existem erros no formulário e que é necessário corrigi-los.
+    Após preenchimento de formulários, de forma correta, o sistema mostra que a operação foi concluída com sucesso. Ao inserir as informações de maneira incorreta ou deixar de preencher alguma informação, o sistema informa que existem erros no formulário e que é necessário corrigi-los.
 </p>
 
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/feedback.PNG" width= 350>
@@ -274,6 +274,7 @@ Por se tratar de um site de uma Prefeitura, é esperado que a linguagem e vocabu
  | 10/03/2022 |    1.0     |   Criação do documento    |        [Kayro César](https://github.com/kayrocesar)         |
  | 10/03/2022 |    1.1    |   Inserção de conteúdo nos tópicos 1.1, 3.1, 3.3, 3.4, 3.5 e 6  |        [Kayro César](https://github.com/kayrocesar)         |
  |  11/03/2022 |     1.2   |   Inserção de conteúdo nos tópicos 3.6, 4.1, 4.2  |       [Adrian Soares](https://github.com/SwampTG)       |
-  |  12/03/2022 |     1.3   |   Inserção de conteúdo nos tópicos 5.1, 5.2, 5.3  |       [Adrian Soares](https://github.com/SwampTG)       |
-    |  12/03/2022 |     1.4   |   Fix caminho das imagens  |       [Adrian Soares](https://github.com/SwampTG)       |
- |  |         |    Revisão do documento   |        [](https://github.com/)         |
+ |  12/03/2022 |     1.3   |   Inserção de conteúdo nos tópicos 5.1, 5.2, 5.3  |       [Adrian Soares](https://github.com/SwampTG)       |
+ |  12/03/2022 |     1.4   |   Fix caminho das imagens  |       [Adrian Soares](https://github.com/SwampTG)       |
+ |  12/03/2022 |     1.5   |   Correção e atualização dos tópicos | [Magno Luiz](https://github.com/magnluiz) |
+ |  12/03/2022       |   1.6     |    Revisão do documento   | [Kathlyn Lara](https://github.com/klmurussi)         |
