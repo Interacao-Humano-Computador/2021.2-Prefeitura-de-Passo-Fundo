@@ -4,7 +4,7 @@
 
 </p>
 
-## 2. 
+## 2. Metodologia
 
 <p style="text-indent: 20px; text-align: justify">
 
@@ -20,8 +20,7 @@
 </p>
 
 
-## 3. 
-
+## 3. Planejamento da Avaliação Storyboard
 
         
 
@@ -33,5 +32,5 @@
 
  | **Data**   | **Versão** | **Descrição**                            |                **Autor(es)**                 |
  | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: |
- |  |    1.0     |       |        [](https://github.com/)         |
+ | 15/03/2022 |    1.0     |   Criação do Doc    |        [Adrian Soares](https://github.com/SwampTG)         |
  |  |         |    Revisão do documento   |        [](https://github.com/)         |
