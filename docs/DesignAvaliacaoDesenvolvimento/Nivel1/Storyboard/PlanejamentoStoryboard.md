@@ -55,10 +55,10 @@ Para estabelecer uma boa avaliação, será utilizado o framework DECIDE, consid
 - Como o site afeta o modo das pessoas se comunicarem com a prefeitura local?
 - O que é possível modificar no sistema para adequá-lo ao contexto de uso dos cidadãos de Passo Fundo, com os níveis mais variados de experiência com tecnologias de websites.
 
-### 3.2. Método de Avaliação: Inspeção
+### 3.2. Método de Avaliação: Inspeção - Caminhos Cognitivos
 
 <p style="text-indent: 20px; text-align: justify">
-A inspeção deverá ser efetuada através do Precurso cognitivo (*cognitive walkthrough*). Para realizá-lo, os passos que o usuário teve de realizar durante o storyboard deverão ser bem detalhados, em forma de lista ou, quando possuir muitos passos, em forma de um grafo direcionado como mostra a <a href="#figura1">figura 1</a>
+A inspeção deverá ser efetuada através do Percurso cognitivo (*cognitive walkthrough*). Para realizá-lo, os passos que o usuário teve de realizar durante o storyboard deverão ser bem detalhados, em forma de lista ou, quando possuir muitos passos, em forma de um grafo direcionado como mostra a <a href="#figura1">figura 1</a>
 </p>
 
 <figure class="figure">
@@ -109,6 +109,10 @@ Analisaremos se o feedback do site é adequado e bem explicativo para seus usuá
 ### O usuário conseguirá associar a ação correta com o objetivo que ele pretende atingir?
 
 ### Se a ação correta é realizada, o usuário perceberá que está progredindo para o atingimento de seu objetivo?
+
+## Problemas identificados
+|Problema| Grau de Gravidade|Critérios de qualidade de uso prejudicados|
+|---|---|---|
 ```
 
 ## Referências bibliográficas
