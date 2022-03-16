@@ -21,16 +21,15 @@ A avaliação de IHC é essencial no processo de desenvolvimento que visa a prod
 ### 2.1 Preparação 
 
 <p style="text-indent: 20px; text-align: justify">
-
+    Na atividade de preparação, devem ser organizados os objetos do estudo e  o material de apoio. Os objetos do estudo consistem em: uma lista de tarefas investigadas e a sequência das ações que  o usuário com o perfil especificado deveria executar para executar para concluir a tarefa.
 </p>
-
-#### 2.1.2 Escopo das tarefas que serão avaliadas
 
 <p style="text-indent: 20px; text-align: justify">
 O escopo da avaliação está limitado ao site da Prefeitura de Passo Fundo e as principais tarefas realizadas nele. As principais tarefas que podem ser realizadas no site foram analisadas na guia de análise de tarefas com o <a href="https://interacao-humano-computador.github.io/2021.2-Prefeitura-de-Passo-Fundo/AnaliseRequisitos/AnaliseTarefas/goms/">método GOMS</a> e <a href="https://interacao-humano-computador.github.io/2021.2-Prefeitura-de-Passo-Fundo/AnaliseRequisitos/AnaliseTarefas/hta/">Análise Hierárquica de Tarefas.
 </a> 
 </p>
 
+<br>
 
 #### Tarefa 1: Obter Alvarás / Licenças
 
@@ -40,6 +39,7 @@ O escopo da avaliação está limitado ao site da Prefeitura de Passo Fundo e as
 2. Acessar a página de requisição. <br>
 3. Enviar protocolo ao usuário. <br>
 4. Enviar resposta à requisição do usuário. <br> </div>
+<br>
 
 #### Tarefa 2: Agendar a vacinação do coronavírus
 
@@ -47,6 +47,7 @@ O escopo da avaliação está limitado ao site da Prefeitura de Passo Fundo e as
 <b>Passos:</b><br>
 1. Ir na página Vacinação COVID-19. <br>
 2. Verificar no calendário de vacinação. <br> </div>
+<br>
 
 #### Tarefa 3:  Entrar em contato com a Prefeitura de Passo Fundo
 
@@ -54,7 +55,9 @@ O escopo da avaliação está limitado ao site da Prefeitura de Passo Fundo e as
 <b>Passos:</b><br>
 1. Acessar a guia "Fala cidadão". <br>
 2. Preencher formulário de informações. <br> </div>
-    
+<br>
+
+
 #### Tarefa 4: Imprimir guia de IPTU
     
 <div style="text-align: justify"><b>Perfil do usuário: Cidadão da cidade de Passo Fundo que queira imprimir guia de IPTU.</b><br>
