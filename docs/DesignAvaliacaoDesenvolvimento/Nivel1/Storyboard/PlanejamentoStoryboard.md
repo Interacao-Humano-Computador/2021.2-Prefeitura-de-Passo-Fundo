@@ -114,6 +114,12 @@ Analisaremos se o feedback do site é adequado e bem explicativo para seus usuá
 |Problema| Grau de Gravidade|Critérios de qualidade de uso prejudicados|
 |---|---|---|
 ```
+### 4. Conclusão
+
+<p style="text-indent: 20px; text-align: justify">
+Este documento é a base do que se é esperado que seja compreendido na avaliação do Storyboard. Permanece descrito de forma a auxiliar o processo e os avaliadores competentes, sendo possível ser posteriormente adaptado para melhor resolução dos problemas, porém de forma consistente e comunicado entre os participantes do projeto. É disposto que trata-se também que tais adaptações visam as problemáticas relacionadas ao entendimento do que se apresenta ao usuário, de forma a fazer sentido em suas expectativas, necessidades e vontades.
+
+<p>
 
 ## Referências bibliográficas
 
@@ -126,6 +132,7 @@ Analisaremos se o feedback do site é adequado e bem explicativo para seus usuá
  | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: |
  | 15/03/2022 |    1.0     |   Criação do Doc    |        [Adrian Soares](https://github.com/SwampTG)         |
  | 15/03/2022 |    1.1     |   Inserção da metodologia    |        [Adrian Soares](https://github.com/SwampTG)         |
- | 15/03/2022 |    1.2     |   Explicação DECIDE e perguntas da avaliação   |        [Adrian Soares](https://github.com/SwampTG)         |
+ | 15/03/2022 |    1.2     |   Explicação DECIDE e perguntas da avaliação   |     [Adrian Soares](https://github.com/SwampTG)         |
  | 16/03/2022 |    1.3     |   Introdução e organização do documento | [Magno Luiz](https://github.com/magnluiz)
- |  |         |    Revisão do documento   |        [](https://github.com/)         |
+ | 16/03/2022 |    1.4     |   Conclusão e formulário de avaliação   | [Adrian Soares](https://github.com/SwampTG)  e [Magno Luiz](https://github.com/magnluiz)|
+ |          |   | Revisão do documento   |        [](https://github.com/)         |
