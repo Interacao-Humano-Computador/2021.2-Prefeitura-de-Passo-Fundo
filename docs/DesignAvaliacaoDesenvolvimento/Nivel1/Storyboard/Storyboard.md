@@ -1,29 +1,29 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-
+<i>Storyboards</i> são protótipos de baixa fidelidade que representam cenários ou telas do sistema e mostram a utlização de ferramentas para cumprir um certo objetivo. Além disso, <i>storyboards</i> podem usados para explorar ideias sobre como melhorar a prática de trabalho com o suporte oferecido pela tecnologia.
 </p>
 
-## 2. 
+## 2. Objetivos
 
 <p style="text-indent: 20px; text-align: justify">
-
+Os <i>storyboards</i> abaixo mostram possíveis cenários de uso do sistema em questão e qual o uso de certas funcionalidades.
 </p>
 
+
+## 3. Storyboards
+
+### 3.1 Cenário 1
 <p style="text-indent: 20px; text-align: justify">
- 
-</p>
+O primeiro <i>storyboard</i> descreve uma pessoa que mora na cidade e não sabe quando ocorrerão eventos na cidade.</p>
 
-
+### 3.2 Cenário 2
 <p style="text-indent: 20px; text-align: justify">
+O segundo <i>storyboard</i> descreve uma pai que tem uma filha que estuda em uma escola pública e precisa do calendário escolar para saber quando as aulas vão começar.</p>
 
-</p>
-
-
-## 3. 
-
-
-        
+### 3.3 Cenário 3
+<p style="text-indent: 20px; text-align: justify">
+O terceiro <i>storyboard</i> descreve uma pessoa que não consegue achar uma informação e quer entrar em contato com a prefeitura para obter informação.</p>
 
 ## Referências bibliográficas
 
@@ -33,5 +33,4 @@
 
  | **Data**   | **Versão** | **Descrição**                            |                **Autor(es)**                 |
  | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: |
- |  |    1.0     |       |        [](https://github.com/)         |
- |  |         |    Revisão do documento   |        [](https://github.com/)         |
+ | 12/03/22 |    1.0     |    Criação do documento   |        [Lorenzo Santos](https://github.com/lorenzo7377)         |
