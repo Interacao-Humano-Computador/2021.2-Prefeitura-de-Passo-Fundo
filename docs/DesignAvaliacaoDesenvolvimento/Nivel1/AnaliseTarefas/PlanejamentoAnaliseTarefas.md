@@ -33,7 +33,7 @@ O escopo da avaliação está limitado ao site da Prefeitura de Passo Fundo e as
 
 #### Tarefa 1: Obter Alvarás / Licenças
 
-<div style="text-align: justify"><b>Perfil do usuário: Cidadões da cidade de Passo Fundo que desejam obter algum tipo de alvarás ou licença.</b><br>
+<div style="text-align: justify"><b>Perfil do usuário: Cidadãos do município de Passo Fundo,  que desejam obter algum tipo de alvarás ou licença.</b><br>
 <b>Passos:</b><br>
 1. Ler as infos sobre os documentos necessários e passos. <br>
 2. Acessar a página de requisição. <br>
@@ -43,7 +43,7 @@ O escopo da avaliação está limitado ao site da Prefeitura de Passo Fundo e as
 
 #### Tarefa 2: Agendar a vacinação do coronavírus
 
-<div style="text-align: justify"><b>Perfil do usuário: Qualquer pessoa que deseja tomar a vacina do Coronavírus na cidade de Passo Fundo.</b><br>
+<div style="text-align: justify"><b>Perfil do usuário: Qualquer pessoa que deseja tomar a vacina do Coronavírus no município de Passo Fundo.</b><br>
 <b>Passos:</b><br>
 1. Ir na página Vacinação COVID-19. <br>
 2. Verificar no calendário de vacinação. <br> </div>
@@ -51,7 +51,7 @@ O escopo da avaliação está limitado ao site da Prefeitura de Passo Fundo e as
 
 #### Tarefa 3:  Entrar em contato com a Prefeitura de Passo Fundo
 
-<div style="text-align: justify"><b>Perfil do usuário: Cidadão da cidade de Passo Fundo que queira entrar em contato com a prefeitura por meio online.</b><br>
+<div style="text-align: justify"><b>Perfil do usuário: Cidadão do município de Passo Fundo que queira entrar em contato com a prefeitura por meio online.</b><br>
 <b>Passos:</b><br>
 1. Acessar a guia "Fala cidadão". <br>
 2. Preencher formulário de informações. <br> </div>
@@ -60,7 +60,7 @@ O escopo da avaliação está limitado ao site da Prefeitura de Passo Fundo e as
 
 #### Tarefa 4: Imprimir guia de IPTU
     
-<div style="text-align: justify"><b>Perfil do usuário: Cidadão da cidade de Passo Fundo que queira imprimir guia de IPTU.</b><br>
+<div style="text-align: justify"><b>Perfil do usuário: Cidadão do município de Passo Fundo que queira imprimir guia de IPTU.</b><br>
 <b>Passos:</b><br>
 1. Acessar a seção de "Destaques". <br>
 2. Acessar área de consulta e impressão. <br>
