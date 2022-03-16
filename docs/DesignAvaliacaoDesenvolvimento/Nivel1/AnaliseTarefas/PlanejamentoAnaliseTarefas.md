@@ -15,8 +15,7 @@ A avaliação de IHC é essencial no processo de desenvolvimento que visa a prod
 </p>
 
 <p style="text-indent: 20px; text-align: justify">
-    O percurso cognitivo guia a inspeção da interface pelas tarefas do usuário. Nesse método, o avaliador
-    percorre a interface inspecionando e verificando as ações que foram projetadas para um usuário concluir cada tarefa utilizando o sistema. Para cada ação, o avaliador tenta se colocar no papel de um usuário e assim detalhar como seria sua interação com o sistema naquele instante.
+    O percurso cognitivo guia a inspeção da interface pelas tarefas do usuário. Nesse método, o avaliador percorre a interface inspecionando e verificando as ações que foram projetadas para um usuário concluir cada tarefa utilizando o sistema. Para cada ação, o avaliador tenta se colocar no papel de um usuário e assim detalhar como seria sua interação com o sistema naquele instante.
 </p>
 
 ### 2.1 Preparação 
@@ -33,32 +32,52 @@ O escopo da avaliação está limitado ao site da Prefeitura de Passo Fundo e as
 </p>
 
 
-#### Tarefa 1: 
+#### Tarefa 1: Obter Alvarás / Licenças
 
-<div style="text-align: justify"><b>Perfil do usuário:</b><br>
+<div style="text-align: justify"><b>Perfil do usuário: Cidadões da cidade de Passo Fundo que desejam obter algum tipo de alvarás ou licença.</b><br>
 <b>Passos:</b><br>
-1. <br>
-2. <br>
-3. <br>
-4. <br>
-5. </div>
+1. Ler as infos sobre os documentos necessários e passos. <br>
+2. Acessar a página de requisição. <br>
+3. Enviar protocolo ao usuário. <br>
+4. Enviar resposta à requisição do usuário. <br> </div>
 
-#### Tarefa 2: 
+#### Tarefa 2: Agendar a vacinação do coronavírus
 
-<div style="text-align: justify"><b>Perfil do usuário:</b><br>
+<div style="text-align: justify"><b>Perfil do usuário: Qualquer pessoa que deseja tomar a vacina do Coronavírus na cidade de Passo Fundo.</b><br>
 <b>Passos:</b><br>
-1. <br>
-2. <br>
-3. <br>
-4. <br>
-5. </div>
- 
+1. Ir na página Vacinação COVID-19. <br>
+2. Verificar no calendário de vacinação. <br> </div>
+
+#### Tarefa 3:  Entrar em contato com a Prefeitura de Passo Fundo
+
+<div style="text-align: justify"><b>Perfil do usuário: Cidadão da cidade de Passo Fundo que queira entrar em contato com a prefeitura por meio online.</b><br>
+<b>Passos:</b><br>
+1. Acessar a guia "Fala cidadão". <br>
+2. Preencher formulário de informações. <br> </div>
+    
+#### Tarefa 4: Imprimir guia de IPTU
+    
+<div style="text-align: justify"><b>Perfil do usuário: Cidadão da cidade de Passo Fundo que queira imprimir guia de IPTU.</b><br>
+<b>Passos:</b><br>
+1. Acessar a seção de "Destaques". <br>
+2. Acessar área de consulta e impressão. <br>
+3. Inserir dados do IPTU. <br> </div>
 
 
 ### 2.2 Coleta de Dados
 
+<div style="text-align: justify">No método escolhido pelo grupo, a coleta de dados acontecerá por meio de percurso cognitivo, método de inspensão, onde o(s) inspetor(es) deve(m) se "colocar no lugar de um usuário com determinado perfil, com um certo conhecimento e experiência em algumas atividades, para então tentar identificar problemas que este usuário pode vir a ter quando interagir com o sistema, e quais formas de apoio o sistema oferece para ajudá-lo a contornarem esses problemas" (BARBOSA et al., 2021).</div><br>
 
-### 2.3 Interpretação e Consolidação dos Resultados  
+- Percorrer a interface seguindo os passos definidos para cada tarefa;
+- Para cada passo, analisar se o usuário executaria a ação corretamente;
+    <br>– O usuário vai tentar o passo correto/esperado? <br>
+    – O usuário vai notar que o passo correto está disponível? <br>
+    – O usuário vai associar o passo correto com a tarefa que está tentando atingir? <br>
+    – Se o passo for executado corretamente, o usuário vai perceber que está progredindo na direção de concluir a tarefa? <br>
+- Relatar uma história aceitável sobre o sucesso ou falha em realizar cada passo de cada tarefa.
+
+### 2.3 Interpretação e Consolidação dos Resultados 
+
 <p style="text-indent: 20px; text-align: justify">
 <b>O que o usuário precisa saber a priori para realizar as tarefas? </b>
 </p>
@@ -69,14 +88,11 @@ O escopo da avaliação está limitado ao site da Prefeitura de Passo Fundo e as
 <b>Sugestões de correções para os problemas encontrados</b>
 </p>
          
- 
-
-
 
 ### 2.4 Relato dos Resultados  
-   Para relatar os resultados,haverá um relatório consolidado com os problemas encontrados e sugestões de
-correção. 
 
+<p style="text-indent: 20px; text-align: justify">Para relatar os resultados, haverá um relatório consolidado com os problemas encontrados e sugestões de
+correção.</p>
 
 ## Referências bibliográficas
 
@@ -86,6 +102,6 @@ correção.
 
  | **Data**   | **Versão** | **Descrição**                            |                **Autor(es)**                 |
  | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: |
- | 15/03/2022  |    1.0     |   Criação do documento e inserção dos tópicos  1, 2, 2.3, 2.4   |        [Kayro César](https://github.com/kayrocesar)         |
-  |  |         |      |        [](https://github.com/)         |
+ | 15/03/2022  | 1.0  | Criação do documento e inserção dos tópicos  1, 2, 2.3, 2.4   |        [Kayro César](https://github.com/kayrocesar)         |
+ | 16/03/2022  | 1.1  | Escrito dos tópicos 2.1 e 2.2 | [Kathlyn Lara](https://github.com/klmurussi)         |
  |  |         |    Revisão do documento   |        [](https://github.com/)         |
