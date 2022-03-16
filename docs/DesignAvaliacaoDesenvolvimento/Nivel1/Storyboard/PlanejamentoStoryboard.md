@@ -116,6 +116,7 @@ Analisaremos se o feedback do site é adequado e bem explicativo para seus usuá
 Este documento é a base do que se é esperado que seja compreendido na avaliação do Storyboard. Permanece descrito de forma a auxiliar o processo e os avaliadores competentes, sendo possível ser posteriormente adaptado para melhor resolução dos problemas, porém de forma consistente e comunicado entre os participantes do projeto. É disposto que trata-se também que tais adaptações visam as problemáticas relacionadas ao entendimento do que se apresenta ao usuário, de forma a fazer sentido em suas expectativas, necessidades e vontades.
 
 <p>
+
 ## Referências bibliográficas
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
