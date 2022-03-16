@@ -5,6 +5,7 @@ Storyboards são utilizados como formas de alinhar e entender as problemáticas 
 <p style="text-indent: 20px; text-align: justify">
 Neste documento é proposto o planejamento da avaliação do Storyboard do projeto do site da Prefeitura de Passo Fundo que estão abordados as ideias da avaliação e as instruções necessárias.
 </p>
+
 ## 2. Metodologia
 
 <p style="text-indent: 20px; text-align: justify">
