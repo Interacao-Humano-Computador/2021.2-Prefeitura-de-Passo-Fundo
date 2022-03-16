@@ -96,19 +96,19 @@ Analisaremos se o feedback do site é adequado e bem explicativo para seus usuá
 </p>
 
 ### 3.3. Formulário
-``` txt
-+ Listagem das possíveis etapas da tarefa
-#
-#
-#
-#
-+O usuário tentará e conseguirá atingir o objetivo correto?
+``` markdown
+# Listagem das possíveis etapas da tarefa
+-
+-
+-
+-
+###  O usuário tentará e conseguirá atingir o objetivo correto?
 
-+O usuário irá notar que a ação correta está disponível para ele?
+### O usuário irá notar que a ação correta está disponível para ele?
 
-+O usuário conseguirá associar a ação correta com o objetivo que ele pretende atingir?
+### O usuário conseguirá associar a ação correta com o objetivo que ele pretende atingir?
 
-+Se a ação correta é realizada, o usuário perceberá que está progredindo para o atingimento de seu objetivo?
+### Se a ação correta é realizada, o usuário perceberá que está progredindo para o atingimento de seu objetivo?
 ```
 
 ## Referências bibliográficas
