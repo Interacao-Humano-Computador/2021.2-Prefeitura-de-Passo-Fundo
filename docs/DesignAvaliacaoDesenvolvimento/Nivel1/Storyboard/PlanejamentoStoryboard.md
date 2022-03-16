@@ -1,9 +1,10 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-
+Storyboards são utilizados como formas de alinhar e entender as problemáticas que são avaliadas nas etapas de design do projeto. A criação dessa etapa está relacionado a entender os caminhos percorridos do usuário e prototipar situações que tornem a percepção da análise da avaliação e validação mais claras, que serão dispostas posteriormente em conjunto ao usuário, de forma que a situação do projeto esteja alinhada com as preocupações do design e do objetivo do usuário.
+<p style="text-indent: 20px; text-align: justify">
+Neste documento é proposto o planejamento da avaliação do Storyboard do projeto do site da Prefeitura de Passo Fundo que estão abordados as ideias da avaliação e as instruções necessárias.
 </p>
-
 ## 2. Metodologia
 
 <p style="text-indent: 20px; text-align: justify">
@@ -31,10 +32,10 @@ Para estabelecer uma boa avaliação, será utilizado o framework DECIDE, consid
 - ***D***eterminar os objetivos: identificar problemas na interação e na interface e a apropriação da tecnologia pelos usuários;
 - ***E***xplorar perguntas a serem respondidas: Serão evidenciadas na próxima seção;
 - Es***c***olher os métodos de avaliação a serem utilizados: Nesse caso, foi escolhida a inspeção;
-- ***I***dentificar e administrar as questões praticas da avaliação: Para o caso da avaliação do Storyboardm precisamos lidar com a organização interna do grupo. A avaliação foi marcada para Sábado, dia 19/03/2022, utilizando os artefatos de storyboard que estarão na página. Iremos realizar a reunião pelo Discord, com o membro que elaborou os artefatos ( [Lorenzo](github.com/lorenzo7377) ) e os mebros responsáveis pela avaliação ( [Adrian](github.com/SwampTG) e [Magno](github.com/magnluiz) ) ;
+- ***I***dentificar e administrar as questões praticas da avaliação: Para o caso da avaliação do Storyboard precisamos lidar com a organização interna do grupo. A avaliação foi marcada para Sábado, dia 19/03/2022, utilizando os artefatos de storyboard que estarão na página. Iremos realizar a reunião pelo Discord, com o membro que elaborou os artefatos ( [Lorenzo](https://github.com/lorenzo7377) ) e os membros responsáveis pela avaliação ( [Adrian](https://github.com/SwampTG) e [Magno](https://github.com/magnluiz) ) ;
 - ***D***ecidir como lidar com as questões éticas: Iremos nos reunir de forma harmônica, respeitando os membros da equipe e estabelecendo discussões saudáveis durante a avaliação, seguindo os  direitos e deveres  de um aluno da UNB.
 - Avaliar (***E***valuate), interpretar e apresentar os dados: Será realizado após o planejamento, na data prevista.
-- 
+
 ## 3. Planejamento da Avaliação Storyboard
 
 ### 3.1. Objetivos
@@ -66,4 +67,5 @@ Para estabelecer uma boa avaliação, será utilizado o framework DECIDE, consid
  | 15/03/2022 |    1.0     |   Criação do Doc    |        [Adrian Soares](https://github.com/SwampTG)         |
  | 15/03/2022 |    1.1     |   Inserção da metodologia    |        [Adrian Soares](https://github.com/SwampTG)         |
  | 15/03/2022 |    1.2     |   Explicação DECIDE e perguntas da avaliação   |        [Adrian Soares](https://github.com/SwampTG)         |
+ | 16/03/2022 |    1.3     |   Introdução e organização do documento | [Magno Luiz](https://github.com/magnluiz)
  |  |         |    Revisão do documento   |        [](https://github.com/)         |
