@@ -55,11 +55,66 @@ Para estabelecer uma boa avaliação, será utilizado o framework DECIDE, consid
 - Como o site afeta o modo das pessoas se comunicarem com a prefeitura local?
 - O que é possível modificar no sistema para adequá-lo ao contexto de uso dos cidadãos de Passo Fundo, com os níveis mais variados de experiência com tecnologias de websites.
 
-### 3.2.
+### 3.2. Método de Avaliação: Inspeção
+
+<p style="text-indent: 20px; text-align: justify">
+A inspeção deverá ser efetuada através do Precurso cognitivo (*cognitive walkthrough*). Para realizá-lo, os passos que o usuário teve de realizar durante o storyboard deverão ser bem detalhados, em forma de lista ou, quando possuir muitos passos, em forma de um grafo direcionado como mostra a <a href="#figura1">figura 1</a>
+</p>
+
+<figure class="figure">
+ <figcaption class="figure-caption text-center" class="figure-caption">Figura 1: Grafo com passos de uma tarefa.</figcaption>
+  <img class="figure-img img-fluid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/grafo.svg">
+   <figcaption class="figure-caption text-center" class="figure-caption">Autor/Detentor dos direitos: Raylton P. Sousa.</figcaption>
+</figure>
+
+<p style="text-indent: 20px; text-align: justify">
+O avaliador deverá responder as seguintes perguntas, para cada tarefa analisada advinda do storyboard:
+</p>
+
+#### O usuário tentará e conseguirá atingir o objetivo correto?
+
+<p style="text-indent: 20px; text-align: justify">
+Com isso teremos uma noção caso a interface esteja assumindo um nível de experiência do usuário que não seja precisa. Tambeḿ conseguiremos perceber caso o usuário crie uma expectativa incorreta da ação realizada.
+</p>
+
+#### O usuário irá notar que a ação correta está disponível para ele?
+
+<p style="text-indent: 20px; text-align: justify">
+Com isso, visamos identificar opções ou controles que estejam escondidos dentro da interface, porém, que sejam importantes para o usuário. As opções disponíveis devem referenciar as ações possíveis no contexto em que o usuário se encontra.
+</p>
+
+#### O usuário conseguirá associar a ação correta com o objetivo que ele pretende atingir?
+
+<p style="text-indent: 20px; text-align: justify">
+Objetivamos identificar ações que não sejam intuitivas ou referencias de opções ou de ajudas que utilizem um linguajar inadequado para o público generalizado que irá acessar o site da prefeitura.
+</p>
+
+#### Se a ação correta é realizada, o usuário perceberá que está progredindo para o atingimento de seu objetivo?
+
+<p style="text-indent: 20px; text-align: justify">
+Analisaremos se o feedback do site é adequado e bem explicativo para seus usuários
+</p>
+
+### 3.3. Formulário
+``` txt
++ Listagem das possíveis etapas da tarefa
+#
+#
+#
+#
++O usuário tentará e conseguirá atingir o objetivo correto?
+
++O usuário irá notar que a ação correta está disponível para ele?
+
++O usuário conseguirá associar a ação correta com o objetivo que ele pretende atingir?
+
++Se a ação correta é realizada, o usuário perceberá que está progredindo para o atingimento de seu objetivo?
+```
 
 ## Referências bibliográficas
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
+> INTERACTION DESIGN FOUNDATION. How to Conduct a Cognitive Walkthrough. [S. l.], 2021. Disponível em: https://www.interaction-design.org/literature/article/how-to-conduct-a-cognitive-walkthrough. Acesso em: 14 mar. 2022.
 
 ## Histórico de versões
 
