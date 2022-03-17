@@ -1,7 +1,7 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-Storyboards são utilizados como formas de alinhar e entender as problemáticas que são avaliadas nas etapas de design do projeto. A criação dessa etapa está relacionado a entender os caminhos percorridos do usuário e prototipar situações que tornem a percepção da análise da avaliação e validação mais claras, que serão dispostas posteriormente em conjunto ao usuário, de forma que a situação do projeto esteja alinhada com as preocupações do design e do objetivo do usuário.
+Storyboards são utilizados como formas de alinhar e entender as problemáticas que são avaliadas nas etapas de design do projeto. A criação dessa etapa está relacionado a entender os caminhos percorridos do usuário e prototipar situações que tornem a percepção da análise da avaliação e validação mais claras, que serão dispostas posteriormente em conjunto ao usuário, de forma que a situação do projeto esteja alinhada com as preocupações do design e do objetivo do usuário. </p>
 <p style="text-indent: 20px; text-align: justify">
 Neste documento é proposto o planejamento da avaliação do Storyboard do projeto do site da Prefeitura de Passo Fundo que estão abordados as ideias da avaliação e as instruções necessárias.
 </p>
@@ -58,14 +58,18 @@ Para estabelecer uma boa avaliação, será utilizado o framework DECIDE, consid
 ### 3.2. Método de Avaliação: Inspeção - Caminhos Cognitivos
 
 <p style="text-indent: 20px; text-align: justify">
-A inspeção deverá ser efetuada através do Percurso cognitivo (*cognitive walkthrough*). Para realizá-lo, os passos que o usuário teve de realizar durante o storyboard deverão ser bem detalhados, em forma de lista ou, quando possuir muitos passos, em forma de um grafo direcionado como mostra a <a href="#figura1">figura 1</a>
+A inspeção deverá ser efetuada através do Percurso cognitivo. Para realizá-lo, os passos que o usuário teve de realizar durante o storyboard deverão ser bem detalhados, em forma de lista ou, quando possuir muitos passos, em forma de um grafo direcionado como mostra a <a href="#figura1">figura 1</a>
 </p>
 
 <figure class="figure">
  <figcaption class="figure-caption text-center" class="figure-caption">Figura 1: Grafo com passos de uma tarefa.</figcaption>
   <img class="figure-img img-fluid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/grafo.svg">
    <figcaption class="figure-caption text-center" class="figure-caption">Autor/Detentor dos direitos: Raylton P. Sousa.</figcaption>
+   
+<a href="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/grafo.svg">Clique aqui para abrir a figura em tela cheia</a>
+
 </figure>
+
 
 <p style="text-indent: 20px; text-align: justify">
 O avaliador deverá responder as seguintes perguntas, para cada tarefa analisada advinda do storyboard:
@@ -96,7 +100,8 @@ Analisaremos se o feedback do site é adequado e bem explicativo para seus usuá
 </p>
 
 ### 3.3. Formulário
-``` markdown
+
+``` 
 # Listagem das possíveis etapas da tarefa
 -
 -
@@ -113,26 +118,30 @@ Analisaremos se o feedback do site é adequado e bem explicativo para seus usuá
 ## Problemas identificados
 |Problema| Grau de Gravidade|Critérios de qualidade de uso prejudicados|
 |---|---|---|
+
+
 ```
+
 ### 4. Conclusão
 
 <p style="text-indent: 20px; text-align: justify">
 Este documento é a base do que se é esperado que seja compreendido na avaliação do Storyboard. Permanece descrito de forma a auxiliar o processo e os avaliadores competentes, sendo possível ser posteriormente adaptado para melhor resolução dos problemas, porém de forma consistente e comunicado entre os participantes do projeto. É disposto que trata-se também que tais adaptações visam as problemáticas relacionadas ao entendimento do que se apresenta ao usuário, de forma a fazer sentido em suas expectativas, necessidades e vontades.
 
-<p>
+</p>
 
 ## Referências bibliográficas
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
+
 > INTERACTION DESIGN FOUNDATION. How to Conduct a Cognitive Walkthrough. [S. l.], 2021. Disponível em: https://www.interaction-design.org/literature/article/how-to-conduct-a-cognitive-walkthrough. Acesso em: 14 mar. 2022.
 
 ## Histórico de versões
 
  | **Data**   | **Versão** | **Descrição**                            |                **Autor(es)**                 |
- | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: |
- | 15/03/2022 |    1.0     |   Criação do Doc    |        [Adrian Soares](https://github.com/SwampTG)         |
- | 15/03/2022 |    1.1     |   Inserção da metodologia    |        [Adrian Soares](https://github.com/SwampTG)         |
+ | :----------: | :--------: | :----------------------------------------: | :------------------------------------------: |
+ | 15/03/2022 |1.0 |Criação do Doc|[Adrian Soares](https://github.com/SwampTG)|
+ | 15/03/2022 |1.1|Inserção da metodologia|[Adrian Soares](https://github.com/SwampTG)|
  | 15/03/2022 |    1.2     |   Explicação DECIDE e perguntas da avaliação   |     [Adrian Soares](https://github.com/SwampTG)         |
- | 16/03/2022 |    1.3     |   Introdução e organização do documento | [Magno Luiz](https://github.com/magnluiz)
- | 16/03/2022 |    1.4     |   Conclusão e formulário de avaliação   | [Adrian Soares](https://github.com/SwampTG)  e [Magno Luiz](https://github.com/magnluiz)|
- |          |   | Revisão do documento   |        [](https://github.com/)         |
+ | 16/03/2022 |    1.3     |   Introdução e organização do documento | [Magno Luiz](https://github.com/magnluiz) |
+ | 16/03/2022 |    1.4     |   Conclusão e formulário de avaliação   | [Adrian Soares](https://github.com/SwampTG)  e [Magno Luiz](https://github.com/magnluiz) |
+ | 16/03/2022 | 1.5        | Revisão do documento   |        [Kayro César](https://github.com/kayrocesar)         |
