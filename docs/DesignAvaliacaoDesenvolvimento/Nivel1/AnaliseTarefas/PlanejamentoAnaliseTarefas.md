@@ -21,7 +21,7 @@ A avaliação de IHC é essencial no processo de desenvolvimento que visa a prod
 ### 2.1 Preparação 
 
 <p style="text-indent: 20px; text-align: justify">
-    Na atividade de preparação, devem ser organizados os objetos do estudo e  o material de apoio. Os objetos do estudo consistem em: uma lista de tarefas investigadas e a sequência das ações que  o usuário com o perfil especificado deveria executar para executar para concluir a tarefa. Em nossa avaliação , utilizaremos 2 avaliadores para analisar 4 tarefas, sendo que cada tarefa possuirá uma descrição do perfil do usuário, passos realizados e também deverá ser uma tarefa considerada relevante.  
+    Na atividade de preparação, devem ser organizados os objetos do estudo e  o material de apoio. Os objetos do estudo consistem em: uma lista de tarefas investigadas e a sequência das ações que  o usuário com o perfil especificado deveria executar para concluir a tarefa. Em nossa avaliação, utilizaremos 2 avaliadores para analisar 4 tarefas, sendo que cada tarefa possuirá uma descrição do perfil do usuário, passos realizados e também deverá ser uma tarefa considerada relevante.  
 </p>
 
 <p style="text-indent: 20px; text-align: justify">
@@ -69,7 +69,7 @@ O escopo da avaliação está limitado ao site da Prefeitura de Passo Fundo e as
 
 ### 2.2 Coleta de Dados
 
-<div style="text-align: justify">No método escolhido pelo grupo, a coleta de dados acontecerá por meio de percurso cognitivo, método de inspensão, onde o(s) inspetor(es) deve(m) se "colocar no lugar de um usuário com determinado perfil, com um certo conhecimento e experiência em algumas atividades, para então tentar identificar problemas que este usuário pode vir a ter quando interagir com o sistema, e quais formas de apoio o sistema oferece para ajudá-lo a contornarem esses problemas" (BARBOSA et al., 2021).</div><br>
+<div style="text-align: justify">No método escolhido pelo grupo, a coleta de dados acontecerá por meio de percurso cognitivo, método de inspeção, onde o(s) avaliador(es) deve(m) se "colocar no lugar de um usuário com determinado perfil, com um certo conhecimento e experiência em algumas atividades, para então tentar identificar problemas que este usuário pode vir a ter quando interagir com o sistema, e quais formas de apoio o sistema oferece para ajudá-lo a contornarem esses problemas" (BARBOSA et al., 2021).</div><br>
 
 - Percorrer a interface seguindo os passos definidos para cada tarefa;
 - Para cada passo, analisar se o usuário executaria a ação corretamente;
@@ -108,4 +108,4 @@ O escopo da avaliação está limitado ao site da Prefeitura de Passo Fundo e as
  | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: |
  | 15/03/2022  | 1.0  | Criação do documento e inserção dos tópicos  1, 2, 2.3, 2.4   |        [Kayro César](https://github.com/kayrocesar)         |
  | 16/03/2022  | 1.1  | Escrito dos tópicos 2.1 e 2.2 | [Kathlyn Lara](https://github.com/klmurussi)         |
- |  |         |    Revisão do documento   |        [](https://github.com/)         |
+ | 16/03/2022 |    1.2     |    Revisão do documento   |        [Magno Luiz](https://github.com/magnluiz) e  [Adrian Soares](https://github.com/SwampTG)     |
