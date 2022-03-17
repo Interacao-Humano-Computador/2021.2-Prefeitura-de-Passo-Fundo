@@ -16,14 +16,15 @@ Todos os membros | Gravação da apresentação 3
 
 
 ## Sprint 4 - Design, Avaliação e Desenvolvimento: ( Planejamento da Avaliação do Storyboard e Análise de tarefas e o planejamento do relato dos resultados da avaliação do Storyboard e Análise de tarefas) - Entrega 4
+
 <br>
 
 Nome | Tarefa(s)| Revisor(es)
 ---------- | -------| -------
- [Lorenzo](https://github.com/lorenzo7377)| Storyboards|[Kayro](https://github.com/kayrocesar) 
- |[Magno](https://github.com/magnluiz) e [Adrian](https://github.com/SwampTG) |   Planejamento da Avaliação do Storyboard|[Kayro](github.com/kayrocesar) 
- [Kayro](https://github.com/kayrocesar) e [Kathlyn Lara](https://github.com/klmurussi)   |Planejamento da Avaliação da Análise de tarefas | [Magno](https://github.com/magnluiz) e [Adrian](https://github.com/SwampTG)  
-Todos os membros | Gravação da apresentação 4|-
+ [Lorenzo](https://github.com/lorenzo7377) | Storyboards| [Kayro](https://github.com/kayrocesar) 
+ [Magno](https://github.com/magnluiz) e [Adrian](https://github.com/SwampTG) |   Planejamento da Avaliação do Storyboard | [Kayro](github.com/kayrocesar) |
+ [Kayro](https://github.com/kayrocesar) e [Kathlyn Lara](https://github.com/klmurussi)| Planejamento da Avaliação da Análise de tarefas | [Magno](https://github.com/magnluiz) e [Adrian](https://github.com/SwampTG)  |
+ Todos os membros | Gravação da apresentação 4|-
 
 
 ## Histórico de versões
