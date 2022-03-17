@@ -21,7 +21,7 @@ A avaliação de IHC é essencial no processo de desenvolvimento que visa a prod
 ### 2.1 Preparação 
 
 <p style="text-indent: 20px; text-align: justify">
-    Na atividade de preparação, devem ser organizados os objetos do estudo e  o material de apoio. Os objetos do estudo consistem em: uma lista de tarefas investigadas e a sequência das ações que  o usuário com o perfil especificado deveria executar para executar para concluir a tarefa.
+    Na atividade de preparação, devem ser organizados os objetos do estudo e  o material de apoio. Os objetos do estudo consistem em: uma lista de tarefas investigadas e a sequência das ações que  o usuário com o perfil especificado deveria executar para executar para concluir a tarefa. Em nossa avaliação , utilizaremos 2 avaliadores para analisar 4 tarefas, sendo que cada tarefa possuirá uma descrição do perfil do usuário, passos realizados e também deverá ser uma tarefa considerada relevante.  
 </p>
 
 <p style="text-indent: 20px; text-align: justify">
@@ -80,7 +80,9 @@ O escopo da avaliação está limitado ao site da Prefeitura de Passo Fundo e as
 - Relatar uma história aceitável sobre o sucesso ou falha em realizar cada passo de cada tarefa.
 
 ### 2.3 Interpretação e Consolidação dos Resultados 
-
+<p style="text-indent: 20px; text-align: justify">
+ Sintetizaremos dados sobre:
+</p>
 <p style="text-indent: 20px; text-align: justify">
 <b>O que o usuário precisa saber a priori para realizar as tarefas? </b>
 </p>
@@ -94,8 +96,7 @@ O escopo da avaliação está limitado ao site da Prefeitura de Passo Fundo e as
 
 ### 2.4 Relato dos Resultados  
 
-<p style="text-indent: 20px; text-align: justify">Para relatar os resultados, haverá um relatório consolidado com os problemas encontrados e sugestões de
-correção.</p>
+<p style="text-indent: 20px; text-align: justify">Para relatar os resultados, haverá o  relatório consolidado no documento de relatos da avaliação com os problemas encontrados e sugestões de correção.</p>
 
 ## Referências bibliográficas
 
