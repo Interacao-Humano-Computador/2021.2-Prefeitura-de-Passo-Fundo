@@ -1,5 +1,8 @@
 # Ata de Reunião: 18/02/2022
 
+## Local da reunião: 
+- Discord
+
 ## Retrospectiva Sprint 1:
 
 Nome | Tarefa(s) realizada(s)
@@ -11,14 +14,6 @@ Nome | Tarefa(s) realizada(s)
 [Kathlyn Lara](https://github.com/klmurussi)| Introdução
 Todos os membros | Gravação da apresentação 1
 
-### Observações:
-- Todos os membros do grupo realizaram as atividades designadas 
-- Todos os membros do grupo participaram da gravação da apresentação
-
-## Pontos de melhoria:
-- Acrescentar revisores de cada tarefa
-- Padronizar documentos
-- Fazer uma melhor divisão das tarefas
 
 ## Sprint 2 - Análise de requisitos: <br> (Perfil do usuário,personas e análise de tarefas) - Entrega 2
 

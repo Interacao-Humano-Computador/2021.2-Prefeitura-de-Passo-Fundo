@@ -1,5 +1,8 @@
 # Ata de Reunião: 09/03/2022
 
+## Local da reunião: 
+- Discord
+
 ## Retrospectiva Sprint 2:
 
 Nome | Tarefa(s) realizada(s)
@@ -11,9 +14,7 @@ Nome | Tarefa(s) realizada(s)
 [Kathlyn Lara](https://github.com/klmurussi)| Análise hierárquica de tarefas (HTA)
 Todos os membros | Gravação da apresentação 2
 
-### Observações:
-- Todos os membros do grupo realizaram as atividades designadas 
-- Todos os membros do grupo participaram da gravação da apresentação
+
 
 ## Sprint 3 - Análise de requisitos: ( Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo) - Entrega 3
 <br>

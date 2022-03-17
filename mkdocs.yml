@@ -49,6 +49,7 @@ nav:
      - Ata 1: Atas/ata1.md
      - Ata 2: Atas/ata2.md 
      - Ata 3: Atas/ata3.md 
+     - Ata 4: Atas/ata4.md 
 theme:
   language: pt
   logo: https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/logo-passo-fundo.png

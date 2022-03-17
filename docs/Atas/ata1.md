@@ -1,5 +1,8 @@
 # Ata de Reunião: 04/02/2022
 
+## Local da reunião: 
+- Discord
+
 ## Organização do trabalho:
 - Planejamento (inclui atas de reunião e sprints)
 ## Metodologia:
@@ -46,4 +49,4 @@ Todos os membros | Gravação da apresentação 1
 ## Histórico de versões
 | Versão | Data | Modificação | Autor(es) |
 |--|--|--|--|
-| 1.0 | 18/02/2022 |Elaboração da guia de Atas e ata 1 |[Kayro César](github.com/kayrocesar)  |
+| 1.0 | 04/02/2022 |Elaboração da guia de Atas e ata 1 |[Kayro César](github.com/kayrocesar)  |
