@@ -130,3 +130,4 @@ A partir da realização da entrevista , o grupo realizará uma análise dos res
  | 15/03/2022  | 1.0  | Criação do documento e inserção dos tópicos  1, 2, 2.3, 2.4   |        [Kayro César](https://github.com/kayrocesar)         |
  | 16/03/2022  | 1.1  | Escrito dos tópicos 2.1 e 2.2 | [Kathlyn Lara](https://github.com/klmurussi)         |
  | 16/03/2022 |    1.2     |    Revisão do documento   |        [Magno Luiz](https://github.com/magnluiz) e  [Adrian Soares](https://github.com/SwampTG)     |
+ | 25/03/2022  | 2.0  | Criação do documento com mudança de método e inserção dos tópicos  1, 2 e subtópicos   |        [Kayro César](https://github.com/kayrocesar)         |
