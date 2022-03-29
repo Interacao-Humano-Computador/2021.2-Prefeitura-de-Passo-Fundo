@@ -135,10 +135,6 @@ O documento de relato dos resultados a ser produzido deverá possuir os seguinte
 
 
 
-<br>
-
-
-
 ## Referências bibliográficas
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
@@ -147,9 +143,8 @@ O documento de relato dos resultados a ser produzido deverá possuir os seguinte
 
  | **Data**   | **Versão** | **Descrição**                            |                **Autor(es)**                 |
  | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: |
- |  |    1.0     |       |        [](https://github.com/)         |
+ | 29/03/2022 |    1.0     |  Criação do documento e elaboração dos tópicos e textos     |        [Kayro César](https://github.com/kayrocesar)         |
  |  |         |    Revisão do documento   |        [](https://github.com/)         |
 
 
-#### 2.4 Preparação de questões relacionadas ao protótipo
 
