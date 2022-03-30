@@ -1,6 +1,7 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
+Neste documento serão apresentados os resultados referentes às metodologias utilizadas para realizar a avaliação dos Storyboards. O grupo realizou a análise da veracidade e organização dos Storyboards através da entrevista como método primário, e usando como complemento para a avaliação, foi realizado o método de inspeção por percurso cognitivo.  Desta forma, os relatos são a base para possíveis reformulações nas tomadas de decisões que caracterizam os Storyboards. 
 
 </p>
 
@@ -9,10 +10,22 @@
 ### 2.1. Inspeção
 
 <p style="text-indent: 20px; text-align: justify">
+O método de avaliação por inspeção utilizado, percurso cognitivo, foi estabelecido para complementar a avaliação por meio de entrevista. É da característica deste processo compreender a situação do projeto com objetivo de avaliar a facilidade de aprendizado, no caso específico do Storyboard, entender sua veracidade e organização através de sua exploração por parte de desenvolvedores do projeto.
+<p style="text-indent: 20px; text-align: justify">
+No processo do percurso cognitivo, baseando-se nas tarefas e objetivos que são representadas no Planejamento da Avaliação dos Storyboards, foi avaliado projetando-se um percurso em que conclui-se a utilização do possível usuário sobre os objetivos e caminhos de cada tarefa.
 
 </p>
 
+### 2.1.1 Resultados do percurso cognitivo
+
 <p style="text-indent: 20px; text-align: justify">
+Os Storyboards foram avaliados conforme os objetivos relacionados a entender as perguntas apresentadas.
+<p style="text-indent: 20px; text-align: justify">
+O usuário de fato consegue assimilar a situação com um possível objetivo ou tarefa que possa ser realizado, exceto no primeiro cenário, que pode ser melhorado, pois é uma tarefa que demonstra pouca aplicabilidade para os casos de uso do site da prefeitura. 
+<p style="text-indent: 20px; text-align: justify">
+Realizando o percurso de forma a avaliar a situação demonstrando os objetivos do usuário, é relatado fácil entendimento dos cenários em nível simples, com a história convincente sequenciada das tarefas elaboradas. 
+<p style="text-indent: 20px; text-align: justify">
+O usuário consegue entender corretamente o que é apresentado e o objetivo dos Storyboards, passando pelas diversas personas que simbolizam os possíveis usuários, caracterizando a diversidade dos Storyboards.
  
 </p>
 
@@ -205,5 +218,5 @@
 
  | **Data**   | **Versão** | **Descrição**                            |                **Autor(es)**                 |
  | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: |
- |  |    1.0     |       |        [](https://github.com/)         |
- |  |         |    Revisão do documento   |        [](https://github.com/)         |
+ | 30/03/2022 |    1.0     |   Resultados da avaliação dos Storyboards    |        [Adrian Soares](https://github.com/SwampTG)     e [Magno Luiz](https://github.com/magnluiz)    |
+ |  |         |    Revisão do documento   |       [Kayro César](https://github.com/kayrocesar)          |
