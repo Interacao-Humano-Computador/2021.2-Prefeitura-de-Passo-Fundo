@@ -164,7 +164,35 @@
 | 11.2 | Qual foi a principal reação dos personagens?                                            | Resposta: satisfeito com site de Passo Fundo                           |
 | 11.3 | Os personagens terminam a história satisfeitos?                                         | [x ] Sim [ ] Não                                                       |
 
+- Cenário 4
 
+|      |                                                                                         |                                                                          |
+|:----:|:---------------------------------------------------------------------------------------:|:------------------------------------------------------------------------:|
+| 6    | A situação representada te parece factível?                                             | [x ] Sim [ ] Não                                                         |
+| 7    | Você já utilizou o site da prefeitura de passo fundo para realizar esse tipo de tarefa? | [ ] Sim [x ] Não                                                         |
+| 8    | Você conseguiria explicar brevemente o que ocorreu nessa história?                      | Resposta: o personagem quase esqueceu de pagar o IPTU                     |
+| 9    | Você acha que a história está bem contextualizada (cenários e lugares representados)?   | [x ] Sim [ ] Não                                                         |
+| 9.1  | Você poderia descrever sucintamente o(s) lugar(es) em que a história se passa?          | Resposta:Passo Fundo no Rio Grande do Sul, no trabalho e na casa                                |
+| 10   | Qual você acha que foi a tarefa que se pretendeu representar com essa história?         | Resposta: que podemos pagar tudo pelo site da prefeitura de Passo Fundo  |
+| 11   | Você acha que os personagens são bem representados?                                     | [x] Sim [ ] Não                                                         |
+| 11.1 | Você poderia descrever as principais características desses personagens?                | Resposta: Esquecimento devido ao dia a  dia                               |
+| 11.2 | Qual foi a principal reação dos personagens?                                            | Resposta: preocupado                                                     |
+| 11.3 | Os personagens terminam a história satisfeitos?                                         | [x] Sim [ ] Não                                                         |
+
+- Cenário 5
+  
+|      |                                                                                         |                                                                              |
+|:----:|:---------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
+| 6    | A situação representada te parece factível?                                             | [ x] Sim [ ] Não                                                             |
+| 7    | Você já utilizou o site da prefeitura de passo fundo para realizar esse tipo de tarefa? | [ ] Sim [x ] Não                                                             |
+| 8    | Você conseguiria explicar brevemente o que ocorreu nessa história?                      | Resposta: uma demanda ou seja uma reclamação do usuário                      |
+| 9    | Você acha que a história está bem contextualizada (cenários e lugares representados)?   | [x ] Sim [ ] Não                                                             |
+| 9.1  | Você poderia descrever sucintamente o(s) lugar(es) em que a história se passa?          | Resposta: N cidade de Passo Fundom na casa dela                                            |
+| 10   | Qual você acha que foi a tarefa que se pretendeu representar com essa história?         | Resposta: Conserto na Luz do poste da cidade                                  |
+| 11   | Você acha que os personagens são bem representados?                                     | [ x] Sim [ ] Não                                                             |
+| 11.1 | Você poderia descrever as principais características desses personagens?                | Resposta: Tinha um reclamação a fazer e que poderia ser revolvido pelo Site. |
+| 11.2 | Qual foi a principal reação dos personagens?                                            | Resposta: Surpreso como foi resolvido o problema através  do site                   |
+| 11.3 | Os personagens terminam a história satisfeitos?                                         | [x ] Sim [ ] Não                                                             |
 
 ## 3. 
         
