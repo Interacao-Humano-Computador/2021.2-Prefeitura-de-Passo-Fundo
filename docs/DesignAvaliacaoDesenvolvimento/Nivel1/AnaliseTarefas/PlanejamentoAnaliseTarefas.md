@@ -56,10 +56,9 @@ Inicialmente, o avaliador irá se apresentar e realizar a recepção do particip
 | 1 | Qual é o seu nome completo? |Pergunta aberta
 | 2 | Qual é a sua ocupação?  |  Pergunta aberta
 | 3 | Qual é a sua idade?  |  Pergunta aberta
-| 3 | Você já utilizou o site da Prefeitura de Passo Fundo? | [ ] Sim [ ] Não|
-| 3.1 | Qual a sua frequência de utilização do site da Prefeitura de Passo Fundo? |  Pergunta aberta
+| 4 | Você já utilizou o site da Prefeitura de Passo Fundo? | [ ] Sim [ ] Não|
+| 4.1 | Qual a sua frequência de utilização do site da Prefeitura de Passo Fundo? |  Pergunta aberta
 | | Agora, pediremos que você realize algumas tarefas e que relatasse cada movimento, por mais simples que seja. |  
-| 4 | Se você quisesse acessar o site da Prefeitura de Passo Fundo, como você faria? |Pergunta aberta
 | 5 | Analisando a página inicial do site, você acha a navegação e o visual da página como um todo agradável?  | Pergunta aberta|
 | 6 | Se você quisesse entrar em contato com a Prefeitura de Passo Fundo, como você faria isso?  | Pergunta aberta|
 | 6.1 | Essa tarefa está representada no diagrama da análise de Tarefas GOMS?  | [ ] Sim [ ] Não|
