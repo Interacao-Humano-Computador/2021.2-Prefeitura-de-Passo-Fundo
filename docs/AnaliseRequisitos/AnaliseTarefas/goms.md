@@ -192,7 +192,12 @@ O CMN-GOMS é um dos modelos da família GOMS e está relacionado a proposta ori
             Deslocar o mouse até o botão "Anexar Novo Documento"
             - <span style=" color:#8bc34b">OP 3.21:</span>
             Apertar com botão esquerdo do mouse em "Anexar Novo Documento"
-        
+ - <b> 3.7 Acessar notícias </b>
+    - <span><b>GOAL 0:</b></span> Acessar o site da Prefeitura
+        - <span><b>GOAL 1:</b></span> Acessar a seção de notícias na página inicial
+            - <span style=" color:#8bc34b">OP 1.1:</span> Deslocar o botão de scroll do mouse para baixo até chegar na seção “Agência de notícias"
+            - <span style=" color:#8bc34b">OP 1.2:</span> Apertar com botão esquerdo do mouse na notícia desejada                          
+    
 
         
 
