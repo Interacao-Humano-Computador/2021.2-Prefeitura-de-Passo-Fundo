@@ -147,7 +147,7 @@ O usuário deverá responder às seguintes perguntas, guiado pelo avaliador, par
 | 2 | Qual é a sua ocupação?  |  Pergunta aberta
 | 3 | Qual é a sua idade?  |  Pergunta aberta
 | 4 | Você já utilizou algum site de prefeitura? | [ ] Sim [ ] Não|
-| 4.1 | Com que frequência você utiliza esse tipo de site? | [ ] Ocasionalmente [ ] Eventualmente [ ] Frequentemente|
+| 4.1 | Com que frequência você utiliza esse tipo de site? | [ ] Ocasionalmente <br> [ ] Eventualmente <br> [ ] Frequentemente|
 | 5 | Você já utilizou o site da Prefeitura de Passo Fundo? | [ ] Sim [ ] Não|
 | 5.1 | Qual a sua frequência de utilização do site da Prefeitura de Passo Fundo? |  Pergunta aberta
 | | Agora você pode observar o storyboard. Ele tenta representar uma situação que poderia ocorrer com alguém no dia-a-dia. |  
