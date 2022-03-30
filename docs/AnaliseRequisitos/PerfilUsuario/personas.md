@@ -51,9 +51,9 @@ Como nosso projeto gira em torno do site da prefeitura de Passo Fundo, o públic
  | Status: |   Persona primária  |
  | Idade: |  27 anos  |
  | Profissão: |  Servidor Público  |
- | Habilidades: |  Leve conhecimento sobre computadores e contabilidade  |
- | Tarefas: |   Deseja gerar uma declaração de recebimento do vale transporte e acessar modelos para credenciamento de licitações   |
- | Expectativas: |  Espera que o site tenha documentos em formato de PDF que ele possa baixar |
+ | Habilidades: | Conhecimento avançado acerca de licitações e contratos |
+ | Tarefas: |   Deseja visualizar seu contracheque no site da Prefeitura|
+ | Expectativas: |  Espera que o site seja intuitivo e que o portal do servidor público seja acessível |
 
 <br>
 <br>
