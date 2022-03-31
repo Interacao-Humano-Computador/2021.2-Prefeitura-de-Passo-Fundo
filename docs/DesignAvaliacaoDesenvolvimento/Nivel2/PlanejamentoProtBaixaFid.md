@@ -53,7 +53,7 @@ Para essa atividade, buscaremos trazer alguns potenciais usuários reais de site
 <p style="text-indent: 20px; text-align: justify">
 Esses são os protótipos em papel que definimos a partir das tarefas analisadas:</p>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FIUJWur6N5Mz47pwl18DWA7%2Fprototipo%3Fnode-id%3D24%253A2%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D24%253A2" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FIUJWur6N5Mz47pwl18DWA7%2Fprototipo%3Fnode-id%3D24%253A2%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D24%253A2" allowfullscreen></iframe>
 
 #### 2.4.4 Ambiente da avaliação
 
