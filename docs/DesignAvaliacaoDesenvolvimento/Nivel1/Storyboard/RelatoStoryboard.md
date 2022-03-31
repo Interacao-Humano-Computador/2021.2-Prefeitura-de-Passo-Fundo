@@ -207,8 +207,15 @@ O usuário consegue entender corretamente o que é apresentado e o objetivo dos 
 | 11.2 | Qual foi a principal reação dos personagens?                                            | Resposta: Surpreso como foi resolvido o problema através  do site                   |
 | 11.3 | Os personagens terminam a história satisfeitos?                                         | [x ] Sim [ ] Não                                                             |
 
-## 3. 
-        
+## 3. Conclusão
+<p style="text-indent: 20px; text-align: justify">
+A partir da análise da avaliação dos Storyboards, é perceptível que podemos melhorar a situação do cenário 1, por tratarmos uma problemática não factível com os objetivos e tarefas que podem ser realizados pelos usuários. 
+<p style="text-indent: 20px; text-align: justify">
+Os cenários 2,3 e 4 apresentam veracidade e organização das ideias que foram planejadas, assim como fidelidade em relação às tarefas que buscam representar. Os entrevistados demonstraram entender os objetivos dos Storyboards, visto que foi relatado com precisão os objetivos que os Storyboards pretendiam. 
+<p style="text-indent: 20px; text-align: justify">
+Após as melhorias em relação à situação do cenário 1, o processo de design continuará com base na avaliação das entrevistas e do processo de inspeção. 
+
+</p>
 
 ## Referências bibliográficas
 
@@ -218,5 +225,6 @@ O usuário consegue entender corretamente o que é apresentado e o objetivo dos 
 
  | **Data**   | **Versão** | **Descrição**                            |                **Autor(es)**                 |
  | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: |
- | 30/03/2022 |    1.0     |   Resultados da avaliação dos Storyboards    |        [Adrian Soares](https://github.com/SwampTG)     e [Magno Luiz](https://github.com/magnluiz)    |
+ | 30/03/2022 |    1.0     |   Resultados da avaliação dos Storyboards|        [Adrian Soares](https://github.com/SwampTG)     e [Magno Luiz](https://github.com/magnluiz)    |
+ | 30/03/2022 |    1.1     |   Conclusão                              |        [Magno Luiz](https://github.com/magnluiz) 
  |  |         |    Revisão do documento   |       [Kayro César](https://github.com/kayrocesar)          |
