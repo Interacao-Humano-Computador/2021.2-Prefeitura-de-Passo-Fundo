@@ -227,4 +227,4 @@ Após as melhorias em relação à situação do cenário 1, o processo de desig
  | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: |
  | 30/03/2022 |    1.0     |   Resultados da avaliação dos Storyboards|        [Adrian Soares](https://github.com/SwampTG)     e [Magno Luiz](https://github.com/magnluiz)    |
  | 30/03/2022 |    1.1     |   Conclusão                              |        [Magno Luiz](https://github.com/magnluiz) 
- |  |         |    Revisão do documento   |       [Kayro César](https://github.com/kayrocesar)          |
+ | 30/03/2022 |     1.1    |    Revisão do documento   |       [Kayro César](https://github.com/kayrocesar)          |
