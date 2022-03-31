@@ -10,7 +10,7 @@ Neste documento serão apresentados os resultados referentes às metodologias ut
 ### 2.1. Inspeção
 
 <p style="text-indent: 20px; text-align: justify">
-O método de avaliação por inspeção utilizado, percurso cognitivo, foi estabelecido para complementar a avaliação por meio de entrevista. É da característica deste processo compreender a situação do projeto com objetivo de avaliar a facilidade de aprendizado, no caso específico do Storyboard, entender sua veracidade e organização através de sua exploração por parte de desenvolvedores do projeto.
+O método de avaliação por inspeção utilizado, percurso cognitivo, foi estabelecido para complementar a avaliação por meio de entrevista. É da característica deste processo compreender a situação do projeto com objetivo de avaliar a facilidade de aprendizado, no caso específico do Storyboard, entender sua veracidade e organização através de sua exploração por parte de desenvolvedores do projeto. </p>
 <p style="text-indent: 20px; text-align: justify">
 No processo do percurso cognitivo, baseando-se nas tarefas e objetivos que são representadas no Planejamento da Avaliação dos Storyboards, foi avaliado projetando-se um percurso em que conclui-se a utilização do possível usuário sobre os objetivos e caminhos de cada tarefa.
 
@@ -19,11 +19,11 @@ No processo do percurso cognitivo, baseando-se nas tarefas e objetivos que são 
 ### 2.1.1 Resultados do percurso cognitivo
 
 <p style="text-indent: 20px; text-align: justify">
-Os Storyboards foram avaliados conforme os objetivos relacionados a entender as perguntas apresentadas.
+Os Storyboards foram avaliados conforme os objetivos relacionados a entender as perguntas apresentadas.</p>
 <p style="text-indent: 20px; text-align: justify">
-O usuário de fato consegue assimilar a situação com um possível objetivo ou tarefa que possa ser realizado, exceto no primeiro cenário, que pode ser melhorado, pois é uma tarefa que demonstra pouca aplicabilidade para os casos de uso do site da prefeitura. 
+O usuário de fato consegue assimilar a situação com um possível objetivo ou tarefa que possa ser realizado, exceto no primeiro cenário, que pode ser melhorado, pois é uma tarefa que demonstra pouca aplicabilidade para os casos de uso do site da prefeitura. </p>
 <p style="text-indent: 20px; text-align: justify">
-Realizando o percurso de forma a avaliar a situação demonstrando os objetivos do usuário, é relatado fácil entendimento dos cenários em nível simples, com a história convincente sequenciada das tarefas elaboradas. 
+Realizando o percurso de forma a avaliar a situação demonstrando os objetivos do usuário, é relatado fácil entendimento dos cenários em nível simples, com a história convincente sequenciada das tarefas elaboradas. </p>
 <p style="text-indent: 20px; text-align: justify">
 O usuário consegue entender corretamente o que é apresentado e o objetivo dos Storyboards, passando pelas diversas personas que simbolizam os possíveis usuários, caracterizando a diversidade dos Storyboards.
  
@@ -209,12 +209,11 @@ O usuário consegue entender corretamente o que é apresentado e o objetivo dos 
 
 ## 3. Conclusão
 <p style="text-indent: 20px; text-align: justify">
-A partir da análise da avaliação dos Storyboards, é perceptível que podemos melhorar a situação do cenário 1, por tratarmos uma problemática não factível com os objetivos e tarefas que podem ser realizados pelos usuários. 
+A partir da análise da avaliação dos Storyboards, é perceptível que podemos melhorar a situação do cenário 1, por tratarmos uma problemática não factível com os objetivos e tarefas que podem ser realizados pelos usuários. </p>
 <p style="text-indent: 20px; text-align: justify">
-Os cenários 2,3,4 e 5 apresentam veracidade e organização das ideias que foram planejadas, assim como fidelidade em relação às tarefas que buscam representar. Os entrevistados demonstraram entender os objetivos dos Storyboards, visto que foi relatado com precisão os objetivos que os Storyboards pretendiam. 
+Os cenários 2,3,4 e 5 apresentam veracidade e organização das ideias que foram planejadas, assim como fidelidade em relação às tarefas que buscam representar. Os entrevistados demonstraram entender os objetivos dos Storyboards, visto que foi relatado com precisão os objetivos que os Storyboards pretendiam. </p>
 <p style="text-indent: 20px; text-align: justify">
-Após as melhorias em relação à situação do cenário 1, o processo de design continuará com base na avaliação das entrevistas e do processo de inspeção. 
-
+Após as melhorias em relação à situação do cenário 1, o processo de design continuará com base na avaliação das entrevistas e do processo de inspeção.
 </p>
 
 ## Referências bibliográficas
