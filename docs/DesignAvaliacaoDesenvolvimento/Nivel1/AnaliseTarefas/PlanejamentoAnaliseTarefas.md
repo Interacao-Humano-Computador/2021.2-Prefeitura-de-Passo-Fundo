@@ -90,7 +90,7 @@ Inicialmente, o avaliador irá se apresentar e realizar a recepção do particip
 
 ### 2.5 Decidir como lidar com as questões éticas
 <p style="text-indent: 20px; text-align: justify">
-Nessa etapa devemos decidir a conduta diante de questões éticas. No nosso caso, utilizaremos um termo de consentimento antes de iniciar a avaliação, assim o entrevistado deverá ler o termo e dar o seu consentimento em voz alta e clara. Vale ressaltar que o entrevistado pode desistir da entrevista ou até mesmo interrompe-la, caso deseje.
+Nessa etapa devemos decidir a conduta diante de questões éticas. No nosso caso, utilizaremos um termo de consentimento antes de iniciar a avaliação, assim o entrevistado deverá ler o termo e dar o seu consentimento em voz alta e clara. Vale ressaltar que o entrevistado pode desistir da entrevista ou interrompe-la, caso deseje.
 
 </p>
 
