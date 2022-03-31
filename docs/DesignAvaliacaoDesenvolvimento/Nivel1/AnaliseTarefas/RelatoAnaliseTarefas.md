@@ -160,7 +160,6 @@ A partir do relato dos resultados da avaliação, o grupo percebeu que algumas t
  | **Data**   | **Versão** | **Descrição**                            |                **Autor(es)**                 |
  | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: |
  | 30/03/2022 |    1.0     |   Criação do documento e elaboração de tópicos e textos    |        [Kayro César](https://github.com/kayrocesar)         |
- |  |         |    Revisão do documento   |        [](https://github.com/)         |
-
+ |  30/03/2022|      1.1   |    Revisão do documento   |        [Adrian Soares](https://github.com/SwampTG)     e [Magno Luiz](https://github.com/magnluiz)    |      
 
 

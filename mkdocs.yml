@@ -34,12 +34,12 @@ nav:
    - Nível 2: 
        - Protótipo de Papel: 
            - Planejamento da Avaliação do Protótipo de Papel: DesignAvaliacaoDesenvolvimento/Nivel2/PlanejamentoProtBaixaFid.md
-           - Relato dos resultados da Avaliação do Protótipo de Papel: DesignAvaliacaoDesenvolvimento/Nivel2/RelatoProtBaixaFid.md
-   - Nível 3:
-       - Protótipo de alta Fidelidade: 
-           - Planejamento da avaliação: DesignAvaliacaoDesenvolvimento/Nivel3/PlanejamentoProtAltaFid.md
-           - Relato da avaliação: DesignAvaliacaoDesenvolvimento/Nivel3/RelatoProtAltaFid.md
- - Verificação: Verificacao/Verificacao.md
+          ## - Relato dos resultados da Avaliação do Protótipo de Papel: DesignAvaliacaoDesenvolvimento/Nivel2/RelatoProtBaixaFid.md
+   ##- Nível 3:
+      ## - Protótipo de alta Fidelidade: 
+       ##    - Planejamento da avaliação: DesignAvaliacaoDesenvolvimento/Nivel3/PlanejamentoProtAltaFid.md
+        ##   - Relato da avaliação: DesignAvaliacaoDesenvolvimento/Nivel3/RelatoProtAltaFid.md
+ ##- Verificação: Verificacao/Verificacao.md
  - Apresentações:
       - Apresentação 1: Apresentacoes/apresentacao1.md
       - Apresentação 2: Apresentacoes/apresentacao2.md
