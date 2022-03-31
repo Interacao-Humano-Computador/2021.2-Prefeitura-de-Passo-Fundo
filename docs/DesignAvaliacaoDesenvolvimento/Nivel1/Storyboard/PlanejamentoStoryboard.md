@@ -55,7 +55,7 @@ Para estabelecer uma boa avaliação, será utilizado o framework DECIDE, consid
 - Como o site afeta o modo das pessoas se comunicarem com a prefeitura local?
 - O que é possível modificar no sistema para adequá-lo ao contexto de uso dos cidadãos de Passo Fundo, com os níveis mais variados de experiência com tecnologias de websites.
 
-### 3.2. Método de Avaliação: Inspeção - Caminhos Cognitivos
+### 3.2.1. Método de Avaliação: Inspeção - Caminhos Cognitivos
 
 <p style="text-indent: 20px; text-align: justify">
 A inspeção deverá ser efetuada através do Percurso cognitivo. Para realizá-lo, os passos que o usuário teve de realizar durante o storyboard deverão ser bem detalhados, em forma de lista ou, quando possuir muitos passos, em forma de um grafo direcionado como mostra a <a href="#figura1">figura 1</a>
@@ -99,7 +99,7 @@ Objetivamos identificar ações que não sejam intuitivas ou referencias de opç
 Analisaremos se o feedback do site é adequado e bem explicativo para seus usuários
 </p>
 
-### 3.3. Formulário
+#### 3.2.1.1 Formulário
 
 ``` 
 # Listagem das possíveis etapas da tarefa
@@ -122,11 +122,78 @@ Analisaremos se o feedback do site é adequado e bem explicativo para seus usuá
 
 ```
 
+### 3.2.2. Método de Avaliação: Investigação - Entrevista
+
+<p style="text-indent: 20px; text-align: justify">
+A Investigação deverá ser efetuada através do uso de um Questionário de Entrevista. Para realizá-lo, serão utilizadas perguntas que consigam cubrir as informações separadas pelos objetivos da avaliação. Esses método permite ao avaliador ter acesso, interpretar e analisar concepções, opiniões, expectativas e comportamentos do usuário relacionados com o artefato a ser avaliado. A investigação deve focar nos problemas que os usuários costumam enfrentar, relacionando-os com a observação do storyboard.
+</p>
+
+#### 3.2.2.1.
+
+<p style="text-indent: 20px; text-align: justify">
+O usuário tem um perfil bastante abrangente e pretendemos ter uma amostragem abrangente. Entrevistaremos familiares que possuem experiência prévia com sites de prefeituras e utilizaremos personas para identificar testar outros perfis. Também tentaremos refinar o perfil do usuário com algumas perguntas para identificar dados como a idade, ocupação e gênero.
+</p>
+
+
+<p style="text-indent: 20px; text-align: justify">
+O usuário deverá responder às seguintes perguntas, guiado pelo avaliador, para cada um dos storyboards:
+</p>
+
+<figcaption>Tabela 1: Roteiro da entrevista </figcaption>
+
+| Número | Pergunta | Tipo de Pergunta
+|:--:|:--:|:--:|
+| 1 | Qual é o seu nome completo? |Pergunta aberta
+| 2 | Qual é a sua ocupação?  |  Pergunta aberta
+| 3 | Qual é a sua idade?  |  Pergunta aberta
+| 4 | Você já utilizou algum site de prefeitura? | [ ] Sim [ ] Não|
+| 4.1 | Com que frequência você utiliza esse tipo de site? | [ ] Ocasionalmente <br> [ ] Eventualmente <br> [ ] Frequentemente|
+| 5 | Você já utilizou o site da Prefeitura de Passo Fundo? | [ ] Sim [ ] Não|
+| 5.1 | Qual a sua frequência de utilização do site da Prefeitura de Passo Fundo? |  Pergunta aberta
+| | Agora você pode observar o storyboard. Ele tenta representar uma situação que poderia ocorrer com alguém no dia-a-dia. |  
+| 6 | A situação representada te parece factível?  | [ ] Sim [ ] Não|
+| 7 | Você já utilizou o site da prefeitura de passo fundo para realizar esse tipo de tarefa? | [ ] Sim [ ] Não|
+| 8 | Você conseguiria explicar brevemente o que ocorreu nessa história? |  Pergunta aberta |
+| 9 |  Você acha que a história está bem contextualizada (cenários e lugares representados)? | [ ] Sim [ ] Não|
+| 9.1 | Você poderia descrever sucintamente o(s) lugar(es) em que a história se passa?  |  Pergunta aberta|
+| 10 |  Qual você acha que foi a tarefa que se pretendeu representar com essa história? | Pergunta aberta|
+| 11 |   Você acha que os personagens são bem representados?  | [ ] Sim [ ] Não|
+| 11.1 | Você poderia descrever as principais características desses personagens?  | Pergunta aberta |
+| 11.2 | Qual foi a principal reação dos personagens? | Pergunta aberta |
+| 11.3 | Os personagens terminam a história satisfeitos?  |  [ ] Sim [ ] Não|
+
+<figcaption>Fonte: elaboração dos autores </figcaption>
+</center>
+
+#### Ambiente da entrevista
+
+<p style="text-indent: 20px; text-align: justify">A entrevista será realizada a distância, através da plataforma Microsoft Teams e localmente, com alguns familiares que se propuseram a participar. No ambiente, deveram ser separados os storyboards que serão visualizados pelo usuário. É importante que o ambiente seja livre de distrações para que o usuário possa focar na avaliação. </p>
+
+
+#### 3.2.2.2. Decidir como lidar com as questões éticas
+<p style="text-indent: 20px; text-align: justify">
+Nessa etapa devemos decidir a conduta diante de questões éticas. No nosso caso, utilizaremos um termo de consentimento antes de iniciar a avaliação, assim o entrevistado deverá ler o termo e dar o seu consentimento em voz alta e clara. Vale ressaltar que o entrevistado pode desistir da entrevista ou até mesmo interrompe-la, caso deseje.
+</p>
+
+#### Termo de consentimento
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%;
+ padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" 
+    style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAE8iAG8a0U/mMKlgvFpQbYWaMAwY1Bavw/view?utm_content=DAE8iAG8a0U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+
+### 3.3. Avaliar, interpretar e apresentar os dados
+<p style="text-indent: 20px; text-align: justify">
+A partir da realização da entrevista , o grupo realizará um relato dos resultados extraídos, assim  a atividade em questão será apresentada posteriormente no documento de <a href="https://interacao-humano-computador.github.io/2021.2-Prefeitura-de-Passo-Fundo/DesignAvaliacaoDesenvolvimento/Nivel1/Storyboard/RelatStoryboard/">Relato de resultados da Avaliação da Análise de tarefas</a>
+
 ### 4. Conclusão
 
 <p style="text-indent: 20px; text-align: justify">
 Este documento é a base do que se é esperado que seja compreendido na avaliação do Storyboard. Permanece descrito de forma a auxiliar o processo e os avaliadores competentes, sendo possível ser posteriormente adaptado para melhor resolução dos problemas, porém de forma consistente e comunicado entre os participantes do projeto. É disposto que trata-se também que tais adaptações visam as problemáticas relacionadas ao entendimento do que se apresenta ao usuário, de forma a fazer sentido em suas expectativas, necessidades e vontades.
-
 </p>
 
 ## Referências bibliográficas
@@ -145,3 +212,4 @@ Este documento é a base do que se é esperado que seja compreendido na avaliaç
  | 16/03/2022 |    1.3     |   Introdução e organização do documento | [Magno Luiz](https://github.com/magnluiz) |
  | 16/03/2022 |    1.4     |   Conclusão e formulário de avaliação   | [Adrian Soares](https://github.com/SwampTG)  e [Magno Luiz](https://github.com/magnluiz) |
  | 16/03/2022 | 1.5        | Revisão do documento   |        [Kayro César](https://github.com/kayrocesar)         |
+  | 29/03/2022 |    1.6     |   Planejamento da Entrevista   | [Adrian Soares](https://github.com/SwampTG)|
