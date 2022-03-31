@@ -51,10 +51,9 @@ Para essa atividade, buscaremos trazer alguns potenciais usuários reais de site
 #### 2.4.3 Protótipos em Papel utilizados na avaliação
 
 <p style="text-indent: 20px; text-align: justify">
-Esses são os protótipos em papel que definimos a partir das tarefas analisadas:
+Esses são os protótipos em papel que definimos a partir das tarefas analisadas:</p>
 
-PROTOTIPO FICARÁ AQUI
-</p>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FIUJWur6N5Mz47pwl18DWA7%2Fprototipo%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
 #### 2.4.4 Ambiente da avaliação
 
@@ -144,7 +143,7 @@ O documento de relato dos resultados a ser produzido deverá possuir os seguinte
  | **Data**   | **Versão** | **Descrição**                            |                **Autor(es)**                 |
  | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: |
  | 29/03/2022 |    1.0     |  Criação do documento e elaboração dos tópicos e textos     |        [Kayro César](https://github.com/kayrocesar)         |
- |  |         |    Revisão do documento   |        [](https://github.com/)         |
+ | 30/03/2021 |    1.0     |    Revisão do documento   |        [Lorenzo Santos](https://github.com/lorenzo7377)         |
 
 
 
