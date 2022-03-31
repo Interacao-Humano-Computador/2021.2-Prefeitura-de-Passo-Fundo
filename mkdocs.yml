@@ -26,7 +26,7 @@ nav:
    - Nível 1:
         - Análise de Tarefas:
           - Planejamento da Avaliação da Análise de tarefas: DesignAvaliacaoDesenvolvimento/Nivel1/AnaliseTarefas/PlanejamentoAnaliseTarefas.md
-         # - Relato de resultados da Avaliação da Análise de tarefas: DesignAvaliacaoDesenvolvimento/Nivel1/AnaliseTarefas/RelatoAnaliseTarefas.md
+          - Relato de resultados da Avaliação da Análise de tarefas: DesignAvaliacaoDesenvolvimento/Nivel1/AnaliseTarefas/RelatoAnaliseTarefas.md
         - Storyboard: 
           - Planejamento da Avaliação dos Storyboards: DesignAvaliacaoDesenvolvimento/Nivel1/Storyboard/PlanejamentoStoryboard.md
           - Storyboard: DesignAvaliacaoDesenvolvimento/Nivel1/Storyboard/Storyboard.md
@@ -34,7 +34,7 @@ nav:
    - Nível 2: 
        - Protótipo de Papel: 
            - Planejamento da Avaliação do Protótipo de Papel: DesignAvaliacaoDesenvolvimento/Nivel2/PlanejamentoProtBaixaFid.md
-        ## - Relato dos resultados da Avaliação do Protótipo de Papel: DesignAvaliacaoDesenvolvimento/Nivel2/RelatoProtBaixaFid.md
+           - Relato dos resultados da Avaliação do Protótipo de Papel: DesignAvaliacaoDesenvolvimento/Nivel2/RelatoProtBaixaFid.md
    - Nível 3:
        - Protótipo de alta Fidelidade: 
            - Planejamento da avaliação: DesignAvaliacaoDesenvolvimento/Nivel3/PlanejamentoProtAltaFid.md
