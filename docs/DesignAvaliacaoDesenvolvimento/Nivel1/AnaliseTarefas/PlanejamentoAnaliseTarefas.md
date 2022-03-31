@@ -85,7 +85,7 @@ Inicialmente, o avaliador irá se apresentar e realizar a recepção do particip
 
 #### Ambiente da entrevista
 
-<p style="text-indent: 20px; text-align: justify">A entrevista será realizada a distância, através da plataforma Microsoft Teams.</p>
+<p style="text-indent: 20px; text-align: justify">A entrevista será realizada a distancia, através da plataforma Microsoft Teams.</p>
 
 
 ### 2.5 Decidir como lidar com as questões éticas
