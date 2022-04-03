@@ -24,7 +24,7 @@ Nome | Tarefa(s)| Revisor(es)
  [Lorenzo](https://github.com/lorenzo7377) | Protótipo de papel| [Kayro](https://github.com/kayrocesar) 
  [Magno](https://github.com/magnluiz) |   Relato da Avaliação do Storyboard | [Kayro](github.com/kayrocesar) |
 [Adrian](https://github.com/SwampTG) |   Relato da Avaliação do Storyboard, Protótipo de papel e acréscimo de novos storyboards | [Kayro](github.com/kayrocesar) e [Lorenzo](https://github.com/lorenzo7377)  |
- [Kayro](https://github.com/kayrocesar) | Relato da Avaliação da Análise de tarefas, Protótipo, Planejamento da Avaliação do Protótipo de Papel| [Magno](https://github.com/magnluiz) e [Adrian](https://github.com/SwampTG)  |
+ [Kayro](https://github.com/kayrocesar) | Relato da Avaliação da Análise de tarefas, Protótipo de papel, Planejamento da Avaliação do Protótipo de Papel| [Magno](https://github.com/magnluiz), [Lorenzo](https://github.com/lorenzo7377) e [Adrian](https://github.com/SwampTG)  |
  Todos os membros | Gravação da apresentação 5|-
 
 
