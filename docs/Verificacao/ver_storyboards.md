@@ -28,14 +28,14 @@ O documento em questão apresenta a inspeção do artefato de <a href="https://i
 
 <center>
 <figcaption> Figura 1: Checklist em gráfico de storyboards </figcaption>
-<img src="">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/verifica%C3%A7%C3%A3o-storyboard-estilo/assets/img/graficoStoryboard.png">
 <figcaption> Fonte: Elaboração dos autores  </figcaption>
 </center>
 
 
 ## 4. Conclusão
 <p style="text-indent: 20px; text-align: justify">
-
+Pode se perceber através da lista que, por mais que seja possível perceber o bom trabalho do grupo, que ainda é necessário uma melhora na forma como foram feitos os textos e os storyboards.
 </p>
         
 
