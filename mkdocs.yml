@@ -34,12 +34,23 @@ nav:
    - Nível 2: 
        - Protótipo de Papel: 
            - Planejamento da Avaliação do Protótipo de Papel: DesignAvaliacaoDesenvolvimento/Nivel2/PlanejamentoProtBaixaFid.md
-          ## - Relato dos resultados da Avaliação do Protótipo de Papel: DesignAvaliacaoDesenvolvimento/Nivel2/RelatoProtBaixaFid.md
+        ## - Relato dos resultados da Avaliação do Protótipo de Papel: DesignAvaliacaoDesenvolvimento/Nivel2/RelatoProtBaixaFid.md
    ##- Nível 3:
       ## - Protótipo de alta Fidelidade: 
        ##    - Planejamento da avaliação: DesignAvaliacaoDesenvolvimento/Nivel3/PlanejamentoProtAltaFid.md
         ##   - Relato da avaliação: DesignAvaliacaoDesenvolvimento/Nivel3/RelatoProtAltaFid.md
- ##- Verificação: Verificacao/Verificacao.md
+ - Verificação:
+        - Planejamento da Verificação: Verificacao/planejamento_verificacao.md
+        - Verificação Personas: Verificacao/ver_personas.md
+        - Verificação Análise de Tarefas: Verificacao/ver_analise_tarefas.md
+        - Verificação Princípios Gerais de Projeto: Verificacao/ver_principios_gerais_projeto.md
+        - Verificação Metas de Usabilidade: Verificacao/ver_metas_usabilidade.md
+        - Verificação Guia de Estilo: Verificacao/ver_guia_de_estilo.md
+        - Verificação Planejamento e relato da avaliação da análise de tarefas: Verificacao/ver_plan_av_tarefas.md
+        - Verificação Storyboards: Verificacao/ver_storyboards.md 
+        - Verificação Planejamento e relato da avaliação dos Storyboard: Verificacao/ver_plan_av_storyboard.md
+        - Verificação Protótipo de Papel: Verificacao/ver_prototipo_papel.md
+        - Verificação Planejamento e relato da Avaliação do Protótipo de Papel: Verificacao/ver_plan_av_prototipo_papel.md
  - Apresentações:
       - Apresentação 1: Apresentacoes/apresentacao1.md
       - Apresentação 2: Apresentacoes/apresentacao2.md
