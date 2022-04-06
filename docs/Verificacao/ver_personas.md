@@ -14,15 +14,15 @@ O documento em questão apresenta a inspeção do artefato <a href="https://inte
 |:---:|:---:|
 | A construção das personas segue um padrão determinado?| ✅ |
 | As personas são suficientes para cobrir os perfis de usuário do sistema?| ❌ |
-| A descrição da persona está clara e inequívoca?| ✅ |
-| A persona descreve um usuário típico?| ✅ |
-|As informações da persona estão de acordo com o domínio da aplicação?| ✅ |
-| Foram definidas as expectativas da persona?| ✅ |
+| A descrição das personas está clara e inequívoca?| ✅ |
+| As personas descrevem um usuário típico?| ✅ |
+|As informações das personas estão de acordo com o domínio da aplicação?| ✅ |
+| Foram definidas as expectativas das personas?| ✅ |
 | Todas as personas possuem foto? | ✅ |
 | Todas as personas possuem nome?| ✅ |
 | Todas as personas possuem expectativas ?| ✅ |
 | Todas as personas possuem requisitos a serem satisfeitos ?| ✅ |
-| Todas as personas são classificadas por status(primária, secundária ou antipersona)?| ✅ |
+| Todas as personas são classificadas por status (primária, secundária ou antipersona)?| ✅ |
 
 <figcaption> Fonte: Elaboração dos autores  </figcaption>
 </center>
@@ -35,14 +35,14 @@ O documento em questão apresenta a inspeção do artefato <a href="https://inte
 
 <center>
 <figcaption> Figura 1: Checklist em gráfico Personas </figcaption>
-<img src="">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/ver_personas/assets/img/graf_personas.PNG">
 <figcaption> Fonte: Elaboração dos autores  </figcaption>
 </center>
 
 
 ## 4. Conclusão
 <p style="text-indent: 20px; text-align: justify">
-
+ De acordo com a inspeção realizada, foi identificado que as personas criadas não são suficientes para atender a todos os perfis de usuário definidos para o site da Prefeitura de Passo Fundo, assim recomenda-se a criação de uma persona com o perfil de turista e de um cidadão que utilize os serviços mais comuns do site como "Imprimir Guia de IPTU" e "Serviços de iluminação pública".
 </p>
         
 
