@@ -1,34 +1,29 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-O documento em questão apresenta a inspeção do artefato <a href="https://interacao-humano-computador.github.io/2021.2-Prefeitura-de-Passo-Fundo/AnaliseRequisitos/GuiaEstilo/">Guia de estilo</a> e seguirá o padrão de verificação apresentado no documento de <a href="https://interacao-humano-computador.github.io/2021.2-Prefeitura-de-Passo-Fundo/Verificacao/planejamento_verificacao/">planejamento da verificação</a> com tabela de checklist, representação gráfica do checklist e conclusão.</p>
+O documento em questão apresenta a inspeção do artefato <a href="">NOME DO ARTEFATO A SER VERIFICADO E LINK</a> e seguirá o padrão de verificação apresentado no documento de <a href="https://interacao-humano-computador.github.io/2021.2-Prefeitura-de-Passo-Fundo/Verificacao/planejamento_verificacao/">planejamento da verificação</a> com tabela de checklist, representação gráfica do checklist e conclusão.</p>
 
 <br>
 
 ## 2. Tabela de Checklist 
 <br>
 <center>
-<figcaption> Tabela 1: Checklist do Guia de estilo  </figcaption>
+<figcaption> Tabela 1: Checklist NOME DO ARTEFATO  </figcaption>
 
 | Item | Status |
 |:---:|:---:|
-| Existem imagens do site para a referência visual? | ✅ |
-| Foram documentados as alternativas de design do site? | ❌ |
-| A metodologia utilizada na avaliação foi explicada? | ❌ |
-| As decisões de design foram listadas corretamente? | ✅ |
-| Foi inserido o formato e cor dos alertas e outros pop-ups? | ✅ |
-| Foi demonstrado a formatação de botões e abas? | ✅ |
+| | ✅ |
+| | ✅ |
+| | ❌ |
+| | ✅ |
 
 <figcaption> Fonte: Elaboração dos autores  </figcaption>
 </center>
-
-<br>
-
-## 3. Representação Gráfica do Checklist
+	@@ -26,15 +28,15 @@ O documento em questão apresenta a inspeção do artefato <a href="">NOME DO AR
 <br>
 
 <center>
-<figcaption> Figura 1: Checklist em gráfico do Guia de estilo </figcaption>
+<figcaption> Figura 1: Checklist em gráfico NOME DO ARTEFATO </figcaption>
 <img src="">
 <figcaption> Fonte: Elaboração dos autores  </figcaption>
 </center>
@@ -36,17 +31,13 @@ O documento em questão apresenta a inspeção do artefato <a href="https://inte
 
 ## 4. Conclusão
 <p style="text-indent: 20px; text-align: justify">
-Como pode ser observado, o guia possui a maior parte dos detalhes esperados, mas ainda existem detalhes que foram deixados de lados e que, a primeira vista podem não parecer muito, contribuem para o detalhamento do estilo.
+
 </p>
-        
 
-## Referências bibliográficas
 
-> SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 23. 19 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA..
-
-## Histórico de versões
+	@@ -46,5 +48,5 @@ O documento em questão apresenta a inspeção do artefato <a href="">NOME DO AR
 
  | **Data**   | **Versão** | **Descrição**                            |                **Autor(es)**                 |
  | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: |
- | 06/04/2022 |    1.0     |   Criação do documento    |   [Lorenzo Santos](https://github.com/lorenzo7377)    |
+ |  |    1.0     |       |        [](https://github.com/)         |
  |  |         |    Revisão do documento   |        [](https://github.com/)         |
