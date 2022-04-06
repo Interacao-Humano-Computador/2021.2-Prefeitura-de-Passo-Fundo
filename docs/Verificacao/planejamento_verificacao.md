@@ -52,7 +52,7 @@
 
 <center>
 <figcaption>Figura 1: Gráfico de Exemplo</figcaption>
-<img src="">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/graf_exemplo.PNG">
 <figcaption>Fonte: Elaboração dos autores</figcaption>
 </center> 
 
