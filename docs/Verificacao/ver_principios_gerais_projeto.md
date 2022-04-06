@@ -1,14 +1,14 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-O documento em questão apresenta a inspeção do artefato <a href="">NOME DO ARTEFATO A SER VERIFICADO E LINK</a> e seguirá o padrão de verificação apresentado no documento de <a href="https://interacao-humano-computador.github.io/2021.2-Prefeitura-de-Passo-Fundo/Verificacao/planejamento_verificacao/">planejamento da verificação</a> com tabela de checklist, representação gráfica do checklist e conclusão.</p>
+O documento em questão apresenta a inspeção do artefato <a href="https://interacao-humano-computador.github.io/2021.2-Prefeitura-de-Passo-Fundo/AnaliseRequisitos/PrincipiosProjeto/">Princípios gerais de Projeto</a> e seguirá o padrão de verificação apresentado no documento de <a href="https://interacao-humano-computador.github.io/2021.2-Prefeitura-de-Passo-Fundo/Verificacao/planejamento_verificacao/">planejamento da verificação</a> com tabela de checklist, representação gráfica do checklist e conclusão.</p>
 
 <br>
 
 ## 2. Tabela de Checklist 
 <br>
 <center>
-<figcaption> Tabela 1: Checklist NOME DO ARTEFATO  </figcaption>
+<figcaption> Tabela 1: Checklist Princípios gerais de Projeto  </figcaption>
 
 | Item | Status |
 |:---:|:---:|
@@ -33,7 +33,7 @@ O documento em questão apresenta a inspeção do artefato <a href="">NOME DO AR
 <br>
 
 <center>
-<figcaption> Figura 1: Checklist em gráfico NOME DO ARTEFATO </figcaption>
+<figcaption> Figura 1: Checklist em gráfico Princípios gerais de Projeto </figcaption>
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/verif_princ_gerais_chart.png">
 <figcaption> Fonte: Elaboração dos autores  </figcaption>
 </center>
