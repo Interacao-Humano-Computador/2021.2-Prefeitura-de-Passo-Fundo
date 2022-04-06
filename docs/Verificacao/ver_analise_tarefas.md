@@ -31,7 +31,7 @@ O documento em questão apresenta a inspeção do artefato de Análises de Taref
 
 <center>
 <figcaption> Figura 1: Checklist em gráfico NOME DO ARTEFATO </figcaption>
-<img src="">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/graf_analise_tarefas.png">
 <figcaption> Fonte: Elaboração dos autores  </figcaption>
 </center>
 
