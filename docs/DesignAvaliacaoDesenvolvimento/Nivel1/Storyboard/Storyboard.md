@@ -74,7 +74,7 @@ O quarto <i>storyboard</i> descreve uma pessoa deseperada para conseguir a via d
 
 ### 3.4 Cenário 5
 <p style="text-indent: 20px; text-align: justify">
-O  quinto <i>storyboard</i> descreve uma pessoa não muito experiente com sites, tentando enviar uma solicitação de serviços de iluminação pública</p>
+O  quinto <i>storyboard</i> descreve uma pessoa não muito experiente com sites, tentando enviar uma solicitação de serviços de iluminação pública.</p>
 
 <center>
 <figcaption>Storyboard 5 - Serviços de Iluminação Pública</figcaption>
@@ -98,3 +98,4 @@ O  quinto <i>storyboard</i> descreve uma pessoa não muito experiente com sites,
  | 16/03/22 |    1.0     |    Criação do documento   |        [Lorenzo Santos](https://github.com/lorenzo7377)         |
  | 16/03/22 |    1.1    |    Revisão do documento   |        [Kayro César](https://github.com/kayrocesar)         |
  | 29/03/22 |    1.2   |    Storyboards 4 e 5  |        [Adrian Soares](https://github.com/SwampTG)         |
+ | 06/04/22 |    1.3   |  Correção de links  |        [Lorenzo Santos](https://github.com/lorenzo7377)          |
