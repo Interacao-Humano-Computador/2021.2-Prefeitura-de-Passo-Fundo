@@ -21,6 +21,7 @@ O documento em questão apresenta a inspeção do artefato <a href="https://inte
 
 <figcaption> Fonte: Elaboração dos autores  </figcaption>
 </center>
+
 <br>
 
 <center>
@@ -36,7 +37,9 @@ Como pode ser observado, o guia possui a maior parte dos detalhes esperados, mas
 </p>
 
 
+
  | **Data**   | **Versão** | **Descrição**                            |                **Autor(es)**                 |
  | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: |
  | 06/04/2022 |    1.0     |   Criação do documento    |   [Lorenzo Santos](https://github.com/lorenzo7377)    |
  |  |         |    Revisão do documento   |        [](https://github.com)         |
+=
