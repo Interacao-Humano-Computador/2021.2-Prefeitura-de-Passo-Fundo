@@ -88,5 +88,5 @@ De acordo com a inspeção realizada, foram identificados problemas apenas no re
 
  | **Data**   | **Versão** | **Descrição**                            |                **Autor(es)**                 |
  | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: |
- |  |    1.0     |       |        [](https://github.com/)         |
+ | 06/04/2022 |    1.0     |    Criação do documento, elaboração de texto e imagens   |        [Kayro César](https://github.com/kayrocesar)         |
  |  |         |    Revisão do documento   |        [](https://github.com/)         |
