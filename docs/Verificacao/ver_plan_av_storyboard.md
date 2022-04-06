@@ -76,7 +76,7 @@ O documento em questão apresenta a inspeção do artefato <a href="https://inte
 
 ## 4. Conclusão
 <p style="text-indent: 20px; text-align: justify">
-
+De acordo com a inspeção realizada, foram identificados problemas apenas no relato de resultados da avaliação dos Storyboards. Entre os problemas encontrados estão: a ausência de apresentação da gravação da avaliação e ausência de uma descrição mais detalhada acerca do relato de cada participante, o avaliador apresentou todas as perguntas realizadas e as respostas das mesmas em formato de tabela, mas algumas respostas são muito curtas e sem muitos detalhes.
 </p>
         
 
