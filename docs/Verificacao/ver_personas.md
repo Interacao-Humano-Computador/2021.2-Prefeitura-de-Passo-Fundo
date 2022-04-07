@@ -55,4 +55,4 @@ O documento em questão apresenta a inspeção do artefato <a href="https://inte
  | **Data**   | **Versão** | **Descrição**                            |                **Autor(es)**                 |
  | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: |
  | 06/04/2022 |    1.0     |   Criação do documento e elaboração de texto    |        [Kayro César](https://github.com/kayrocesar)         |
- |  |         |    Revisão do documento   |        [](https://github.com/)         |
+ | 06/04/2022 |    1.1    |   Revisão do documento    | [Magno Luiz](https://github.com/magnluiz) |

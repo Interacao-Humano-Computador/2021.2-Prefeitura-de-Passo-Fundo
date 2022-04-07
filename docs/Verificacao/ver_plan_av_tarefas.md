@@ -89,4 +89,4 @@ A partir da verificação dos artefatos relacionados de Planejamento e Relato da
  | **Data**   | **Versão** | **Descrição**                            |                **Autor(es)**                 |
  | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: |
  | 06/04/2022 |    1.0     |    Elaboração do documento de verificação dos artefatos de Relato e Planejamento da avaliação da Análise de Tarefas   |        [Magno Luiz](https://github.com/magnluiz)         |
- |  |         |    Revisão do documento   |        [](https://github.com/)         |
+ | 06/04/2022 |    1.1     |    Revisão do documento  |        [Adrian](https://github.com/SwampTG)         |

@@ -48,4 +48,4 @@ Pode se perceber através da lista que, por mais que seja possível perceber o b
  | **Data**   | **Versão** | **Descrição**                            |                **Autor(es)**                 |
  | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: |
  | 06/04/2022 |    1.0     |    Criação do documento   |        [Lorenzo Santos](https://github.com/lorenzo7377)         |
- |  |         |    Revisão do documento   |  [](https://github.com)   |
+ | 06/04/2022 |    1.1     |    Revisão do documento  |        [Adrian](https://github.com/SwampTG)   e  [Kayro César](https://github.com/kayrocesar)      |

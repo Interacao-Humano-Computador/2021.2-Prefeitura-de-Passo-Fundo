@@ -68,5 +68,5 @@ Ao finalizar a refatoração do artefato com base nas necessidades levantadas ne
 
  | **Data**   | **Versão** | **Descrição**                            |                **Autor(es)**                 |
  | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: |
- |  |    1.0     |    Verificação   |        [Adrian](https://github.com/SwampTG)         |
- |  |         |    Revisão do documento   |        [](https://github.com/)         |
+ |06/04/2022  |    1.0     |    Verificação   |        [Adrian](https://github.com/SwampTG)         |
+ | 06/04/2022 |    1.1     |    Revisão do documento   |        [Kayro César](https://github.com/kayrocesar)      |

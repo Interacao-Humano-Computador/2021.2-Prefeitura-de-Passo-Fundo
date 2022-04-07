@@ -30,7 +30,7 @@ O documento em questão apresenta a inspeção do artefato de Análises de Taref
 <br>
 
 <center>
-<figcaption> Figura 1: Checklist em gráfico NOME DO ARTEFATO </figcaption>
+<figcaption> Figura 1: Checklist em gráfico Análise de Tarefas </figcaption>
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/graf_analise_tarefas.png">
 <figcaption> Fonte: Elaboração dos autores  </figcaption>
 </center>
@@ -51,4 +51,4 @@ A partir da verificação do artefato de Análise de Tarefas, é demonstrado que
  | **Data**   | **Versão** | **Descrição**                            |                **Autor(es)**                 |
  | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: |
  | 06/04/2022 |    1.0     |    Elaboração do documento de verificação da Análise de Tarefas   |        [Magno Luiz](https://github.com/magnluiz)         |
- |  |         |    Revisão do documento   |        [](https://github.com/)         |
+ |06/04/2022 |    1.1     |    Revisão do documento   |        [Kayro César](https://github.com/kayrocesar)      |
