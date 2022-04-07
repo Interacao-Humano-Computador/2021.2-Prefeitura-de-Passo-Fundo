@@ -26,7 +26,7 @@ O documento em questão apresenta a inspeção do artefato <a href="https://inte
 
 <center>
 <figcaption> Figura 1: Checklist em gráfico do Guia de estilo </figcaption>
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/graficoGuia.png">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/a3c3df2cfa4a5566847320196f4484071e6fa74b/assets/img/grafico_Guia_de_estilo.PNG">
 <figcaption> Fonte: Elaboração dos autores  </figcaption>
 </center>
 
