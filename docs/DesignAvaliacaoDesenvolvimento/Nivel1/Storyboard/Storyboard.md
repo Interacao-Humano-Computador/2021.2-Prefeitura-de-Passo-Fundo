@@ -22,12 +22,12 @@ O primeiro <i>storyboard</i> descreve uma pessoa que mora na cidade e não sabe 
 <center>
 <figcaption>Storyboard 1 - Consulta</figcaption>
 
-   ![cenario1](https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/storyboard/assets/img/cenario1.png)
+   ![cenario1](https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/cenario1.png)
 
 <figcaption>Fonte: Elaboração do autor</figcaption>
 </center>
 
-<a href="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/storyboard/assets/img/cenario1.png">Clique Aqui para abrir o storyboard em tela cheia</a>
+<a href="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/cenario1.png">Clique Aqui para abrir o storyboard em tela cheia</a>
 
 ### 3.2 Cenário 2
 <p style="text-indent: 20px; text-align: justify">
@@ -36,12 +36,12 @@ O segundo <i>storyboard</i> descreve uma pai que tem uma filha que estuda em uma
 <center>
 <figcaption>Storyboard 2 - Baixar documentos</figcaption>
 
-   ![cenario2](./../assets/img/cenario2.png)
+   ![cenario2](https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/cenario2.png)
 
 <figcaption>Fonte: Elaboração do autor</figcaption>
 </center>
 
-<a href="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/storyboard/assets/img/cenario2.png">Clique Aqui para abrir o storyboard em tela cheia</a>
+<a href="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/cenario2.png">Clique Aqui para abrir o storyboard em tela cheia</a>
 
 ### 3.3 Cenário 3
 <p style="text-indent: 20px; text-align: justify">
@@ -50,10 +50,12 @@ O terceiro <i>storyboard</i> descreve uma pessoa que não consegue achar uma inf
 <center>
 <figcaption>Storyboard 3 - Entrar em contato</figcaption>
 
-   ![cenario2](https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/storyboard/assets/img/cenario3.png)
+   ![cenario3](https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/cenario3.png)
 
 <figcaption>Fonte: Elaboração do autor</figcaption>
 </center>
+
+<a href="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/cenario3.png">Clique Aqui para abrir o storyboard em tela cheia</a>
 
 ### 3.4 Cenário 4
 <p style="text-indent: 20px; text-align: justify">
@@ -62,28 +64,28 @@ O quarto <i>storyboard</i> descreve uma pessoa deseperada para conseguir a via d
 <center>
 <figcaption>Storyboard 4 - IPTU</figcaption>
 
-   ![cenario2](../../../../assets/img/cenario4-imprimir-guia-de-iptu.png)
+   ![cenario4](https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/cenario4-imprimir-guia-de-iptu.png)
 
 <figcaption>Fonte: Elaboração do autor</figcaption>
 </center>
 
 
-<a href="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/storyboard/assets/img/cenario4-imprimir-guia-de-iptu.png">Clique Aqui para abrir o storyboard em tela cheia</a>
+<a href="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/cenario4-imprimir-guia-de-iptu.png">Clique Aqui para abrir o storyboard em tela cheia</a>
 
 ### 3.4 Cenário 5
 <p style="text-indent: 20px; text-align: justify">
-O  quinto <i>storyboard</i> descreve uma pessoa não muito experiente com sites, tentando enviar uma solicitação de serviços de iluminação pública</p>
+O  quinto <i>storyboard</i> descreve uma pessoa não muito experiente com sites, tentando enviar uma solicitação de serviços de iluminação pública.</p>
 
 <center>
 <figcaption>Storyboard 5 - Serviços de Iluminação Pública</figcaption>
 
-   ![cenario2](../../../../assets/img/cenario5_IluminacaoPublica.png)
+   ![cenario5](https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/cenario5_IluminacaoPublica.png)
 
 <figcaption>Fonte: Elaboração do autor</figcaption>
 </center>
 
 
-<a href="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/storyboard/assets/img/cenario4-imprimir-guia-de-iptu.png">Clique Aqui para abrir o storyboard em tela cheia</a>
+<a href="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/cenario5_IluminacaoPublica.png">Clique Aqui para abrir o storyboard em tela cheia</a>
 
 ## Referências bibliográficas
 
@@ -96,3 +98,4 @@ O  quinto <i>storyboard</i> descreve uma pessoa não muito experiente com sites,
  | 16/03/22 |    1.0     |    Criação do documento   |        [Lorenzo Santos](https://github.com/lorenzo7377)         |
  | 16/03/22 |    1.1    |    Revisão do documento   |        [Kayro César](https://github.com/kayrocesar)         |
  | 29/03/22 |    1.2   |    Storyboards 4 e 5  |        [Adrian Soares](https://github.com/SwampTG)         |
+ | 06/04/22 |    1.3   |  Correção de links  |        [Lorenzo Santos](https://github.com/lorenzo7377)          |
