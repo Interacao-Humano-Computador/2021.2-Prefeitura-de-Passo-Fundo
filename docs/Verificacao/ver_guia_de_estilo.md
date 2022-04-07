@@ -41,5 +41,4 @@ Como pode ser observado, o guia possui a maior parte dos detalhes esperados, mas
  | **Data**   | **Versão** | **Descrição**                            |                **Autor(es)**                 |
  | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: |
  | 06/04/2022 |    1.0     |   Criação do documento    |   [Lorenzo Santos](https://github.com/lorenzo7377)    |
- |  |         |    Revisão do documento   |        [](https://github.com)         |
-=
+ |06/04/2022 |    1.1     |    Revisão do documento   |        [Kayro César](https://github.com/kayrocesar)   e   [Adrian](https://github.com/SwampTG)   |
