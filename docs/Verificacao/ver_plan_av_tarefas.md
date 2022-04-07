@@ -25,7 +25,8 @@ O documento em questão apresenta a inspeção do artefato <a href="https://inte
 </center>
 
 
-### 2.2 Tabela de Checklist Relato de Resultados da Avaliação dos Storyboards
+
+### 2.2 Tabela de Checklist Relato de Resultados da Avaliação da Análise de tarefas
 <br>
 <center>
 <figcaption> Tabela 2: Checklist Relato de Resultados da Avaliação da Análise de tarefas </figcaption>
@@ -58,8 +59,16 @@ O documento em questão apresenta a inspeção do artefato <a href="https://inte
 <br>
 
 <center>
-<figcaption> Figura 1: Checklist em gráfico NOME DO ARTEFATO </figcaption>
-<img src="">
+<figcaption> Figura 1: Checklist em gráfico Planejamento da Avaliação da Análise de tarefas</figcaption>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/graf_rel_aval_ver.png">
+<figcaption> Fonte: Elaboração dos autores  </figcaption>
+</center>
+
+<br>
+
+<center>
+<figcaption> Figura 2: Checklist em gráfico Relato da Avaliação da Análise de tarefas</figcaption>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/graf_rel_aval_ver.png">
 <figcaption> Fonte: Elaboração dos autores  </figcaption>
 </center>
 
