@@ -24,10 +24,10 @@ Nome | Tarefa(s)| Revisor(es)
  [Magno](https://github.com/magnluiz) |   Verificação Planejamento e relato da avaliação da análise de tarefas, Verificação Análise de Tarefas  | [Kayro](github.com/kayrocesar) |
 [Adrian](https://github.com/SwampTG) |   Verificação Princípios Gerais de Projeto, Verificação Metas de Usabilidade | [Kayro](github.com/kayrocesar) e [Lorenzo](https://github.com/lorenzo7377)  |
  [Kayro](https://github.com/kayrocesar) | Planejamento da Verificação, Verificação Personas, Verificação do Planejamento e relato da avaliação dos Storyboard ,  Verificação do Planejamento e relato da avaliação do Protótipo de Papel | [Magno](https://github.com/magnluiz) e [Lorenzo](https://github.com/lorenzo7377)
- Todos os membros | Gravação da apresentação 5|-
+ Todos os membros | Gravação da apresentação 6|-
 
 
 ## Histórico de versões
 | Versão | Data | Modificação | Autor(es) |
 |--|--|--|--|
-| 1.0 | 07/03/2022 |Elaboração da ata 6 |[Kayro](github.com/kayrocesar)  |
+| 1.0 | 07/04/2022 |Elaboração da ata 6 |[Kayro](github.com/kayrocesar)  |
