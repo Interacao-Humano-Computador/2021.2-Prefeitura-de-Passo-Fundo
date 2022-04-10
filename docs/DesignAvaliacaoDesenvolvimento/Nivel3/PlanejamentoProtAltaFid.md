@@ -115,7 +115,7 @@ PROTOTIPO DE ALTA FIDELIDADE FICARÁ AQUI
 A partir da realização da avaliação, o grupo realizará uma análise dos resultados extraídos, assim  a atividade em questão será apresentada posteriormente no documento de <a href=""> Relato dos resultados da avaliação do Protótipo de Alta Fidelidade.</a>
 </p>
 
-## 3. Planejamento do Relato dos resultados da Avaliação do Protótipo de Papel
+## 3. Planejamento do Relato dos resultados da Avaliação do Protótipo de Alta Fidelidade
 <p style="text-indent: 20px; text-align: justify">
 O documento de relato dos resultados a ser produzido deverá possuir os seguintes elementos:
 </p>
