@@ -72,6 +72,7 @@ Esses são os protótipos em papel que definimos a partir das tarefas analisadas
 <figcaption> Tabela 1: Roteiro de perguntas</figcaption>
 | Número | Pergunta | Resposta |
 |:--:|:---|:---|
+|-|O avaliador apresentará o participante e solicitará a consentimento do mesmo com o termo de consentimento, antes de iniciar a avaliação o avaliador fará a pergunta 1, prosseguirá para a avaliação e ao final da mesma fará as perguntas 2, 3, 4, 5.|-|
 | 1 | Em uma escala de 1 a 5, qual valor você daria para a sua familiaridade com o site da Prefeitura de Passo Fundo, sendo que "1" significa extremamente desabituado e "5", extremamente familiarizado? | 1 - Extremamente desabituado<br/>2 - Desabituado<br/>3 - Neutro<br/>4 - Familiarizado<br/>5 - Extremamente familiarizado<br/> |
 | 2 | Você conseguiu efetuar todas as atividades propostas por meio do que foi feito? | <ul> <li> SIM</li> <li>NÃO </li> <li> INCONCLUSIVO</li> </ul> |
 | 3 | Em uma escala de 1 a 5, qual valor você daria para a dificuldade na execução das atividades, sendo que "1" significa extremamente complicado e "5", extremamente simples? | <ul> <li>1 - Extremamente complicado<li>2 - Complicado<li>3 - Neutro<li>4 - Simples<li>5 - Extremamente simples</ul> |
@@ -92,9 +93,10 @@ Esses são os protótipos em papel que definimos a partir das tarefas analisadas
  padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
   <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE8BDoIDTw&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE9hba2hlI&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE9hba2hlI&#x2F;view?utm_content=DAE9hba2hlI&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener"></a> 
 
 
 
@@ -103,7 +105,7 @@ Esses são os protótipos em papel que definimos a partir das tarefas analisadas
 A partir da realização da avaliação, o grupo realizará uma análise dos resultados extraídos, assim  a atividade em questão será apresentada posteriormente no documento de Relato dos resultados.
 </p>
 
-## 3. Relato dos resultados da Avaliação do Protótipo de Papel
+## 3.Planejamento do Relato dos resultados da Avaliação do Protótipo de Papel
 <p style="text-indent: 20px; text-align: justify">
 O documento de relato dos resultados a ser produzido deverá possuir os seguintes elementos:
 </p>
