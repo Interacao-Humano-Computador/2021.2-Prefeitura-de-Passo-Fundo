@@ -84,7 +84,7 @@ PROTOTIPO DE ALTA FIDELIDADE FICARÁ AQUI
 
 | Número | Pergunta | Resposta |
 |:--:|:---|:---|
-|0|O avaliador apresentará o participante e solicitará a consentimento do mesmo com o termo de consentimento, antes de iniciar a avaliação o avaliador fará a pergunta 1, prosseguirá para a avaliação e ao final da mesma fará as perguntas 2, 3, 4, 5.|-|
+|-|O avaliador apresentará o participante e solicitará o consentimento do mesmo com o termo de consentimento, antes de iniciar a avaliação o avaliador fará a pergunta 1, prosseguirá para a avaliação e ao final da mesma fará as perguntas 2, 3, 4, 5.|-|
 | 1 | Em uma escala de 1 a 5, qual valor você daria para a sua familiaridade com o site da Prefeitura de Passo Fundo, sendo que "1" significa extremamente desabituado e "5", extremamente familiarizado? | 1 - Extremamente desabituado<br/>2 - Desabituado<br/>3 - Neutro<br/>4 - Familiarizado<br/>5 - Extremamente familiarizado<br/> |
 | 2 | Você conseguiu efetuar todas as atividades propostas por meio do que foi feito? | <ul> <li> SIM</li> <li>NÃO </li> <li> INCONCLUSIVO</li> </ul> |
 | 3 | Em uma escala de 1 a 5, qual valor você daria para a dificuldade na execução das atividades, sendo que "1" significa extremamente complicado e "5", extremamente simples? | <ul> <li>1 - Extremamente complicado<li>2 - Complicado<li>3 - Neutro<li>4 - Simples<li>5 - Extremamente simples</ul> |
