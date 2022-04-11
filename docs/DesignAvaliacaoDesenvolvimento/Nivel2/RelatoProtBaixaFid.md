@@ -48,6 +48,7 @@ O método de prototipagem em papel avalia a usabilidade de um design de IHC repr
  Os participantes da entrevista contribuiram de forma voluntária e todos concordaram com o termo de consentimento, estabelecidos os os cuidados éticos necessários. Foram entrevistadas as seguintes pessoas:
 </p>
 - Diego Machado, técnico de suporte em TI, que satisfaz o perfil de usuário de sites governamentais e de prefeituras, foi recrutado pelo aluno <a href="https://github.com/kayrocesar">Kayro César</a>. A gravação está disponível [aqui](Avaliacao-Diego.md).
+- Jussara Alves, Técnica em Enfermagem, que já utiliou serviços de prefeitura com funções semelhantes às da Prefeitura de Passo Fundo e se assemelha a um possível usuário do site. Foi recrutada pelo aluno <a href="https://github.com/SwampTG">Adrian Soares</a>. Está gravação foi disponibilizada no seguinte [link](Avaliacao-Jussara.md)
 
 ### 2.4.1 Descrição da avaliação com Diego Machado
 
@@ -60,7 +61,21 @@ O método de prototipagem em papel avalia a usabilidade de um design de IHC repr
  <p style="text-indent: 20px; text-align: justify"> 
  Quanto as respostas das perguntas feitas ao fim da avaliação o participante, relatou que conseguiu realizar todas as atividades propostas(Extremamente simples), não relatou confusão ao executar as tarefas e por fim relatou que achou as páginas bem direto ao ponto, intuitivas e com informações acessíveis.</p>
 
+<!-- -->
+### 2.4.1 Descrição da avaliação com Jussara Alves Soares
 
+<p style="text-indent: 20px; text-align: justify"> 
+ A entrevista foi iniciada com o consentimento da participante, tanto para a imagem de seu rosto quanto para a gravação de suas ações na tela. No inicio da avaliação o avaliador pediu para a participante acessar notícias da página. Ela conseguiu acessá-las através da página inicial e identificar o ícone de notícias, sem muitos problemas, somente uma dificuldade com os desenhos que já era esperada para o protótipo de baixa fidelidade, mas após compreendê-los, a localização das notícias e sua visualização foram simples.
+</p>
+<p style="text-indent: 20px; text-align: justify"> 
+ Depois o avaliador pediu para o participante para tentar realizar a tarefa de Imprimir Guia de IPTU. Para essa tarefa, a participante demorou um pouco para identificar a localização dos serviços e acabou acessando pela página inicial. Apesar disso, conseguiu acessar a guia e solicitar sua impressão. </p>
+ <p style="text-indent: 20px; text-align: justify"> 
+Para a tarefa de acesso à ouvidoria, estando na página de guias, a usuária relatou dificuldades e se reencontrar para acessar a ouvidoria. Nem todos os botões destacados estavam linkados com as tela feitas. </p>
+
+ <p style="text-indent: 20px; text-align: justify"> 
+Ao fim da avaliação a participante relatou que conseguiu realizar todas as atividades propostas, porém com alguma dificuldade em se localizar nas telas (o que relatou como Neutro) e relatou confusão em nas atividades, como relatado anteriormente. Ela se considerou uma usuária com experiência "Neutra" em sites de prefeitura, utilizando algumas funcionalidades.</p>
+
+<!-- -->
 
 ## 2.5 Tarefas executadas pelos participantes
 <ul>
@@ -74,6 +89,10 @@ O método de prototipagem em papel avalia a usabilidade de um design de IHC repr
 
 <p style="text-indent: 20px; text-align: justify"> 
     O participante Diego da Silva Machado não encontrou problemas para realizar as tarefas propostas no protótipo de papel.Relatou que conseguiu realizar todas as atividades propostas, não relatou confusão ao executar as tarefas e por fim relatou que achou as páginas bem direto ao ponto, intuitivas e com informações acessíveis.
+</p>
+
+<p style="text-indent: 20px; text-align: justify"> 
+    Já a participante Jussara Alves Soares teve algumas dificuldades. Ela não conseguiu identificar completamente os links para outras páginas quando estava em uma página fora da página inicial da aplicação. Uma correção recomendada seria, como o protótipo é um imagem digital, criar enlaces para todos os botões que são nítidos e destacados no protótipo e destacá-los em um protótipo de mais alta fidelidade.
 </p>
 
 
@@ -107,6 +126,7 @@ O método de prototipagem em papel avalia a usabilidade de um design de IHC repr
  | **Data**   | **Versão** | **Descrição**                            |                **Autor(es)**                 |
  | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: |
  |  |        |      |               |
+ | 11/04/22  |   1.1     |  Adição Avaliação Jussara  |      Adrian      |
  
 
 
