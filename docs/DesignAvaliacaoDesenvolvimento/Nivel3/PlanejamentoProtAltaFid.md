@@ -55,7 +55,7 @@ Para essa atividade, buscaremos trazer usuários reais de sites de governos e pr
 
 #### 2.4.3 Protótipo de alta fidelidade utilizado na avaliação
 
-PROTOTIPO DE ALTA FIDELIDADE FICARÁ AQUI
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FpRv29an80REU2TBLc9ubjH%2Ftrabalho-ihc2%3Fnode-id%3D2%253A2%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D2%253A2" allowfullscreen></iframe>
 
 
 
