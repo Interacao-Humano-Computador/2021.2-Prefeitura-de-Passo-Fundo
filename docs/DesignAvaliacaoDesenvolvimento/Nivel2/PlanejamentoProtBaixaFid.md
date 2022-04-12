@@ -112,6 +112,8 @@ O documento de relato dos resultados a ser produzido deverá possuir os seguinte
 
 - Objetivos da avaliação
 
+- Perguntas a serem respondidas
+
 - Descrição do método de prototipação em papel
 
 - Número e o perfil de avaliadores e dos participantes
