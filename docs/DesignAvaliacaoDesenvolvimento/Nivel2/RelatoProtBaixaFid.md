@@ -125,8 +125,8 @@ Ao fim da avaliação a participante relatou que conseguiu realizar todas as ati
 
  | **Data**   | **Versão** | **Descrição**                            |                **Autor(es)**                 |
  | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: |
- |  |        |      |               |
- | 11/04/22  |   1.1     |  Adição Avaliação Jussara  |      Adrian      |
+ | 10/04/22  |   1.0     |   Criação do documento e inserção da avaliação Diego   |     [Kayro César](https://github.com/kayrocesar)            |
+ | 11/04/22  |   1.1     |  Adição Avaliação Jussara  |     [Adrian Soares](https://github.com/SwampTG)      |
  
 
 
