@@ -21,8 +21,8 @@ Nome | Tarefa(s) realizada(s)|
 Nome | Tarefa(s)| Revisor(es)
 ---------- | -------| -------
  [Lorenzo](https://github.com/lorenzo7377) |Correções nas ferramentas e  principios gerais de projeto e representação de Persona | [Adrian](https://github.com/SwampTG)  
-[Adrian](https://github.com/SwampTG) | Correção do cronograma,relato da Avaliação do protótipo de alta fidelidade  |  [Kayro](https://github.com/kayrocesar)  |
- [Kayro](https://github.com/kayrocesar) | Atualização do guia de estilo, Correção análise hierárquica de tarefas, relato da Avaliação do protótipo de alta fidelidade  |[Lorenzo](https://github.com/lorenzo7377)
+[Adrian](https://github.com/SwampTG) | Correção do cronograma,Relato dos resultados da Avaliação do Protótipo de alta fidelidade |  [Kayro](https://github.com/kayrocesar)  |
+ [Kayro](https://github.com/kayrocesar) | Atualização do guia de estilo, Correção análise hierárquica de tarefas, Relato dos resultados da Avaliação do Protótipo de alta fidelidade  |[Lorenzo](https://github.com/lorenzo7377)
  [Magno](https://github.com/magnluiz) |  -   | - |
  Todos os membros | Gravação da apresentação 7|-
 
