@@ -1,5 +1,5 @@
 ## 1. Introdução
-<a href="htav2">Clique aqui para acessar a análise de outras tarefas</a>
+
 <p style="text-indent: 20px; text-align: justify">
 A Análise Hierárquica de Tarefas, ou Hierarchial Task Analysis (HTA), surgiu no século XX, na década de 60, tendo como intuito, entender as habilidades e competências exigidas numa tarefa complexa.
 </p>
@@ -42,17 +42,9 @@ Com isso em mente, membros do grupo realizaram acessos aos principais serviços 
 
 
 ## 3. Análise de Tarefas 
-
-| Data da análise da tarefa | Objetivo | ID |
-| :-: | :-: | :-: |
-| 25/02/2022 | Obter licenças, alvarás e certidões | HTA01 |
-| 26/02/2022 | Obter informação sobre a quando se vacinar contra o coronavírus | HTA02 |
-| 26/02/2022 | Obter licença para condutor auxiliar (Táxi) | HTA03 |
-| 26/02/2022 | Acessar informações sobre licitações | HTA04 |
-
 ### 3.1. Representação Textual
 
-#### 3.1.1. HTA01
+#### 3.1.1. 
 
 0. Obter Alvarás / Licenças 
 1. Ler as infos sobre os documentos necessários e passos
