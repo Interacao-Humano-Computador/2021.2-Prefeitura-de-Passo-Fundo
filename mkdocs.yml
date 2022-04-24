@@ -18,7 +18,6 @@ nav:
         - Personas: AnaliseRequisitos/PerfilUsuario/personas.md 
    - Análise de Tarefas: 
        - Análise Hierárquica de Tarefas: AnaliseRequisitos/AnaliseTarefas/hta.md
-       - Análise Hierárquica de Tarefas V2: AnaliseRequisitos/AnaliseTarefas/htav2.md
        - GOMS: AnaliseRequisitos/AnaliseTarefas/goms.md 
    - Princípios Gerais de Projeto: AnaliseRequisitos/PrincipiosProjeto.md 
    - Metas de usabilidade: AnaliseRequisitos/MetasUsabilidade.md 

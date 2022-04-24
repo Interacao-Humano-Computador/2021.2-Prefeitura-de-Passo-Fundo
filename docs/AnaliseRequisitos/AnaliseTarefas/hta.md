@@ -1,5 +1,4 @@
 ## 1. Introdução
-<a href="htav2">Clique aqui para acessar a análise de outras tarefas</a>
 <p style="text-indent: 20px; text-align: justify">
 A Análise Hierárquica de Tarefas, ou Hierarchial Task Analysis (HTA), surgiu no século XX, na década de 60, tendo como intuito, entender as habilidades e competências exigidas numa tarefa complexa.
 </p>
@@ -47,7 +46,7 @@ Com isso em mente, membros do grupo realizaram acessos aos principais serviços 
 #### 3.1.1 Representação em diagrama
 <center>
 <figcaption> Figura 1: Entrar em contato com a Prefeitura de Passo Fundo </figcaption>
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/correcao-doc-an-hier-tarefas/assets/img/contato_diag.png"/>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/master/assets/img/contato_diag.png"/>
 <figcaption>  Fonte: Elaborado por Kayro César  </figcaption>
 </center>
 
@@ -73,7 +72,7 @@ Com isso em mente, membros do grupo realizaram acessos aos principais serviços 
 #### 3.1.1 Representação em diagrama
 <center>
 <figcaption> Figura 2:  Imprimir guia de IPTU  </figcaption>
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/correcao-doc-an-hier-tarefas/assets/img/imprimir-diag"/>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/master/assets/img/imprimir-diag.png"/>
 <figcaption>  Fonte: Elaborado por Kayro César  </figcaption>
 </center>
 
@@ -101,7 +100,7 @@ Com isso em mente, membros do grupo realizaram acessos aos principais serviços 
 
 <center>
 <figcaption> Figura 3: Acessar notícias  </figcaption>
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/correcao-doc-an-hier-tarefas/assets/img/noticias_diag"/>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/master/assets/img/noticias_diag.png"/>
 <figcaption>  Fonte: Elaborado por Kayro César  </figcaption>
 </center>
 
@@ -265,7 +264,7 @@ Com isso em mente, membros do grupo realizaram acessos aos principais serviços 
 
 > Menezes, R. C. D; Pereira, A. S.; Franz, L. A . S. (2015) Aplicação da Análise Hierárquica da Tarefa e Estudo de Demandas Ergonômicas em uma Empresa de Doces. Disponível em: http://abepro.org.br/biblioteca/TN_STP_209_238_27365.pdf. Acesso em 26 fev. 2022.
 
-### Histórico de versões
+## Histórico de versões
 
  | **Data**   | **Versão** | **Descrição** | **Autor(es)**|
  | ---------- | :--------: | ---------------------------------------- |:------------------------------------------: |
