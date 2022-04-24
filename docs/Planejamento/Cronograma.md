@@ -8,6 +8,56 @@
 
 <p style="text-indent: 20px; text-align: justify">Na sprint, para cada atividade colocaremos os responsáveis pelas issues e seus respectivos revisores.</p>
 
+### 2.1. Primeira entrega
+
+ Nome                                         | Tarefa(s)                          | Data Prevista | Data entregue | Revisores
+--------------------------------------------- | ---------------------------------- | ------------- | ------------- | ------------------------------------------------------------------------------------ 
+ [Adrian](https://github.com/SwampTG)         | Metodologia e cronograma           | 10/02         | 12/02         | [Kayro](https://github.com/kayrocesar) 
+ [Kayro](https://github.com/kayrocesar)       | Lista de Sites e Processo de Design| 10/02         | 10/02         | [Kathlyn Lara](https://github.com/klmurussi), [Kayro](https://github.com/kayrocesar)
+ [Magno](https://github.com/magnluiz)         | Ferramentas                        | 10/02         | 12/02         | [Lorenzo Santos](github.com/lorenzo7377)
+ [Lorenzo](https://github.com/lorenzo7377)    | Processo de Design                 | 10/02         | 12/02         | [Adrian](https://github.com/SwampTG)
+ [Kathlyn Lara](https://github.com/klmurussi) | Introdução                         | 10/02         | 12/02         | [Kayro](https://github.com/kayrocesar)
+ Todos os membros                             | Gravação da apresentação 1         | 10/02         | 12/02         |                                       ------
+
+### 2.2. Segunda entrega
+
+ Nome                                                                                | Tarefa(s)                            | Data Prevista | Data entregue | Revisores
+------------------------------------------------------------------------------------ | ------------------------------------ | ------------- | ------------- | ------------------------------------------------------------------------------------ 
+ [Adrian](https://github.com/SwampTG) e [Kathlyn Lara](https://github.com/klmurussi) | Análise hierárquica de tarefas (HTA) | 23/02         | 27/02         | [Kayro](https://github.com/kayrocesar) 
+ [Kayro](https://github.com/kayrocesar) e [Magno](https://github.com/magnluiz)       | Análise de tarefas (GOMS)            | 23/02         | 27/02         | [Adrian](https://github.com/SwampTG)
+ [Lorenzo](https://github.com/lorenzo7377)                                           | Perfil do usuário e Personas         | 20/02         | 27/02         | [Kathlyn Lara](https://github.com/klmurussi)
+ Todos os membros                                                                    | Gravação da apresentação 2           | 26/02         | 27/02         |                                       ------
+
+### 2.3. Terceira entrega
+
+ Nome                                                                                                                | Tarefa(s)                    | Data Prevista | Data entregue | Revisores
+-------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------- | ------------- | ----------------------------------------------- 
+ [Lorenzo](https://github.com/lorenzo7377)                                                                           | Princípios Gerais de Projeto | 08/03         | 12/03         | [Kayro](https://github.com/kayrocesar)
+ [Kathlyn Lara](https://github.com/klmurussi)                                                                        | Metas de Usabilidade         | 08/03         | 12/03         | [Magno](https://github.com/magnluiz)
+ [Kayro](https://github.com/kayrocesar), [Magno](https://github.com/magnluiz) e [Adrian](https://github.com/SwampTG) | Guia de Estilo               | 20/02         | 12/03         | [Lorenzo](https://github.com/lorenzo7377) e [Kathlyn Lara](https://github.com/klmurussi)
+ Todos os membros                                                                                                    | Gravação da apresentação 3   | 26/02         | 12/03         |                 ------
+
+### 2.4. Quarta entrega
+
+ Nome                                                                                  | Tarefa(s)                                       | Data Prevista | Data entregue | Revisores
+-------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------- | ------------- | ----------------------------------------------------------------------------- 
+ [Lorenzo](https://github.com/lorenzo7377)                                             | Storyboards                                     | 23/02         | 27/02         | [Kayro](https://github.com/kayrocesar) 
+ [Magno](https://github.com/magnluiz) e [Adrian](https://github.com/SwampTG)           | Planejamento da Avaliação do Storyboard         | 23/02         | 27/02         | [Kayro](github.com/kayrocesar)
+ [Kayro](https://github.com/kayrocesar) e [Kathlyn Lara](https://github.com/klmurussi) | Planejamento da Avaliação da Análise de tarefas | 20/02         | 27/02         | [Magno](https://github.com/magnluiz) e [Adrian](https://github.com/SwampTG) 
+ Todos os membros                                                                      | Gravação da apresentação 4                      | 26/02         | 27/02         |                                       ------
+
+### 2.5. Quinta entrega
+
+
+
+### 2.2. Sexta entrega
+
+
+
+### 2.2. Sétima entrega
+
+
+
 <br>
 
 ## 3. Visão Geral
