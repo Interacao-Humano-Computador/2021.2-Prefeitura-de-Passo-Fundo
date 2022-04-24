@@ -85,4 +85,6 @@ exploráveis, ou seja, deve ser fácil reverter as operações e difícil realiz
  | ---------- | :--------: | ---------------------------------------- | :------------------------------------------: |
  | 11/03/22 |    1.0     |    Criação do documento   |        [Lorenzo Santos](https://github.com/lorenzo7377)         |
  | 12/03/22 |    1.1     |    Revisão do documento   |        [Kayro César](https://github.com/kayrocesar)         |
+ | 24/04/22 |    1.2     |    Correção do documento   |        [Lorenzo Santos](https://github.com/lorenzo7377)         |
+ 
  
