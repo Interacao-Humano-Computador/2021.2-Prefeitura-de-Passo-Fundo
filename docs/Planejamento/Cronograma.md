@@ -41,14 +41,20 @@
 
  Nome                                                                                  | Tarefa(s)                                       | Data Prevista | Data entregue | Revisores
 -------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------- | ------------- | ----------------------------------------------------------------------------- 
- [Lorenzo](https://github.com/lorenzo7377)                                             | Storyboards                                     | 23/02         | 16/03         | [Kayro](https://github.com/kayrocesar) 
- [Magno](https://github.com/magnluiz) e [Adrian](https://github.com/SwampTG)           | Planejamento da Avaliação do Storyboard         | 23/02         | 16/03         | [Kayro](github.com/kayrocesar)
- [Kayro](https://github.com/kayrocesar) e [Kathlyn Lara](https://github.com/klmurussi) | Planejamento da Avaliação da Análise de tarefas | 20/02         | 16/03         | [Magno](https://github.com/magnluiz) e [Adrian](https://github.com/SwampTG) 
- Todos os membros                                                                      | Gravação da apresentação 4                      | 26/02         | 16/03         |                                       ------
+ [Lorenzo](https://github.com/lorenzo7377)                                             | Storyboards                                     | 14/03         | 16/03         | [Kayro](https://github.com/kayrocesar) 
+ [Magno](https://github.com/magnluiz) e [Adrian](https://github.com/SwampTG)           | Planejamento da Avaliação do Storyboard         | 14/03         | 16/03         | [Kayro](github.com/kayrocesar)
+ [Kayro](https://github.com/kayrocesar) e [Kathlyn Lara](https://github.com/klmurussi) | Planejamento da Avaliação da Análise de tarefas | 14/03         | 16/03         | [Magno](https://github.com/magnluiz) e [Adrian](https://github.com/SwampTG) 
+ Todos os membros                                                                      | Gravação da apresentação 4                      | 15/03         | 16/03         |                                       ------
 
 ### 2.5. Quinta entrega
 
-
+ Nome                                                                                  | Tarefa(s)                                                          | Data Prevista | Data entregue | Revisores
+------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | ------------- | ------------- | ----------------------------------------------------------------------------- 
+ [Lorenzo](https://github.com/lorenzo7377) | Protótipo de papel                                                                                             | 20/03         | 30/03         | [Kayro](https://github.com/kayrocesar) 
+ [Magno](https://github.com/magnluiz)      | Relato da Avaliação do Storyboard                                                                              | 23/03         | 30/03         | [Kayro](github.com/kayrocesar)
+ [Kayro](https://github.com/kayrocesar)    | Relato da Avaliação da Análise de tarefas, Protótipo de papel, Planejamento da Avaliação do Protótipo de Papel | 25/03         | 30/03         | [Magno](https://github.com/magnluiz) e [Adrian](https://github.com/SwampTG) 
+ [Adrian](https://github.com/SwampTG)      | Relato da Avaliação do Storyboard, Protótipo de papel e acréscimo de novos storyboards                         | 25/03         | 30/03         | [Kayro](github.com/kayrocesar) e [Lorenzo](https://github.com/lorenzo7377)
+ Todos os membros                          | Gravação da apresentação 5                                                                                     | 29/03         | 30/03         |                                       ------
 
 ### 2.2. Sexta entrega
 
