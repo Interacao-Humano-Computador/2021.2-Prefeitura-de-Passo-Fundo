@@ -1,7 +1,7 @@
 
 
 ## 1. Introdução
-<p align = "justify"> As características da plataforma estão relacionadas com as características do usuário e também com os critérios de usabilidade, onde são levantadas  informações acerca da portabilidade, compatibilidade, funcionalidades e design da plataforma.
+<p align = "justify"> As características da plataforma estão relacionadas com as características do usuário e também com os critérios de usabilidade, onde são levantadas  informações acerca da portabilidade, compatibilidade, funcionalidades e design da plataforma. 
 </p>
 
 
@@ -41,19 +41,38 @@
 
 <center>
 <figcaption>Figura 1: Página inicial (imagem inteira)</figcaption>
-<img src=".jpg">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/doc-carac-plataforma/assets/img/tela_cheia.png">
 <figcaption>Fonte: Site Prefeitura de Passo Fundo</figcaption>
 </center>
-
+<br><br>
 <center>
 <figcaption>Figura 2: Página inicial ampliada</figcaption>
-<img src=".jpg">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/tela_passo_fundo.PNG">
 <figcaption>Fonte: Site Prefeitura de Passo Fundo</figcaption>
 </center>
+<br><br>
 
 <center>
-<figcaption>Figura 3: Página inicial ampliada (segunda parte)</figcaption>
-<img src=".jpg">
+<figcaption>Figura 3: Página inicial ampliada (Principais serviços)</figcaption>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/tela_passo_fundo2.PNG">
+<figcaption>Fonte: Site Prefeitura de Passo Fundo</figcaption>
+</center>
+<br><br>
+<center>
+<figcaption>Figura 4: Página secundária </figcaption>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/doc-carac-plataforma/assets/img/tela_sec_iluminacao.PNG">
+<figcaption>Fonte: Site Prefeitura de Passo Fundo</figcaption>
+</center>
+<br><br>
+<center>
+<figcaption>Figura 5: Página secundária</figcaption>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/doc-carac-plataforma/assets/img/tela_sec_iptu.PNG">
+<figcaption>Fonte: Site Prefeitura de Passo Fundo</figcaption>
+</center>
+<br><br>
+<center>
+<figcaption>Figura 6: Formulário de Contato com a Prefeitura</figcaption>
+<img src="">
 <figcaption>Fonte: Site Prefeitura de Passo Fundo</figcaption>
 </center>
 
