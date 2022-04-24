@@ -108,11 +108,11 @@ O site está disposto de diversas janelas informativas, as funcionalidades que s
   O protótipo possui como fonte principal a Berlow Thin, utilizada com algumas variações de tamanho. A figura 4 apresenta os símbolos  tipográficos utilizados no site da Prefeitura.
 </p>
 
-jhjhjhj
+
 
 <div style="text-align:center">
 <figcaption class="figure-caption text-center">Figura 4: Símbolos tipográficos </figcaption>
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/att-guia-estilo/assets/img/tipografia2.PNG" width=200>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/att-guia-estilo/assets/img/tipografia-2.PNG" width=400>
 <figcaption class="figure-caption text-center">Fonte: Elaboração dos autores </figcaption>
 
 </div >
@@ -140,7 +140,7 @@ Foi estabelecido um padrão mais bem definido de ícones. A figura 6 apresenta o
 <div style="text-align:center">
 
 <figcaption class="figure-caption text-center">Figura 6: Símbolos não tipográficos </figcaption>
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/nao_tipograficos2.png" width=500>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/att-guia-estilo/assets/img/nao_tipograficos2.PNG" width=500>
 <figcaption class="figure-caption text-center">Fonte: Elaboração dos autores </figcaption>
 
 </div>
@@ -164,7 +164,7 @@ O site da Prefeitura de Passo Fundo utiliza, na maior parte da sua estrutura, to
 
 <div style="text-align:center">
 <figcaption class="figure-caption text-center">Figura 8: Paleta de Cores do site</figcaption>
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/paleta_site.PNG" >
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/paleta_site.PNG"   >
 <figcaption class="figure-caption text-center">Fonte: Elaboração dos autores </figcaption>
 </div >
 
@@ -176,7 +176,7 @@ O o padrão de cores do protótipo deve seguir as cores a seguir:
 
 <div style="text-align:center">
 <figcaption class="figure-caption text-center">Figura 9: Paleta de Cores do protótipo</figcaption>
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/paleta_site2.PNG" >
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/att-guia-estilo/assets/img/paleta_site2.PNG"  >
 <figcaption class="figure-caption text-center">Fonte: Elaboração dos autores </figcaption>
 </div >
 
@@ -200,7 +200,7 @@ As animações são do tipo <em>slider</em>, para revesar informações em desta
   <figcaption class="figure-caption text-center">Fonte: Elaboração dos autores</figcaption>
 </figure>
 <p style="text-indent: 20px; text-align: justify">
-São elementos interessantes para destaque, porém, é preciso tomar cuidado com a velocidade das animações, para não tornar o visual cansativo ou vertiginoso. A animação da figura 7 pode ser incômoda para algumas pessoas.
+São elementos interessantes para destaque, porém, é preciso tomar cuidado com a velocidade das animações, para não tornar o visual cansativo ou vertiginoso. A animação da figura 11 pode ser incômoda para algumas pessoas.
 </p>
 
 #### 3.6.2 Protótipo de alta fidelidade
@@ -236,7 +236,7 @@ As principais interações serão através dos hiperlinks contidos em botões e 
 
 <center>
   <figcaption >Figura 14: Interação no protótipo</figcaption>
-  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/interacao.gif">
+  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/att-guia-estilo/assets/img/interacao.gif">
   <figcaption>Fonte: Elaboração dos autores</figcaption>
 
 </center>
@@ -283,7 +283,7 @@ No protótipo, a maior parte dos elementos de interação é composta por botõe
 
 |||
 |----|----|
-|<img width="auto" height="30px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/bota_icone2.png">|Botões com ícones|
+|<img width="auto" height="30px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/att-guia-estilo/assets/img/bota_icone2.PNG">|Botões com ícones|
 |<img width="auto" height="30px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/hipertexto2.png">|Hipertexto|
 |<img width="auto" height="30px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/botao_formulario2.png">|Botão de formulário|
 |<img width="auto" height="30px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/botao_formulario3.png">|Botão de imprimir|
