@@ -41,7 +41,7 @@
 
 <center>
 <figcaption>Figura 1: Página inicial (imagem inteira)</figcaption>
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/doc-carac-plataforma/assets/img/tela_cheia.png">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/tela_cheia.png">
 <figcaption>Fonte: Site Prefeitura de Passo Fundo</figcaption>
 </center>
 <br><br>
@@ -60,19 +60,19 @@
 <br><br>
 <center>
 <figcaption>Figura 4: Página secundária </figcaption>
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/doc-carac-plataforma/assets/img/tela_sec_iluminacao.PNG">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/tela_sec_iluminacao.PNG">
 <figcaption>Fonte: Site Prefeitura de Passo Fundo</figcaption>
 </center>
 <br><br>
 <center>
 <figcaption>Figura 5: Página secundária</figcaption>
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/doc-carac-plataforma/assets/img/tela_sec_iptu.PNG">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main//assets/img/tela_sec_iptu.PNG">
 <figcaption>Fonte: Site Prefeitura de Passo Fundo</figcaption>
 </center>
 <br><br>
 <center>
 <figcaption>Figura 6: Formulário de Contato com a Prefeitura</figcaption>
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/doc-carac-plataforma/assets/img/formulario_de_contato_fala_cidadao.PNG">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main//assets/img/formulario_de_contato_fala_cidadao.PNG">
 <figcaption>Fonte: Site Prefeitura de Passo Fundo</figcaption>
 </center>
 
