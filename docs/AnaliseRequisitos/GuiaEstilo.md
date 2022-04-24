@@ -283,10 +283,10 @@ No protótipo, a maior parte dos elementos de interação é composta por botõe
 
 |||
 |----|----|
-|<img width="auto" height="30px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/att-guia-estilo/assets/img/bota_icone2.PNG">|Botões com ícones|
-|<img width="auto" height="30px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/hipertexto2.png">|Hipertexto|
-|<img width="auto" height="30px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/botao_formulario2.png">|Botão de formulário|
-|<img width="auto" height="30px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/botao_formulario3.png">|Botão de imprimir|
+|<img width="auto" height="30px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/4619fd790639ca9124890bfb7b9867b1e81a7d5c/assets/img/bota_icone-2.PNG">|Botões com ícones|
+|<img width="auto" height="30px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/att-guia-estilo/assets/img/hipertexto2.PNG">|Hipertexto|
+|<img width="auto" height="30px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/att-guia-estilo/assets/img/botao_formulario2.PNG">|Botão de formulário|
+|<img width="auto" height="30px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/att-guia-estilo/assets/img/botao_formulario3.PNG">|Botão de imprimir|
 
 <figcaption class="figure-caption text-center" class="text-center"> Fonte: Elaboração dos autores</figcaption>
 </center>
@@ -311,7 +311,7 @@ A idéia de preenchimento de campos segue o padrão do site antigo, sendo a dife
 
 <figure class="figure">
   <figcaption class="figure-caption text-center" class="figure-caption">Figura 16: Campo de Texto.</figcaption>
-  <img class="figure-img img-fluid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/input_texto2.png">
+  <img class="figure-img img-fluid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/att-guia-estilo/assets/img/input_texto2.PNG">
   <figcaption class="figure-caption text-center" class="figure-caption">Fonte: Elaboração dos autores</figcaption>
 </figure>
 
@@ -346,7 +346,7 @@ Os elementos de seleção utilizados no protótipo são <em>combo-boxes</em> per
 
 |||
 |----|----|
-|<img width="420px" height="30px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/listbox2.png">|Combo-box|
+|<img width="420px" height="30px" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/att-guia-estilo/assets/img/listbox2.PNG">|Combo-box|
 
 <figcaption class="figure-caption text-center"> Fonte: Elaboração dos autores </figcaption>
 
@@ -414,28 +414,28 @@ Por se tratar de um site de uma Prefeitura, é esperado que a linguagem e vocabu
 <br>
 <center>
 <figcaption> Figura 20: Tela inicial do site </figcaption>
-<img src="" width= 450>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/att-guia-estilo/assets/img/tela_passo_fundo_prot.PNG" width= 500>
 <figcaption > Fonte: Elaboração dos autores </figcaption>
 
 <br>
 <figcaption> Figura 21: Tela inicial do site (Segunda parte) </figcaption>
-<img src="G" width= 450>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/att-guia-estilo/assets/img/tela_passo_fundo2_prot.PNG" width= 500>
 <figcaption > Fonte: Elaboração dos autores </figcaption>
 <br>
 <figcaption> Figura 22: Tela Secundária do site (IPTU) </figcaption>
-<img src="tela_sec_iptu_prot.PNG" width= 450>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/att-guia-estilo/assets/img/tela_sec_iptu_prot.PNG" width= 450>
 <figcaption > Fonte: Elaboração dos autores </figcaption>
 <br>
 <figcaption> Figura 23: Tela Secundária do site (IPTU - Impressão) </figcaption>
-<img src="" width= 450>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/att-guia-estilo/assets/img/tela_sec_iptu2_prot.PNG" width= 450>
 <figcaption > Fonte: Elaboração dos autores </figcaption>
 <br>
 <figcaption> Figura 24: Tela Secundária do site (Ouvidoria)</figcaption>
-<img src="" width= 450>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/att-guia-estilo/assets/img/tela_sec_ouvidoria_prot.PNG" width= 450>
 <figcaption > Fonte: Elaboração dos autores </figcaption>
 <br>
 <figcaption> Figura 25: Tela Secundária do site (Notícias)</figcaption>
-<img src="" width= 450>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/att-guia-estilo/assets/img/tela_sec_noticias_prot.PNG" width= 450>
 <figcaption > Fonte: Elaboração dos autores </figcaption>
 
 
@@ -475,4 +475,5 @@ Por se tratar de um site de uma Prefeitura, é esperado que a linguagem e vocabu
  |  12/03/2022 |     1.4   |   Fix caminho das imagens  |       [Adrian Soares](https://github.com/SwampTG)       |
  |  12/03/2022 |     1.5   |   Correção e atualização dos tópicos | [Magno Luiz](https://github.com/magnluiz) |
  |  12/03/2022       |   1.6     |    Revisão do documento   | [Kathlyn Lara](https://github.com/klmurussi)         |
-| 13/03/2022 |    1.7    |   Correção de posicionamento de imagens e legendas |        [Kayro César](https://github.com/kayrocesar)         |
+ | 13/03/2022 |    1.7    |   Correção de posicionamento de imagens e legendas |        [Kayro César](https://github.com/kayrocesar)         |
+  | 24/04/2022 |    2.0   |   Correção de erros e acréscimo de elementos do protótipo de alta fidelidade |        [Kayro César](https://github.com/kayrocesar)         |
