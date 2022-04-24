@@ -6,7 +6,7 @@
 
 ## 2. Cronograma
 
-<p style="text-indent: 20px; text-align: justify">Na sprint, para cada atividade colocaremos os responsáveis pelas issues e seus respectivos revisores.</p>
+<p style="text-indent: 20px; text-align: justify">Na sprint, para cada atividade colocaremos os responsáveis pelas issues e seus respectivos revisores. Os cronogramas foram reorganizados na página, a partir do controle feito pelo github e pelo trello, para que fique disponível em uma única página</p>
 
 ### 2.1. Primeira entrega
 
@@ -48,7 +48,7 @@
 
 ### 2.5. Quinta entrega
 
- Nome                                                                                  | Tarefa(s)                                                          | Data Prevista | Data entregue | Revisores
+ Nome                                      | Tarefa(s)                                                                                                      | Data Prevista | Data entregue | Revisores
 ------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | ------------- | ------------- | ----------------------------------------------------------------------------- 
  [Lorenzo](https://github.com/lorenzo7377) | Protótipo de papel                                                                                             | 20/03         | 30/03         | [Kayro](https://github.com/kayrocesar) 
  [Magno](https://github.com/magnluiz)      | Relato da Avaliação do Storyboard                                                                              | 23/03         | 30/03         | [Kayro](github.com/kayrocesar)
@@ -60,15 +60,20 @@
 
  Nome                                     | Tarefa(s)                                                                                                                                                                                      | Data Prevista | Data entregue | Revisores
 ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------- | ----------------------------------------------- 
- [Lorenzo](https://github.com/lorenzo7377)| Verificação Storyboards, Verificação Guia de Estilo                                                                                                                                            | 08/03         | 12/03         | [Kayro](https://github.com/kayrocesar) e [Adrian](https://github.com/SwampTG)
- [Magno](https://github.com/magnluiz)     | Verificação Planejamento e relato da avaliação da análise de tarefas, Verificação Análise de Tarefas                                                                                           | 08/03         | 12/03         | [Kayro](github.com/kayrocesar) 
- [Adrian](https://github.com/SwampTG)     | Verificação Princípios Gerais de Projeto, Verificação Metas de Usabilidade                                                                                                                     | 20/02         | 12/03         | [Kayro](github.com/kayrocesar) e [Lorenzo](https://github.com/lorenzo7377)
- [Kayro](https://github.com/kayrocesar)   | Planejamento da Verificação, Verificação Personas, Verificação do Planejamento e relato da avaliação dos Storyboard ,  Verificação do Planejamento e relato da avaliação do Protótipo de Papel | 26/02         | 12/03         | [Magno](https://github.com/magnluiz) e [Lorenzo](https://github.com/lorenzo7377)
- Todos os membros                         | Gravação da apresentação 6                                                                                                                                                                     | 29/03         | 30/03         |                                       ------
+ [Lorenzo](https://github.com/lorenzo7377)| Verificação Storyboards, Verificação Guia de Estilo                                                                                                                                            | 02/04         | 07/04         | [Kayro](https://github.com/kayrocesar) e [Adrian](https://github.com/SwampTG)
+ [Magno](https://github.com/magnluiz)     | Verificação Planejamento e relato da avaliação da análise de tarefas, Verificação Análise de Tarefas                                                                                           | 04/04         | 07/04         | [Kayro](github.com/kayrocesar) 
+ [Adrian](https://github.com/SwampTG)     | Verificação Princípios Gerais de Projeto, Verificação Metas de Usabilidade                                                                                                                     | 02/04         | 07/04         | [Kayro](github.com/kayrocesar) e [Lorenzo](https://github.com/lorenzo7377)
+ [Kayro](https://github.com/kayrocesar)   | Planejamento da Verificação, Verificação Personas, Verificação do Planejamento e relato da avaliação dos Storyboard ,  Verificação do Planejamento e relato da avaliação do Protótipo de Papel | 05/04         | 07/04         | [Magno](https://github.com/magnluiz) e [Lorenzo](https://github.com/lorenzo7377)
+ Todos os membros                         | Gravação da apresentação 6                                                                                                                                                                     | 06/04         | 07/04         |                                       ------
 
 ### 2.2. Sétima entrega
 
-
+ Nome                                      | Tarefa(s)                                                                                                                                  | Data Prevista | Data entregue | Revisores
+------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------- | ------------- | ----------------------------------------------------------------------------- 
+ [Lorenzo](https://github.com/lorenzo7377) | Correções nas ferramentas e  principios gerais de projeto e representação de Persona                                                       | 22/04         |       --      | [Kayro](https://github.com/kayrocesar) 
+ [Adrian](https://github.com/SwampTG)      | Correção do cronograma, Relato dos resultados da Avaliação do Protótipo de alta fidelidade                                                 | 22/04         |       --      | [Kayro](github.com/kayrocesar)
+ [Kayro](https://github.com/kayrocesar)    | Atualização do guia de estilo, Correção análise hierárquica de tarefas, Relato dos resultados da Avaliação do Protótipo de alta fidelidade | 22/04         |       --      | [Magno](https://github.com/magnluiz) e [Adrian](https://github.com/SwampTG) 
+ Todos os membros                          | Gravação da apresentação 7                                                                                                                 | 22/04         |       --      |                                       ------
 
 <br>
 
@@ -162,3 +167,6 @@
 |      :--:    | :----: |     :-------:       | :-------:   |
 |   10/02/2022 |   1.0  |  Criação da Tabela  |[Adrian Soares](github.com/SwampTG)|
 |   12/02/2022 |   1.1  |Correção das imagens |[Adrian Soares](github.com/SwampTG)|
+|   22/04/2022 |   1.2  |Imagens ampliadas    |[Adrian Soares](github.com/SwampTG)|
+|   22/04/2022 |   1.3  |Primeira à Terceira Entregas |[Adrian Soares](github.com/SwampTG)|
+|   23/04/2022 |   1.3  |Quarta à Sétima Entregas |[Adrian Soares](github.com/SwampTG)|
