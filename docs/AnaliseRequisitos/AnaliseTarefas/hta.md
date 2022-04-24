@@ -48,7 +48,7 @@ Com isso em mente, membros do grupo realizaram acessos aos principais serviços 
 <center>
 <figcaption> Figura 1: Entrar em contato com a Prefeitura de Passo Fundo </figcaption>
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/correcao-doc-an-hier-tarefas/assets/img/contato_diag.png"/>
-<figcaption>  Fonte: Elaboração dos autores  </figcaption>
+<figcaption>  Fonte: Elaborado por Kayro César  </figcaption>
 </center>
 
 #### 3.1.2  Representação em tabela
@@ -64,7 +64,7 @@ Com isso em mente, membros do grupo realizaram acessos aos principais serviços 
 | 4. Preencher o captcha 4>5|  **Input**: letras e números iguais aos da imagem |
 | 5. Enviar informações|  **Action**: enviar dados do formulário ao destinatário|
 
-<figcaption>  Fonte: Elaboração dos autores  </figcaption>
+<figcaption>  Fonte: Elaborado por Kayro César  </figcaption>
 </center>
 
 
@@ -72,9 +72,9 @@ Com isso em mente, membros do grupo realizaram acessos aos principais serviços 
 ### 3.2 Imprimir guia de IPTU 
 #### 3.1.1 Representação em diagrama
 <center>
-<figcaption> Figura 2:  </figcaption>
-<img src=""/>
-<figcaption>  Fonte: Elaboração dos autores  </figcaption>
+<figcaption> Figura 2:  Imprimir guia de IPTU  </figcaption>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/correcao-doc-an-hier-tarefas/assets/img/imprimir-diag"/>
+<figcaption>  Fonte: Elaborado por Kayro César  </figcaption>
 </center>
 
 #### 3.1.2  Representação em tabela
@@ -89,9 +89,9 @@ Com isso em mente, membros do grupo realizaram acessos aos principais serviços 
 | 3. Acessar área de consulta e impressão 3>4| |
 | 4. Inserir dados do IPTU 4+5| **Input**: número da economia|
 | 5. Preencher o captcha 5>6|  **Input**: letras e números iguais aos da imagem  |
-| 6. Enviar informações|  **Action**: enviar dados para impressão|
+| 6. Imprimir documento|  **Action**: download de documento de IPTU|
 
-<figcaption>  Fonte: Elaboração dos autores  </figcaption>
+<figcaption>  Fonte: Elaborado por Kayro César  </figcaption>
 </center>
 
 
@@ -100,9 +100,9 @@ Com isso em mente, membros do grupo realizaram acessos aos principais serviços 
 #### 3.3.1 Representação em diagrama
 
 <center>
-<figcaption> Figura 3:  </figcaption>
-<img src=""/>
-<figcaption>  Fonte: Elaboração dos autores  </figcaption>
+<figcaption> Figura 3: Acessar notícias  </figcaption>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/correcao-doc-an-hier-tarefas/assets/img/noticias_diag"/>
+<figcaption>  Fonte: Elaborado por Kayro César  </figcaption>
 </center>
 
 #### 3.3.2  Representação em tabela
@@ -115,9 +115,7 @@ Com isso em mente, membros do grupo realizaram acessos aos principais serviços 
 | 1. Acessar o site da Prefeitura 1>2 | **Input**: endereço do site|
 | 2. Acessar a seção de notícias na página inicial 2/3| |
 | 3. Escolher a notícia desejada | **Action**: será redirecionado para a página da notícia escolhida|
-
-
-<figcaption>  Fonte: Elaboração dos autores  </figcaption>
+<figcaption>  Fonte: Elaborado por Kayro César  </figcaption>
 </center>
 
 
