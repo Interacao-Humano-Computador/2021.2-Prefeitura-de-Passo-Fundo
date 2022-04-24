@@ -79,15 +79,19 @@ Os objetivos estabelecidos no planejamento da avaliação foram Identificar prob
  De maneira geral, o participante conseguiu realizar todas as atividades propostas e classificou como "simples" o grau de dificuldade das tarefas como um todo. Ele relatou  ter se confundido no momento de acessar as notícias, uma vez que pensou que poderia clicar na palavra "últimas notícias" para acessar a página desejada. O participante também achou que poderia estar sendo redirecionado para outra página ao clicar na imagem maior da página inicial (o que não acontece ). Por fim, participante relatou que achou que o site possui muitas funcionalidades e que isso poderia dificultar um pouco para saber o que pode ou não fazer, porém ao aprender a fazer tal atividade uma vez, isso se tornaria mais fácil e simples.
 </p>
 
-#### 2.4.3 Descrição da avaliação com XXXXXXXXXXX
+#### 2.4.3 Descrição da avaliação com Jussara
 
 <p style="text-indent: 20px; text-align: justify"> 
-  A entrevista foi iniciada com o consentimento do participante acerca do termo de consentimento e com o espelhamento da tela do mesmo na página do protótipo de alta fidelidade. Antes do início da avaliação e conforme o roteiro estabelecido no planejamento, o participante respondeu que ...........
+  A entrevista foi iniciada com o consentimento do participante acerca do termo de consentimento e com o espelhamento da tela do mesmo na página do protótipo de alta fidelidade. Antes do início da avaliação e conforme o roteiro estabelecido no planejamento, o participante respondeu que que estava "neutro" em relação a familiaridade com o uso do site da prefeitura. Quanto à entrevista, a participante respondeu que conseguiu realizar todas as tarefas requisitadas pelo avaliador e que a interação foi extremamente simples, sendo intuitiva, exceto por uma confusão quanto a entrar em contato com a prefeitura. A usuária recrutada deu um feedback final positivo, achando o site bonito e planejado.
 </p>
 
-<p style="text-indent: 20px; text-align: justify"> </p>
+<p style="text-indent: 20px; text-align: justify"> 
+  Na avaliação com a Jussara, pode-se perceber que a interação foi muito mais fácil que a do protótipo de baixa fidelidade e que o mesmo nos ajudou a perceber muitas melhorias. As ações forma executadas de maneira muito mais veloz. A única confusão ocorreu para o envio de mensagens para a prefeitura pelo site. O avaliador percebeu que o nome "Formulário de Contato" pode não ser muito intuitiva para a etapa do envio de mensagem e poderia ter seu nome trocado para algo como "Envie uma Mensagem" ou "Entre em contato".
+</p>
 
-<p style="text-indent: 20px; text-align: justify"> </p>
+<p style="text-indent: 20px; text-align: justify">
+  Todas as outras atividades foram realizadas com facilidade.
+</p>
 
 
 
@@ -109,7 +113,7 @@ Os objetivos estabelecidos no planejamento da avaliação foram Identificar prob
 </p>
 
 <p style="text-indent: 20px; text-align: justify"> 
-  O participante xxxxxxx ......... 
+  A participante Jussara Alves Soares não relatou muitas dificuldades em nenhuma das atividades, exceto uma confusão sobre o envio de contato pelo site, que não possuía um nome intuitivo, mas que a mesma conseguiu notar o caminho correto logo em seguida. Uma outra confusão notada pelo avaliador foi a tentativa de clicar no ícone de acessar "últimas notícias", que não era clicável. Também foi notada uma rápida confusão para sair do modal de impressão do IPTU, por não possuir ícone de voltar.
 </p>
 
 ## 3. Conclusão
