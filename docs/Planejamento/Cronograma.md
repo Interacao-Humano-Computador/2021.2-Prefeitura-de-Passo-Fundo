@@ -41,10 +41,10 @@
 
  Nome                                                                                  | Tarefa(s)                                       | Data Prevista | Data entregue | Revisores
 -------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------- | ------------- | ----------------------------------------------------------------------------- 
- [Lorenzo](https://github.com/lorenzo7377)                                             | Storyboards                                     | 23/02         | 27/02         | [Kayro](https://github.com/kayrocesar) 
- [Magno](https://github.com/magnluiz) e [Adrian](https://github.com/SwampTG)           | Planejamento da Avaliação do Storyboard         | 23/02         | 27/02         | [Kayro](github.com/kayrocesar)
- [Kayro](https://github.com/kayrocesar) e [Kathlyn Lara](https://github.com/klmurussi) | Planejamento da Avaliação da Análise de tarefas | 20/02         | 27/02         | [Magno](https://github.com/magnluiz) e [Adrian](https://github.com/SwampTG) 
- Todos os membros                                                                      | Gravação da apresentação 4                      | 26/02         | 27/02         |                                       ------
+ [Lorenzo](https://github.com/lorenzo7377)                                             | Storyboards                                     | 23/02         | 16/03         | [Kayro](https://github.com/kayrocesar) 
+ [Magno](https://github.com/magnluiz) e [Adrian](https://github.com/SwampTG)           | Planejamento da Avaliação do Storyboard         | 23/02         | 16/03         | [Kayro](github.com/kayrocesar)
+ [Kayro](https://github.com/kayrocesar) e [Kathlyn Lara](https://github.com/klmurussi) | Planejamento da Avaliação da Análise de tarefas | 20/02         | 16/03         | [Magno](https://github.com/magnluiz) e [Adrian](https://github.com/SwampTG) 
+ Todos os membros                                                                      | Gravação da apresentação 4                      | 26/02         | 16/03         |                                       ------
 
 ### 2.5. Quinta entrega
 
