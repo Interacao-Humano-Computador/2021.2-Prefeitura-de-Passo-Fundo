@@ -53,7 +53,7 @@ Os objetivos estabelecidos no planejamento da avaliação foram Identificar prob
 
 - José de Paula Farid, servidor público de Passo Fundo, é uma persona que satisfaz o perfil de servidor público do município. A persona foi interpretada pelo aluno <a href="https://github.com/lorenzo7377">Lorenzo</a> e  recrutada pelo aluno <a href="https://github.com/kayrocesar">Kayro César</a>. A gravação está disponível [aqui](Avaliacao-alta-fid-jose.md).
 
-- XXXXXXXX, XXXXXXXXXXXXX, que satisfaz o perfil de usuário XXXXXXXXXXXXXXXXX. Foi recrutada pelo aluno <a href="https://github.com/SwampTG">Adrian Soares</a>. A gravação está disponível [aqui](Avaliacao-alta-fid-.md).
+- Jussara Alves Soares, Técnica em Enfermagem, que satisfaz o perfil de usuário de cidadã que utiliza serviços comuns às prefeituras, como a obtenção de documentos e informações. Foi recrutada pelo aluno <a href="https://github.com/SwampTG">Adrian Soares</a>. A gravação está disponível [aqui](https://youtu.be/kE5ZOOIGA8c).
 
 
 
