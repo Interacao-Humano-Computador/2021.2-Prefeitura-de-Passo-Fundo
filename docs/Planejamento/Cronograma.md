@@ -63,27 +63,27 @@
 ## 3. Visão Geral
 <figure>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/crono_geral1.png"/>
-    <figcaption> Figura 1: Primeiras entregas: Etapa 1 e perfil do usuário</figcaption>
+    <figcaption> Figura 1: Primeiras entregas: Etapa 1 e perfil do usuário. Para ver ampliado, <a href="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/crono_geral1.png">clique aqui</a>.</figcaption>
 </figure>
 
 <figure>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/crono_geral2.png"/>
-    <figcaption> Figura 2: Análise de requisitos</figcaption>
+    <figcaption> Figura 2: Análise de requisitos. Para ver ampliado, <a href="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/crono_geral2.png">clique aqui</a>.</figcaption>
 </figure>
 
 <figure>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/crono_geral3.png"/>
-    <figcaption> Figura 3: Storyboard e Protótipo de Papel</figcaption>
+    <figcaption> Figura 3: Storyboard e Protótipo de Papel. Para ver ampliado, <a href="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/crono_geral3.png">clique aqui</a>.</figcaption>
 </figure>
 
 <figure>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/crono_geral4.png"/>
-    <figcaption> Figura 4: Protótipo de Papel e de Alta Fidelidade / Verificação dos artefatos</figcaption>
+    <figcaption> Figura 4: Protótipo de Papel e de Alta Fidelidade / Verificação dos artefatos. Para ver ampliado, <a href="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/crono_geral4.png">clique aqui</a>.</figcaption>
 </figure>
 
 <figure>
     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/crono_geral5.png"/>
-    <figcaption> Figura 5: Fim do Projeto e Apresentação final</figcaption>
+    <figcaption> Figura 5: Fim do Projeto e Apresentação final. Para ver ampliado, <a href="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/crono_geral5.png">clique aqui</a>.</figcaption>
 </figure>
 
 ## 4. Tarefas e responsáveis
