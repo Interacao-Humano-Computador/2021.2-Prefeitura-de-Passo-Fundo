@@ -33,7 +33,7 @@ Os objetivos estabelecidos no planejamento da avaliação foram identificar prob
    <li>Que parte da interface e da interação com  o protótipo de papel deixa os usuários insatisfeitos?</li>
    <li>Os usuários entendem o que significa e para que serve cada elemento de interface  no protótipo de papel?</li>  
    <li>Os usuários entendem o que devem fazer em seguida?</li>
-   <li> Qual das alternativas é a mais eficiente? Mais fácil de aprender?(protótipo de papel ou site original da Prefeitura)</li>
+   <li> Qual das alternativas é a mais eficiente? Protótipo de papel ou site original da Prefeitura?</li>
 </ul>
 
 ## 2.3 Descrição do método de prototipação em papel
@@ -75,7 +75,6 @@ Para a tarefa de acesso à ouvidoria, estando na página de guias, a usuária re
  <p style="text-indent: 20px; text-align: justify"> 
 Ao fim da avaliação a participante relatou que conseguiu realizar todas as atividades propostas, porém com alguma dificuldade em se localizar nas telas (o que relatou como Neutro) e relatou confusão em nas atividades, como relatado anteriormente. Ela se considerou uma usuária com experiência "Neutra" em sites de prefeitura, utilizando algumas funcionalidades.</p>
 
-<!-- -->
 
 ## 2.5 Tarefas executadas pelos participantes
 <ul>
@@ -98,10 +97,21 @@ Ao fim da avaliação a participante relatou que conseguiu realizar todas as ati
 
 
 
+## 3. Conclusão
 
+<p style="text-indent: 20px; text-align: justify"> 
+  A partir da avaliações realizadas podemos responder às perguntas inicialmente estabelecidas a fim de chegar a uma conclusão acerca da avaliação do protótipo de papel. 
+</p>
 
-
-
+<ul>
+<b><li> Os usuários conseguem operar o protótipo de papel? </b><br>De maneira geral, os participantes conseguiram operar o protótipo de baixa fidelidade, mas com alguma dificuldade para encontrar os hyperlinks(correção é necessária)</li> 
+   <b><li>Eles atingem seus objetivos ao utilizar o protótipo de papel?</b><br> Sim, eles conseguiram alcançar seus objetivos(mesmo com algum problema ou outro no caminho). </li>
+   <b><li>Que parte da interface e da interação com  o protótipo de papel deixa os usuários insatisfeitos?</b><br> Existem dificuldades na identificação de links para outras páginas</li>
+   <b><li>Os usuários entendem o que significa e para que serve cada elemento de interface  no protótipo de papel? </b> <br>De maneira geral, os participantes entenderam o que significa cada elemento e a finalidade do mesmo.</li> 
+   <b><li>Os usuários entendem o que devem fazer  em seguida?</b> <br>De maneira geral, os participantes entenderam os passos a serem realizados, exceto quando era necessário retornar de páginas.</li>
+   <b><li> Qual das alternativas é a mais eficiente? Protótipo de papel ou site original da Prefeitura?</b> <br>A partir de avaliações anteriores e da atual, podemos concluir que a experiencia no protótipo de baixa fidelidade é mais satisfatória que a do site original (versão antiga).</li>
+  
+</ul>
 
 
 

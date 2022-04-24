@@ -120,20 +120,7 @@ O documento de relato dos resultados a ser produzido deverá possuir os seguinte
 
 - Tarefas executadas pelos participantes
 
-- Lista de problemas de usabilidade corrigidos durante os ciclos de avaliação e reprojeto, indicando:
-      - Local onde ocorreu
-      - Fatores de usabilidade prejudicados
-      - Descrição e justificativa do problema
-      - Correção realizada no protótipo em papel
-      - Indicação se o problema voltou a ocorrer depois da correção  
-
-- Lista dos problemas de usabilidade ainda não corrigidos, indicando
-      - Local onde ocorreu
-      - Fatores de usabilidade prejudicados
-      - Descrição e justificativa do problema
-      - Prioridade para correção
-      - Indicações de partes do sistema que podem ser mais bem elaboradas
-        
+- Lista de problemas de usabilidade encontrados
 
 
 
