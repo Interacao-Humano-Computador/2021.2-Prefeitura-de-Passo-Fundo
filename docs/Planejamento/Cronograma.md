@@ -58,7 +58,13 @@
 
 ### 2.2. Sexta entrega
 
-
+ Nome                                     | Tarefa(s)                                                                                                                                                                                      | Data Prevista | Data entregue | Revisores
+----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------- | ----------------------------------------------- 
+ [Lorenzo](https://github.com/lorenzo7377)| Verificação Storyboards, Verificação Guia de Estilo                                                                                                                                            | 08/03         | 12/03         | [Kayro](https://github.com/kayrocesar) e [Adrian](https://github.com/SwampTG)
+ [Magno](https://github.com/magnluiz)     | Verificação Planejamento e relato da avaliação da análise de tarefas, Verificação Análise de Tarefas                                                                                           | 08/03         | 12/03         | [Kayro](github.com/kayrocesar) 
+ [Adrian](https://github.com/SwampTG)     | Verificação Princípios Gerais de Projeto, Verificação Metas de Usabilidade                                                                                                                     | 20/02         | 12/03         | [Kayro](github.com/kayrocesar) e [Lorenzo](https://github.com/lorenzo7377)
+ [Kayro](https://github.com/kayrocesar)   | Planejamento da Verificação, Verificação Personas, Verificação do Planejamento e relato da avaliação dos Storyboard ,  Verificação do Planejamento e relato da avaliação do Protótipo de Papel | 26/02         | 12/03         | [Magno](https://github.com/magnluiz) e [Lorenzo](https://github.com/lorenzo7377)
+ Todos os membros                         | Gravação da apresentação 6                                                                                                                                                                     | 29/03         | 30/03         |                                       ------
 
 ### 2.2. Sétima entrega
 
