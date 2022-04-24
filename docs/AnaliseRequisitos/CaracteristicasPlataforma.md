@@ -72,7 +72,7 @@
 <br><br>
 <center>
 <figcaption>Figura 6: Formulário de Contato com a Prefeitura</figcaption>
-<img src="">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/doc-carac-plataforma/assets/img/formulario_de_contato_fala_cidadao.PNG">
 <figcaption>Fonte: Site Prefeitura de Passo Fundo</figcaption>
 </center>
 
