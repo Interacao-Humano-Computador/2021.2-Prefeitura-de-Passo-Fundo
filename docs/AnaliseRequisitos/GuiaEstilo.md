@@ -59,7 +59,7 @@ Ao acessar o site, o usuário encontra informações dispostas na referência do
 O grid está apresentado de  forma  confusa em alguns menus, porque eles realizam ações parecidas. A guia de serviços, guia de covid e opções da prefeitura possuem ações muito parecidas e são próximas uma da outra, o que pode causar a desorientação ao usuário.
 </p>
 <div style="text-align:center">
-<figcaption class="figure-caption text-center">Figura 1: Disposição espacial e grid v1</figcaption>
+<figcaption class="figure-caption text-center">Figura 1: Disposição espacial e grid </figcaption>
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/grid.png" width=350>
 <figcaption class="figure-caption text-center">Fonte: Elaboração dos autores</figcaption>
 </div >
@@ -69,8 +69,8 @@ O grid está apresentado de  forma  confusa em alguns menus, porque eles realiza
 O grid foi reestruturado,com a finalidade de remover ambiguidades detectadas na versão antiga. 
 </p>
 <div style="text-align:center">
-<figcaption class="figure-caption text-center">Figura 2: Disposição espacial e grid v2 </figcaption>
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/grid2.png" width=350>
+<figcaption class="figure-caption text-center">Figura 2: Disposição espacial e grid  </figcaption>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/att-guia-estilo/assets/img/grid2.png" width=350>
 <figcaption class="figure-caption text-center">Fonte: Elaboração dos autores</figcaption>
 </div >
 
@@ -108,11 +108,11 @@ O site está disposto de diversas janelas informativas, as funcionalidades que s
   O protótipo possui como fonte principal a Berlow Thin, utilizada com algumas variações de tamanho. A figura 4 apresenta os símbolos  tipográficos utilizados no site da Prefeitura.
 </p>
 
-
+jhjhjhj
 
 <div style="text-align:center">
 <figcaption class="figure-caption text-center">Figura 4: Símbolos tipográficos </figcaption>
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/tipografia2.PNG" width=200>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/att-guia-estilo/assets/img/tipografia2.PNG" width=200>
 <figcaption class="figure-caption text-center">Fonte: Elaboração dos autores </figcaption>
 
 </div >
