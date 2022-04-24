@@ -46,8 +46,8 @@ Com isso em mente, membros do grupo realizaram acessos aos principais serviços 
 ### 3.1 Entrar em contato com a Prefeitura de Passo Fundo
 #### 3.1.1 Representação em diagrama
 <center>
-<figcaption> Figura 1:  </figcaption>
-<img src=""/>
+<figcaption> Figura 1: Entrar em contato com a Prefeitura de Passo Fundo </figcaption>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/correcao-doc-an-hier-tarefas/assets/img/contato_diag.png"/>
 <figcaption>  Fonte: Elaboração dos autores  </figcaption>
 </center>
 
