@@ -28,16 +28,20 @@ Utilizaremos Kanban por meio do software Trello, organizando cards e zonas. Com 
 
 | Ícone |  Ferramenta  |  Para que serve  | 
 | :-: | :-: | :-: |
+|<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/canva.png" width="100">| Canvas | Plataforma de criação de slides online |
 |<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/logo-github.jpg" width="100">| GitHub | Plataforma de hospedagem de documentos com controle de versão utilizando Git, através dela que resolvemos as issues |
 |<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/logo-whatsapp.jpg" width="50">| Whatsapp | Principal ferramenta de comunicação, onde discutimos sobre o projeto e a matéria |
-|<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/logo-trello.jpg" width="80">| Trello | Aplicativo de gerenciamento de projeto, onde decidimos o que é pra fazer, o que estamos fazendo e o que está concluído |
 |<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/logo-discord.png" width="50">| Discord | Aplicativo de voz, usamos para nos reunir e decidir o que fazer na próxima sprint |
 |<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/logo-teams.png" width="45">| Teams | Ferramenta utilizada para gravação de apresentações   |
 |<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/logo-mkdocs.png" width="50">| Mkdocs | Ferramenta utilizada para contruir a Wiki do projeto   |
 |<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/logo-vscode.png" width="40">| Visual Studio Code  | Ferramenta utilizada edição dos códigos do projeto|
 |<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/logo-sheets.png" width="30">| Google Sheets | Ferramenta utilizada para elaborar planilhas   |
+|<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/drive.png" width="30">| Google drive | Ferramenta utilizada para compartilhamento de arquivos   |
 |<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/logo-figma.png" width="30">| Figma | Ferramenta utilizada para contruir interfaces de interação com usuário   |
-|<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/logo-invision.png" width="40">| InVision | Ferramenta utilizada elaborar protótipos   |
+|<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/pmpf.png" width="30">| Site da prefeitura de Passo Fundo | Site a ser analisado no projeto |
+|<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/storyboardthat.png" width="30">| Storyboard that | Ferramenta utilizada para contruir storyboards  |
+|<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/whatfont.png" width="30">| What font? | Ferramenta utilizada para buscar por fontes  |
+|<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/word.png" width="30">| Microsoft Word | Ferramenta utilizada para a redação de documentos |
 
 <figcaption>Tabela 1- Ferramentas utilizadas.</figcaption>
 
@@ -51,7 +55,8 @@ Utilizaremos Kanban por meio do software Trello, organizando cards e zonas. Com 
  | 12/02/2022 |    1.3     | Retirada da lista de ferramentas pra colocar no documento de metodologia |    [Kathlyn Lara](github.com/klmurussi)   |
  |   12/02/2022 |   1.4  | Adição da lista de ferramentas | [Kathlyn Lara](github.com/klmurussi) |
 |   12/02/2022 |   1.5  | Correção do link das imagens | [Magno Luiz](github.com/magnluiz) |
- | 12/02/2022 |    1.6     | Alteração do link da imagem da logo |    [Lorenzo Santos](github.com/lorenzo7377)    |
+ | 12/02/2022 |    1.6     | Alteração do link da imagem da logo |    [Lorenzo Santos](github.com/lorenzo7377)    
+ | 24/02/2022 |    1.7     | Alteração das ferramentas |    [Lorenzo Santos](github.com/lorenzo7377)    |
 
 
 
