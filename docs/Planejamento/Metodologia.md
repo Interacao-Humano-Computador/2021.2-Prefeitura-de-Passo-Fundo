@@ -28,6 +28,7 @@ Utilizaremos Kanban por meio do software Trello, organizando cards e zonas. Com 
 
 | Ícone |  Ferramenta  |  Para que serve  | 
 | :-: | :-: | :-: |
+|<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/canva.png" width="100">| Canvas | Plataforma de criação de slides online |
 |<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/logo-github.jpg" width="100">| GitHub | Plataforma de hospedagem de documentos com controle de versão utilizando Git, através dela que resolvemos as issues |
 |<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/logo-whatsapp.jpg" width="50">| Whatsapp | Principal ferramenta de comunicação, onde discutimos sobre o projeto e a matéria |
 |<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/logo-discord.png" width="50">| Discord | Aplicativo de voz, usamos para nos reunir e decidir o que fazer na próxima sprint |
@@ -35,7 +36,12 @@ Utilizaremos Kanban por meio do software Trello, organizando cards e zonas. Com 
 |<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/logo-mkdocs.png" width="50">| Mkdocs | Ferramenta utilizada para contruir a Wiki do projeto   |
 |<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/logo-vscode.png" width="40">| Visual Studio Code  | Ferramenta utilizada edição dos códigos do projeto|
 |<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/logo-sheets.png" width="30">| Google Sheets | Ferramenta utilizada para elaborar planilhas   |
+|<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/drive.png" width="30">| Google drive | Ferramenta utilizada para compartilhamento de arquivos   |
 |<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/logo-figma.png" width="30">| Figma | Ferramenta utilizada para contruir interfaces de interação com usuário   |
+|<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/pmpf.png" width="30">| Site da prefeitura de Passo Fundo | Site a ser analisado no projeto |
+|<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/storyboardthat.png" width="30">| Storyboard that | Ferramenta utilizada para contruir storyboards  |
+|<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/whatfont.png" width="30">| What font? | Ferramenta utilizada para buscar por fontes  |
+|<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/word.png" width="30">| Microsoft Word | Ferramenta utilizada para a redação de documentos |
 
 <figcaption>Tabela 1- Ferramentas utilizadas.</figcaption>
 
