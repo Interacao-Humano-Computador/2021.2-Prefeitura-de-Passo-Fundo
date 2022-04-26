@@ -6,6 +6,8 @@
 
 
 ## Sites analisados pelos integrantes do grupo
+<center>
+<figcaption>Tabela 1 - Sites analisados </figcaption> 
 
  |                          **Logo**                          |                      **Nome**                       | **Informação**                                                                                                                                                                                           |
  | :--------------------------------------------------------: | :-------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -16,7 +18,8 @@
  |  ![image info](https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/logo-passo-fundo.png)  |  [Prefeitura de Passo Fundo](http://www.pmpf.rs.gov.br/)   | O site da Prefeitura do município de Passo Fundo dispõe de serviços públicos e notícias para servidores públicos municipais e para a população local em geral.                                                         |
 
 
-<figcaption>Tabela 1 - Sites analisados </figcaption> 
+<figcaption>Fonte: elaboração dos autores </figcaption> 
+</center>
 <br>
 <br>
 

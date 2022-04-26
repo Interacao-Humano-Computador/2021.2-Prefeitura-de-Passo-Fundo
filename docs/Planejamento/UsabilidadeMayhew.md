@@ -26,14 +26,14 @@ Utilizaremos em nosso projeto o processo de Engenharia De Usabilidade de Mayhew,
 <p style="text-indent: 20px; text-align: justify">O Ciclo de Vida de Mayhew possui três etapas: a primeira é a <b>analise de requisitos</b>, em seguida <b>design, avaliação e desenvolvimento</b> e  a <b>instalação</b>. A figura 1 apresenta as três etapas desse processo iterativo:
 
 </p>
-
+<center>
   
   <figcaption>Figura 1 - Ciclo de vida de Mayhew</figcaption>
 
    ![Mayhem](https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/mayhew.png)
 
   <figcaption> Fonte: BARBOSA,SILVA (p.120) </figcaption>
-  
+</center>
 
 
 <br>

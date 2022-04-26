@@ -61,7 +61,7 @@ O documento em questão apresenta a inspeção do artefato <a href="https://inte
 <br>
 <center>
 <figcaption> Figura 1: Checklist em gráfico do Planejamento da Avaliação dos Storyboards</figcaption>
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/ver_planejamento_relato_storyboards/assets/img/graf_planejamento_av_storyboard.PNG">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/graf_planejamento_av_storyboard.PNG">
 <figcaption> Fonte: Elaboração dos autores  </figcaption>
 </center>
 
@@ -69,7 +69,7 @@ O documento em questão apresenta a inspeção do artefato <a href="https://inte
 <br>
 <center>
 <figcaption> Figura 2: Checklist em gráfico do Relato de Resultados da Avaliação dos Storyboards</figcaption>
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/ver_planejamento_relato_storyboards/assets/img/graf_relato_av_storyboard.PNG">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/graf_relato_av_storyboard.PNG">
 <figcaption> Fonte: Elaboração dos autores  </figcaption>
 </center>
 <br>

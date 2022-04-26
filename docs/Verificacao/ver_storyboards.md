@@ -28,7 +28,7 @@ O documento em questão apresenta a inspeção do artefato de <a href="https://i
 
 <center>
 <figcaption> Figura 1: Checklist em gráfico de storyboards </figcaption>
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/a3c3df2cfa4a5566847320196f4484071e6fa74b/assets/img/grafico_Storyboard.PNG">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/grafico_Storyboard.PNG">
 <figcaption> Fonte: Elaboração dos autores  </figcaption>
 </center>
 

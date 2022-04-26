@@ -35,7 +35,7 @@ O documento em questão apresenta a inspeção do artefato <a href="https://inte
 
 <center>
 <figcaption> Figura 1: Checklist em gráfico Personas </figcaption>
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/ver_personas/assets/img/graf_personas.PNG">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2021.2-Prefeitura-de-Passo-Fundo/main/assets/img/graf_personas.PNG">
 <figcaption> Fonte: Elaboração dos autores  </figcaption>
 </center>
 
